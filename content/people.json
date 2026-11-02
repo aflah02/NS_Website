@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Krishna P. Gummadi",
+    "role": "Scientific Director · Group Head",
+    "category": "leadership",
+    "interests": "Social computing, responsible AI, and Internet-scale systems",
+    "url": "https://people.mpi-sws.org/~gummadi/",
+    "image": "krishna.jpg",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Soumi Das",
+    "role": "Postdoctoral Researcher",
+    "category": "postdoc",
+    "interests": "LLM knowledge, language learning, and privacy",
+    "url": "https://soumidas.github.io/",
+    "image": "soumi.jpg",
+    "source": "https://soumidas.github.io/"
+  },
+  {
+    "name": "Bishwamittra Ghosh",
+    "role": "Postdoctoral Researcher",
+    "category": "postdoc",
+    "interests": "Language learning and LLM memorization",
+    "url": "https://people.mpi-sws.org/~bghosh/",
+    "image": "bishwamittra.jpg",
+    "source": "https://www.mpi-sws.org/people/bghosh/"
+  },
+  {
+    "name": "Seungeon Lee",
+    "role": "Postdoctoral Researcher",
+    "category": "postdoc",
+    "interests": "Agentic LLM systems and tool use",
+    "url": "https://sites.google.com/view/seungeon-lee",
+    "image": "seungeon.jpg",
+    "source": "https://sites.google.com/view/seungeon-lee"
+  },
+  {
+    "name": "Mohammad Aflah Khan",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "LLM evaluation, memorization, and efficient systems",
+    "url": "https://aflah02.github.io/",
+    "image": "aflah.jpg",
+    "source": "https://aflah02.github.io/"
+  },
+  {
+    "name": "Mahsa Amani",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "Information retrieval, agentic AI, and tool use",
+    "url": "https://mahsaama.github.io/",
+    "image": "mahsa.jpg",
+    "source": "https://mahsaama.github.io/"
+  },
+  {
+    "name": "Qinyuan Wu",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "LLM knowledge, memory, and agent behavior",
+    "url": "https://qinyuanwu0710.github.io/",
+    "source": "https://qinyuanwu0710.github.io/",
+    "image": "qinyuan.jpg"
+  },
+  {
+    "name": "Camila Kolling",
+    "role": "Doctoral Student · Co-advised",
+    "category": "phd",
+    "interests": "Machine learning, neuroscience, and representations",
+    "url": "https://camilakolling.github.io/",
+    "image": "camila.jpg",
+    "source": "https://camilakolling.github.io/"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Till Speicher",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "destination": "Aleph Alpha",
+    "destinationRole": "AI Researcher",
+    "destinationType": "Current destination",
+    "url": "https://tillspeicher.com/",
+    "source": "https://tillspeicher.com/",
+    "note": "First post-MPI appointment not specified in the source."
+  },
+  {
+    "name": "Preethi Lahoti",
+    "kind": "phd",
+    "formerRole": "PhD researcher · MPI-INF",
+    "destination": "Google Research, Zurich",
+    "destinationRole": "Research Scientist",
+    "destinationType": "First destination",
+    "url": "https://www.plahoti.de/about-me",
+    "source": "https://www.plahoti.de/about-me",
+    "note": "Co-advised with Gerhard Weikum. Joined Google Research in April 2022."
+  },
+  {
+    "name": "Asia J. Biega",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "Ph.D. student (coadivised with Gerhard Weikum)",
+    "destinationRole": "Postdoctoral Researcher",
+    "destination": "Microsoft Research Montreal",
+    "destinationType": "First destination",
+    "url": "https://asiabiega.com/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Przemyslaw Grabowicz",
+    "kind": "postdoc",
+    "formerRole": "Postdoctoral researcher",
+    "note": "",
+    "destinationRole": "Research Assistant Professor",
+    "destination": "University of Massachusetts, Amherst",
+    "destinationType": "First destination",
+    "url": "https://przemyslslaw.github.io/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Muhammad Bilal Zafar",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "",
+    "destinationRole": "Research Engineer",
+    "destination": "Bosch Center for Artificial Intelligence",
+    "destinationType": "First destination",
+    "url": "https://people.mpi-sws.org/~mzafar/",
+    "source": "https://people.mpi-sws.org/~gummadi/",
+    "current": "Professor · Ruhr University Bochum",
+    "currentSource": "https://people.mpi-sws.org/~mzafar/"
+  },
+  {
+    "name": "Juhi Kulshrestha",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "",
+    "destinationRole": "Postdoctoral Researcher",
+    "destination": "Leibniz Institute for Social Sciences",
+    "destinationType": "First destination",
+    "url": "https://www.aalto.fi/en/people/juhi-kulshrestha",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Mainack Mondal",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "",
+    "destinationRole": "Postdoctoral Researcher",
+    "destination": "University of Chicago",
+    "destinationType": "First destination",
+    "url": "https://www.mpi-sws.org/people/mainack/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Rijurekha Sen",
+    "kind": "postdoc",
+    "formerRole": "Postdoctoral researcher",
+    "note": "postdoctoral researcher (coadvised with Peter Druschel)",
+    "destinationRole": "Assistant Professor",
+    "destination": "IIT Delhi",
+    "destinationType": "First destination",
+    "url": "https://homecse.iitd.ac.in/team/rijurekha-sen/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Oana Goga",
+    "kind": "postdoc",
+    "formerRole": "Postdoctoral researcher",
+    "note": "",
+    "destinationRole": "Researcher",
+    "destination": "CNRS",
+    "destinationType": "First destination",
+    "url": "https://www.mpi-sws.org/people/ogoga/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Saptarshi Ghosh",
+    "kind": "postdoc",
+    "formerRole": "Postdoctoral researcher",
+    "note": "",
+    "destinationRole": "Assistant Professor",
+    "destination": "IIT Kharagpur",
+    "destinationType": "First destination",
+    "url": "https://cse.iitkgp.ac.in/~saptarshi/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Denzil Correa",
+    "kind": "postdoc",
+    "formerRole": "Postdoctoral researcher",
+    "note": "",
+    "destinationRole": "Data Scientist",
+    "destination": "Bayer Business Services",
+    "destinationType": "First destination",
+    "url": "https://www.mpi-sws.org/people/denzil/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Bimal Viswanath",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "Ph.D. student (coadvised with Alan Mislove)",
+    "destinationRole": "Researcher",
+    "destination": "Bell Labs",
+    "destinationType": "First destination",
+    "url": "https://www.mpi-sws.org/people/xbviswana-/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Nuno Santos",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "Ph.D. student (coadvised with Rodrigo Rodrigues)",
+    "destinationRole": "Assistant Professor",
+    "destination": "IST Lisbon",
+    "destinationType": "First destination",
+    "url": "https://www.mpi-sws.org/people/xnsantos-/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Massimiliano Marcon",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "",
+    "destinationRole": "Software Engineer",
+    "destination": "SAP",
+    "destinationType": "First destination",
+    "url": "https://www.mpi-sws.org/people/xmmarcon-/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Marcel Dischinger",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "",
+    "destinationRole": "Senior Software Engineer",
+    "destination": "Barracuda Networks",
+    "destinationType": "First destination",
+    "url": "https://people.mpi-sws.org/~mdischin/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Meeyoung Cha",
+    "kind": "postdoc",
+    "formerRole": "Postdoctoral researcher",
+    "note": "",
+    "destinationRole": "Assistant Professor",
+    "destination": "KAIST",
+    "destinationType": "First destination",
+    "url": "https://www.mpi-sws.org/people/xmcha-/",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  },
+  {
+    "name": "Alan Mislove",
+    "kind": "phd",
+    "formerRole": "PhD researcher",
+    "note": "Ph.D. student (coadvised with Peter Druschel)",
+    "destinationRole": "Assistant Professor",
+    "destination": "Northeastern University",
+    "destinationType": "First destination",
+    "url": "https://www.ccs.neu.edu/home/amislove",
+    "source": "https://people.mpi-sws.org/~gummadi/"
+  }
+]
