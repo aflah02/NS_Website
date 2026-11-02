@@ -32,4 +32,4 @@ The per-entry Source link supports the placement. The name links to a public pro
 
 The implementation is ready to build and deploy. The group can refine the selected people roster, add omitted recent papers, and approve the research-area wording using the JSON content files. The Sources page preserves provenance and the distinction between current versus historical facts. Institute imprint and data-protection URLs link to the published MPI-SWS information; the host operator should ensure those institutional pages cover the final chosen domain.
 
-The visual network is an original conceptual illustration. It encodes no measured data or citation counts.
+The visual identity uses the n/s wordmark, a numbered navigation index, and self-hosted IBM Plex typography. The homepage presents actual research papers from different periods rather than an illustrative network graph.

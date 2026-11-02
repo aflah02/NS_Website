@@ -13,4 +13,6 @@ Portraits are used only in the corresponding researchers’ profile cards, witho
 | `aflah.jpg` | https://aflah02.github.io/images/avatar.jpg |
 | `qinyuan.jpg` | https://qinyuanwu0710.github.io/assets/img/qinyuan.JPG |
 
-The network illustration, favicon, and brand mark are original SVG artwork. Typography uses device fonts; no external font services or bundled font licenses are required.
+The n/s wordmark and favicon are original typographic artwork.
+
+Typography uses self-hosted IBM Plex Sans, IBM Plex Sans Condensed, and IBM Plex Mono, downloaded from Google Fonts and subset for this site. All three are licensed under the SIL Open Font License 1.1; the license is bundled at `assets/fonts/OFL.txt`. No font requests are made to external services by visitors.

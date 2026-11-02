@@ -51,6 +51,10 @@ for path, doc in docs.items():
         local_refs += 1
 
 pubs = json.loads((ROOT/'content/publications.json').read_text())
+for stylesheet in (OUT/'assets').glob('*.css'):
+    for ref in re.findall(r'url\([\x22\x27]?([^\x22\x27)]+)',stylesheet.read_text()):
+        if not urlsplit(ref).scheme and not (stylesheet.parent/ref).is_file():
+            errors.append(f'{stylesheet.name}: missing stylesheet asset {ref}')
 ids = set()
 for p in pubs:
     for field in ('id', 'title', 'authors', 'year', 'venue', 'topics', 'url', 'source', 'status'):

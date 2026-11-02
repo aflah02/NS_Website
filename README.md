@@ -4,7 +4,7 @@ A portable research-group website for Krishna P. Gummadi’s group at the Max Pl
 
 ## Preview locally
 
-Python 3.10 or newer is the only build requirement. There are no packages to install, runtime services, analytics, external fonts, or API keys.
+Python 3.10 or newer is the only build requirement. There are no packages to install, runtime services, analytics, external font requests, or API keys.
 
 ```sh
 python3 scripts/build.py
@@ -29,7 +29,7 @@ All links are relative: the site works under `/NS_Website/`, on an MPI server, o
 - Home, Research, Publications, People, Alumni, Resources, Contact, Sources, and Privacy pages, plus a 404 page.
 - 122 sourced publication records from 2000–2026, with title/author/venue search, research-area filters, year filters, publication-type filters, shareable filter URLs, citation dialogs, clipboard copy, and a downloadable BibTeX bibliography.
 - A dedicated searchable alumni page with 17 profiles, first post-MPI destinations, source links, and explicit labels where a destination is current rather than first.
-- Responsive navigation, local portraits, keyboard focus states, reduced-motion support, semantic HTML, and content that remains readable without JavaScript.
+- A numbered navigation rail, self-hosted IBM Plex typography, paper-led overview, local portraits, keyboard focus states, reduced-motion support, semantic HTML, and content that remains readable without JavaScript.
 - A dependency-free static generator and validation command, with GitHub Actions integration.
 
 ## Edit the content
