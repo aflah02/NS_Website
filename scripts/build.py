@@ -33,7 +33,7 @@ def header(page):
     </div></header>'''
 
 def footer():
-    return '''<footer class="site-footer"><div class="container footer-inner"><p>Networked Systems Research Group<br><a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems ↗</a></p><div><a href="https://imprint.mpi-klsb.mpg.de/sws/www.mpi-sws.org">Imprint</a><a href="privacy.html">Privacy</a><span>© 2026</span></div></div></footer>'''
+    return '''<footer class="site-footer"><div class="container footer-inner"><div><a href="https://imprint.mpi-klsb.mpg.de/sws/www.mpi-sws.org">Imprint</a><a href="privacy.html">Privacy</a><span>© 2026</span></div></div></footer>'''
 
 def layout(page,title,description,body):
     return f'''<!doctype html>
@@ -153,7 +153,6 @@ def alumni():
         rows.append(f'''<article class="alumni-row"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p>{co_advisor}</div>{placement}</article>''')
     return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title">
     <div class="people-heading"><h2 id="alumni-title">Alumni</h2></div>
-    <div class="alumni-context"><p>First destinations after MPI are highlighted where known.</p></div>
     <div class="alumni-list">{''.join(rows)}</div>
     </section>'''
 
