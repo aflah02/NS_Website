@@ -30,21 +30,17 @@ Coverage is bounded by the public bibliographies reviewed. The static site has n
 
 ## Alumni
 
-The original homepage explicitly describes its alumni list as “with their first employment.” These historical destinations are preserved for 15 former PhD/postdoctoral researchers, including co-advised researchers. They are not labeled as current roles.
+The original homepage explicitly describes its alumni list as “with their first employment.” These historical destinations are preserved for 15 former PhD/postdoctoral researchers, including co-advised researchers.
 
-- [Till Speicher](https://tillspeicher.com/) explicitly states that he completed his PhD with Krishna and works as an AI researcher at Aleph Alpha. This is labeled **Current destination**, because the source does not establish it as his first post-MPI employment.
 - [Preethi Lahoti](https://www.plahoti.de/about-me) describes her MPI-INF PhD, co-advised by Gerhard Weikum and Krishna, and announces joining Google Research in April 2022. This supports her **First destination** entry. The degree-conferral month is not inferred from her employment start.
-- [Muhammad Bilal Zafar](https://people.mpi-sws.org/~mzafar/) describes his current professorship at Ruhr University Bochum and prior roles at AWS and Bosch. His original Bosch first placement is retained, with the current academic appointment added separately.
-
-- [Abhisek Dash](https://www.mpi-sws.org/people/adash/) is a research group leader at MPI-SWS.
-- [Vedant Nanda’s CV](https://nvedant07.github.io/cv/cv.pdf) records Aleph Alpha Research as his first post-PhD role and Mistral AI as his current employer.
+- [Vedant Nanda’s CV](https://nvedant07.github.io/cv/cv.pdf) records Aleph Alpha Research as his first post-PhD role.
 - [Junaid Ali](https://joniali.github.io/) is an AI Scientist at the European Commission’s Joint Research Centre. [His public announcement](https://es.linkedin.com/in/junaidali89) identifies this as his first post-PhD role.
-- Vabuk Pahari and Sepehr Mousavi are listed as alumni per the group’s roster update. Their post-group destinations are pending confirmation.
+- First appointments remain unconfirmed for Abhisek Dash, Till Speicher, Vabuk Pahari, and Sepehr Mousavi.
 
 Alumni names link to public profiles. Supporting references are recorded in the alumni data.
 
 ## Editorial review before the group’s final public launch
 
-The content files preserve the sources for historical placements and current appointments. Institute imprint and data-protection URLs link to the published MPI-SWS information; the host operator should ensure those institutional pages cover the final chosen domain.
+The content files preserve the sources for first appointments. Institute imprint and data-protection URLs link to the published MPI-SWS information; the host operator should ensure those institutional pages cover the final chosen domain.
 
 The visual identity uses the n/s wordmark, a navigation rail, and self-hosted IBM Plex typography. The homepage presents actual research papers from different periods rather than an illustrative network graph.

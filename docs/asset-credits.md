@@ -12,11 +12,6 @@ Portraits are used only in the corresponding researchers’ profile cards, witho
 | `camila.jpg` | https://www.mpi-sws.org/people/ckolling/Camila-Kolling.jpg |
 | `aflah.jpg` | https://aflah02.github.io/images/avatar.jpg |
 | `qinyuan.jpg` | https://qinyuanwu0710.github.io/assets/img/qinyuan.JPG |
-| `abhisek.jpg` | https://www.mpi-sws.org/people/adash/Abhisek-Dash.jpg |
-| `vedant.jpg` | https://nvedant07.github.io/img/ava.jpg |
-| `junaid.jpg` | https://www.mpi-sws.org/people/junaid/Junaid-Ali.jpg |
-| `vabuk.jpg` | https://vpahari.github.io/img/vpahari.jpg |
-| `sepehr.jpg` | https://sepehrmousavi.github.io/src/me2.jpg |
 | `shounak.jpg` | https://www.mpi-sws.org/people/shpaul/Shounak-Paul.jpg |
 | `tomas.jpg` | https://www.mpi-sws.org/people/tkoref/Tomas-Koref.jpg |
 | `nakyeong.jpg` | https://www.mpi-sws.org/people/nyang/Nakyeong-Yang.jpg |
