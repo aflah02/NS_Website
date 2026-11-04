@@ -146,7 +146,7 @@ def alumni():
         portrait = f'<img class="alumni-portrait" src="assets/{e(p["image"])}" alt="{e(p["name"])}" width="60" height="60" loading="lazy">' if p.get('image') else ''
         destination_label = f'<span class="eyebrow">{e(p["destinationType"])}</span>' if p.get('destinationType') else ''
         destination_role = f'<p>{e(p["destinationRole"])}</p>' if p.get('destinationRole') else ''
-        rows.append(f'''<article class="alumni-row"><div class="alumni-name">{portrait}<div><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination">{destination_label}<h4>{e(p['destination'])}</h4>{destination_role}{current}</div><div class="alumni-source">{link(p['source'],'Source','subtle-link')}</div></article>''')
+        rows.append(f'''<article class="alumni-row"><div class="alumni-name">{portrait}<div><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination">{destination_label}<h4>{e(p['destination'])}</h4>{destination_role}{current}</div></article>''')
     return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title">
     <div class="people-heading"><h2 id="alumni-title">Alumni</h2></div>
     <div class="alumni-context"><p>“First destination” means the first recorded appointment after MPI.</p></div>

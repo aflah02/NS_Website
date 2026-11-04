@@ -2548,6 +2548,10 @@
     "pdf": "https://arxiv.org/pdf/2105.04273",
     "links": [
       {
+        "label": "GitHub",
+        "url": "https://github.com/joniali/loss-aversively-fair-classification"
+      },
+      {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2105.04273"
       },
@@ -2558,10 +2562,6 @@
       {
         "label": "DOI",
         "url": "https://doi.org/10.48550/ARXIV.2105.04273"
-      },
-      {
-        "label": "DBLP",
-        "url": "https://dblp.org/rec/conf/aies/AliZSG19"
       }
     ]
   },
@@ -2637,6 +2637,10 @@
     "pdf": "https://arxiv.org/pdf/1903.01209",
     "links": [
       {
+        "label": "GitHub",
+        "url": "https://github.com/nvedant07/effort_reward_fairness"
+      },
+      {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3217195"
       },
@@ -2647,10 +2651,6 @@
       {
         "label": "DOI",
         "url": "https://doi.org/10.48550/ARXIV.1903.01209"
-      },
-      {
-        "label": "DBLP",
-        "url": "https://dblp.org/rec/conf/icml/HeidariNG19"
       }
     ]
   },

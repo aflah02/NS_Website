@@ -27,10 +27,12 @@
     "name": "Junaid Ali",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "destination": "Destination to be confirmed",
-    "url": "https://www.mpi-sws.org/people/junaid/",
-    "source": "https://people.mpi-sws.org/~gummadi/",
-    "image": "junaid.jpg"
+    "destination": "Joint Research Centre, European Commission",
+    "url": "https://joniali.github.io/",
+    "source": "https://es.linkedin.com/in/junaidali89",
+    "image": "junaid.jpg",
+    "destinationRole": "AI Scientist",
+    "destinationType": "First destination"
   },
   {
     "name": "Vabuk Pahari",

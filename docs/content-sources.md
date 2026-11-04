@@ -34,9 +34,10 @@ The original homepage explicitly describes its alumni list as “with their firs
 
 - [Abhisek Dash](https://www.mpi-sws.org/people/adash/) is a research group leader at MPI-SWS.
 - [Vedant Nanda’s CV](https://nvedant07.github.io/cv/cv.pdf) records Aleph Alpha Research as his first post-PhD role and Mistral AI as his current employer.
-- Junaid Ali, Vabuk Pahari, and Sepehr Mousavi are listed as alumni per the group’s roster update. Their post-group destinations are pending confirmation.
+- [Junaid Ali](https://joniali.github.io/) is an AI Scientist at the European Commission’s Joint Research Centre. [His public announcement](https://es.linkedin.com/in/junaidali89) identifies this as his first post-PhD role.
+- Vabuk Pahari and Sepehr Mousavi are listed as alumni per the group’s roster update. Their post-group destinations are pending confirmation.
 
-The per-entry Source link supports the placement or links to the researcher’s affiliation when a destination is pending. The name links to a public profile.
+Alumni names link to public profiles. Supporting references are recorded in the alumni data.
 
 ## Editorial review before the group’s final public launch
 
