@@ -63,9 +63,12 @@ def paper(p):
 def people_card(p):
     initials=''.join(n[0] for n in p['name'].split() if n not in ('P.',))[:2]
     img=f'<img src="assets/{p["image"]}" alt="{e(p["name"])}" loading="lazy" width="360" height="360">' if p.get('image') and (ROOT/'assets'/p['image']).exists() else f'<div class="person-initials" aria-hidden="true">{initials}</div>'
-    co_advisor = f'<p class="person-co-advisor">Co-advised with {e(p["coAdvisor"])}</p>' if p.get('coAdvisor') else ''
-    interests = f'<p class="person-interests">{e(p["interests"])}</p>' if p.get('interests') else ''
-    return f'<article class="person"><a class="person-photo" href="{e(p["url"])}" aria-label="{e(p["name"])}’s website">{img}{ARROW}</a><p class="person-role">{e(p["role"])}</p><h3><a href="{e(p["url"])}">{e(p["name"])}</a></h3>{co_advisor}{interests}</article>'
+    detail = p.get('interests')
+    if p['category'] == 'phd':
+        co_advisor = p.get('coAdvisor')
+        detail = f'Co-advised with {co_advisor}' if co_advisor else ''
+    detail_line = f'<p class="person-interests">{e(detail)}</p>' if detail else ''
+    return f'<article class="person"><a class="person-photo" href="{e(p["url"])}" aria-label="{e(p["name"])}’s website">{img}{ARROW}</a><p class="person-role">{e(p["role"])}</p><h3><a href="{e(p["url"])}">{e(p["name"])}</a></h3>{detail_line}</article>'
 
 def home():
     head = PEOPLE[0]
@@ -145,12 +148,11 @@ def alumni():
     rows=[]
     for p in ALUMNI:
         current=f'<p class="alumni-current">Now: <a href="{e(p["currentSource"])}">{e(p["current"])} {ARROW}</a></p>' if p.get('current') else ''
-        portrait = f'<img class="alumni-portrait" src="assets/{e(p["image"])}" alt="{e(p["name"])}" width="60" height="60" loading="lazy">' if p.get('image') else ''
         destination = e(p['destination'])
         if p.get('destinationType') == 'First destination':
             destination = f'<strong>{destination}</strong>'
         destination_role = f'<p>{e(p["destinationRole"])}</p>' if p.get('destinationRole') else ''
-        rows.append(f'''<article class="alumni-row"><div class="alumni-name">{portrait}<div><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination"><h4>{destination}</h4>{destination_role}{current}</div></article>''')
+        rows.append(f'''<article class="alumni-row"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination"><h4>{destination}</h4>{destination_role}{current}</div></article>''')
     return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title">
     <div class="people-heading"><h2 id="alumni-title">Alumni</h2></div>
     <div class="alumni-context"><p>First destinations after MPI are highlighted where known.</p></div>

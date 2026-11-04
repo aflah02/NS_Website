@@ -28,7 +28,7 @@ All links are relative: the site works under `/NS_Website/`, on an MPI server, o
 
 - Krishna Gummadi’s homepage, Research, Publications, People with Alumni, and Privacy pages, plus a 404 page.
 - 220 sourced publication records from 2000–2026, with title, author, and venue search, shareable filters, and links to code, project pages, PDFs, or archival records where available.
-- An alumni section on People with 22 profiles, sourced first and current destinations, and portraits where available.
+- An alumni section on People with 22 profiles and sourced first and current destinations.
 - A navigation rail, self-hosted IBM Plex typography, paper-led overview, local portraits, keyboard focus states, reduced-motion support, semantic HTML, and content that remains readable without JavaScript.
 - A dependency-free static generator and validation command, with GitHub Actions integration.
 

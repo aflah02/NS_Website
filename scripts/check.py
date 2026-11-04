@@ -75,7 +75,7 @@ for p in pubs:
             errors.append(f'Invalid or duplicate resource for {p["title"]}: {resource}')
         seen_links.add(resource['url'])
 alumni = json.loads((ROOT/'content/alumni.json').read_text())
-for p in json.loads((ROOT/'content/people.json').read_text()) + alumni:
+for p in json.loads((ROOT/'content/people.json').read_text()):
     if p.get('image') and not (OUT/'assets'/p['image']).exists(): errors.append('Missing portrait: '+p['name'])
 for p in alumni:
     if p.get('destinationRole') and p.get('destinationType') not in ('First destination','Current destination'): errors.append('Unlabeled alumni destination')
