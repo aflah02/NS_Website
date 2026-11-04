@@ -7,10 +7,14 @@ Reviewed **4 November 2026**.
 - [Krishna’s original website](https://people.mpi-sws.org/~gummadi/): leadership, historical research areas, original projects, former students/postdocs, first employment, institutional address.
 - [Original publication archive](https://people.mpi-sws.org/~gummadi/publications.html): historical publication metadata and PDF links from 2000–2018. Exact duplicate titles were consolidated; the higher-year archival version is preferred. Obvious source spelling/encoding defects were normalized. Some related workshop and conference versions with different titles remain.
 - [AICS](https://aics.mpi-sws.org/): the interdisciplinary initiative, its MPI-SWS/RPTU relationship, and Krishna’s social computing/responsible AI participation. AICS collaborators are not presented as Networked Systems group members.
-- [MPI-SWS people directory](https://www.mpi-sws.org/people/): current institutional roles and portrait assets. The people page is a selected roster, not exhaustive. Camila Kolling is identified as co-advised.
+- [MPI-SWS people directory](https://www.mpi-sws.org/people/): current institutional roles and portrait assets. The people page also names co-advisors listed in the students’ profiles.
 - [ACL Anthology author page](https://aclanthology.org/people/krishna-p-gummadi/): recent ACL/EMNLP bibliographic metadata.
 - [Qinyuan Wu’s publications](https://qinyuanwu0710.github.io/publications/) and [Aflah’s website](https://aflah02.github.io/): recent venue/acceptance status. NeurIPS 2026 work is labeled accepted. Preprints have explicit labels.
 - Individual paper pages on ACL Anthology and arXiv: titles, complete author metadata, and paper/PDF links. Each JSON record retains its source URL. Recent summaries are short original editorial descriptions, not reproduced abstracts.
+
+## Doctoral roster
+
+The PhD cards follow start dates where available. [Qinyuan Wu](https://de.linkedin.com/in/qinyuan-wu-495595225) lists 2022, [Camila Kolling](https://camilakolling.github.io/) lists May 2023, [Mahsa Amani](https://de.linkedin.com/in/mahsa-amani-760b0518a) lists 2024, [Pushpdeep Singh](https://sites.google.com/view/pushpdeep/experience) lists August 2025, and [Mohammad Aflah Khan](https://aflah02.github.io/) lists September 2026. [Faezeh Nassajian Mojarrad](https://sicss.io/2025/saarbrucken/people) is placed in the 2025 cohort based on a September 2025 event bio. Sayeh Jarollahi is listed last pending a confirmed start date.
 
 ## Publication archive
 
@@ -43,4 +47,4 @@ Alumni names link to public profiles. Supporting references are recorded in the 
 
 The content files preserve the sources for historical placements and current appointments. Institute imprint and data-protection URLs link to the published MPI-SWS information; the host operator should ensure those institutional pages cover the final chosen domain.
 
-The visual identity uses the n/s wordmark, a numbered navigation index, and self-hosted IBM Plex typography. The homepage presents actual research papers from different periods rather than an illustrative network graph.
+The visual identity uses the n/s wordmark, a navigation rail, and self-hosted IBM Plex typography. The homepage presents actual research papers from different periods rather than an illustrative network graph.
