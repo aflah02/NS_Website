@@ -4,13 +4,16 @@
     "kind": "postdoc",
     "formerRole": "Postdoctoral researcher",
     "url": "https://www.mpi-sws.org/people/adash/",
-    "source": "https://www.mpi-sws.org/people/adash/"
+    "source": "https://www.mpi-sws.org/people/adash/",
+    "destination": "MPI-SWS",
+    "destinationRole": "Research Group Leader",
+    "destinationType": "First destination"
   },
   {
     "name": "Vedant Nanda",
     "kind": "phd",
     "formerRole": "PhD researcher · Co-advised",
-    "destination": "Aleph Alpha Research",
+    "destination": "Aleph Alpha",
     "destinationRole": "AI Researcher",
     "destinationType": "First destination",
     "url": "https://nvedant07.github.io/",
@@ -45,7 +48,10 @@
     "kind": "phd",
     "formerRole": "PhD researcher",
     "url": "https://tillspeicher.com/",
-    "source": "https://tillspeicher.com/"
+    "source": "https://tillspeicher.com/",
+    "destination": "Aleph Alpha",
+    "destinationRole": "AI Researcher",
+    "destinationType": "First destination"
   },
   {
     "name": "Preethi Lahoti",

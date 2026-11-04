@@ -35,7 +35,8 @@ The original homepage explicitly describes its alumni list as “with their firs
 - [Preethi Lahoti](https://www.plahoti.de/about-me) describes her MPI-INF PhD, co-advised by Gerhard Weikum and Krishna, and announces joining Google Research in April 2022. This supports her **First destination** entry. The degree-conferral month is not inferred from her employment start.
 - [Vedant Nanda’s CV](https://nvedant07.github.io/cv/cv.pdf) records Aleph Alpha Research as his first post-PhD role.
 - [Junaid Ali](https://joniali.github.io/) is an AI Scientist at the European Commission’s Joint Research Centre. [His public announcement](https://es.linkedin.com/in/junaidali89) identifies this as his first post-PhD role.
-- First appointments remain unconfirmed for Abhisek Dash, Till Speicher, Vabuk Pahari, and Sepehr Mousavi.
+- The group confirmed Aleph Alpha as [Till Speicher](https://tillspeicher.com/)’s first destination and Research Group Leader at MPI-SWS as [Abhisek Dash](https://www.mpi-sws.org/people/adash/)’s first appointment after his postdoc.
+- First appointments remain unconfirmed for Vabuk Pahari and Sepehr Mousavi.
 
 Alumni names link to public profiles. Supporting references are recorded in the alumni data.
 

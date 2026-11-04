@@ -18,6 +18,7 @@ Portraits are used only in the corresponding researchers’ profile cards, witho
 | `kyeongjin.jpg` | https://www.mpi-sws.org/people/kahn/Kyeongjin-Ahn.jpg |
 | `pushpdeep.jpg` | https://www.mpi-sws.org/people/psingh/Pushpdeep-Singh.jpg |
 | `faezeh.jpg` | https://www.mpi-sws.org/people/fnassaji/Faezeh-Nassajian+Mojarrad.jpg |
+| `johannes.jpg` | https://www.mpi-sws.org/people/jkruse/Johannes-Kruse.jpg |
 
 The n/s wordmark and favicon are original typographic artwork.
 
