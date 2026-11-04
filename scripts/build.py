@@ -63,7 +63,7 @@ def paper(p):
 def people_card(p):
     initials=''.join(n[0] for n in p['name'].split() if n not in ('P.',))[:2]
     img=f'<img src="assets/{p["image"]}" alt="{e(p["name"])}" loading="lazy" width="360" height="360">' if p.get('image') and (ROOT/'assets'/p['image']).exists() else f'<div class="person-initials" aria-hidden="true">{initials}</div>'
-    detail = p.get('interests')
+    detail = p.get('interests') if p['category'] == 'leadership' else ''
     if p['category'] == 'phd':
         co_advisor = p.get('coAdvisor')
         detail = f'Co-advised with {co_advisor}' if co_advisor else ''
