@@ -1,0 +1,1740 @@
+[
+  {
+    "id": "hubble-a-model-suite-to-advance-the-study-of-llm-memorization",
+    "title": "Hubble: a Model Suite to Advance the Study of LLM Memorization",
+    "authors": "Johnny Tian-Zheng Wei, Ameya Godbole, Mohammad Aflah Khan, Ryan Wang, Xiaoyuan Zhu, James Flemings, Nitya Kashyap, Krishna P. Gummadi, Willie Neiswanger, Robin Jia",
+    "year": 2026,
+    "venue": "ICLR",
+    "topics": [
+      "ai"
+    ],
+    "summary": "A model suite for investigating memorization during language-model training.",
+    "url": "https://arxiv.org/abs/2510.19811",
+    "source": "https://arxiv.org/abs/2510.19811",
+    "pdf": "https://arxiv.org/pdf/2510.19811",
+    "status": "published"
+  },
+  {
+    "id": "in-agents-we-trust-but-who-do-agents-trust-latent-source-preferences-steer-llm-generations",
+    "title": "In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations",
+    "authors": "Mohammad Aflah Khan, Mahsa Amani, Soumi Das, Bishwamittra Ghosh, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander",
+    "year": 2026,
+    "venue": "ICLR",
+    "topics": [
+      "ai",
+      "privacy"
+    ],
+    "summary": "Investigating latent source preferences in language-model generations.",
+    "url": "https://arxiv.org/abs/2602.15456",
+    "source": "https://arxiv.org/abs/2602.15456",
+    "pdf": "https://arxiv.org/pdf/2602.15456",
+    "status": "published"
+  },
+  {
+    "id": "bowling-with-chatgpt-on-the-evolving-user-interactions-with-conversational-ai-systems",
+    "title": "Bowling with ChatGPT: On the Evolving User Interactions with Conversational AI Systems",
+    "authors": "Sai Keerthana Karnam, Abhisek Dash, Krishna P. Gummadi, Animesh Mukherjee, Ingmar Weber, Savvas Zannettou",
+    "year": 2026,
+    "venue": "The Web Conference",
+    "topics": [
+      "social",
+      "ai"
+    ],
+    "summary": "Studying how people’s interactions with conversational AI evolve.",
+    "url": "https://arxiv.org/abs/2602.01114",
+    "source": "https://arxiv.org/abs/2602.01114",
+    "pdf": "https://arxiv.org/pdf/2602.01114",
+    "status": "published"
+  },
+  {
+    "id": "does-ad-free-mean-less-data-collection-an-empirical-study-of-platform-data-practices-and-u",
+    "title": "Does Ad-Free Mean Less Data Collection? An Empirical Study of Platform Data Practices and User Expectations",
+    "authors": "Sepehr Mousavi, Abhisek Dash, Savvas Zannettou, Krishna P. Gummadi",
+    "year": 2026,
+    "venue": "The Web Conference",
+    "topics": [
+      "privacy",
+      "social"
+    ],
+    "summary": "Comparing data collection practices and user expectations across subscription models.",
+    "url": "https://arxiv.org/abs/2602.01231",
+    "source": "https://arxiv.org/abs/2602.01231",
+    "pdf": "https://arxiv.org/pdf/2602.01231",
+    "status": "published"
+  },
+  {
+    "id": "characterizing-web-search-by-conversational-llm-agents-from-search-decisions-and-strategie",
+    "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+    "authors": "Mahsa Amani, Seungeon Lee, Abhisek Dash, Asmaa El Fraihi, Yunah Jang, Elisabeth Kirsten, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander, Muhammad Bilal Zafar, Soumi Das",
+    "year": 2026,
+    "venue": "arXiv",
+    "topics": [
+      "ai",
+      "social"
+    ],
+    "summary": "Characterizing search decisions and strategies of conversational agents.",
+    "url": "https://arxiv.org/abs/2609.19244",
+    "source": "https://arxiv.org/abs/2609.19244",
+    "status": "preprint",
+    "pdf": "https://arxiv.org/pdf/2609.19244",
+    "publication_date": "2026-09-16"
+  },
+  {
+    "id": "the-algorithmic-self-portrait-deconstructing-memory-in-chatgpt",
+    "title": "The Algorithmic Self-Portrait: Deconstructing Memory in ChatGPT",
+    "authors": "Abhisek Dash, Soumi Das, Elisabeth Kirsten, Qinyuan Wu, Sai Keerthana Karnam, Krishna P. Gummadi, Thorsten Holz, Muhammad Bilal Zafar, Savvas Zannettou",
+    "year": 2026,
+    "venue": "The Web Conference",
+    "topics": [
+      "ai",
+      "privacy"
+    ],
+    "summary": "An empirical investigation of the information stored in ChatGPT memory.",
+    "url": "https://arxiv.org/abs/2602.01450",
+    "source": "https://arxiv.org/abs/2602.01450",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2602.01450"
+  },
+  {
+    "id": "rote-learning-considered-useful-generalizing-over-memorized-data-in-llms",
+    "title": "Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs",
+    "authors": "Qinyuan Wu, Soumi Das, Mahsa Amani, Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar",
+    "year": 2026,
+    "venue": "ICLR",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Studying when memorized information supports generalization.",
+    "url": "https://arxiv.org/abs/2507.21914",
+    "source": "https://arxiv.org/abs/2507.21914",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2507.21914"
+  },
+  {
+    "id": "understanding-the-interplay-between-memorization-and-learning-in-large-language-models",
+    "title": "Understanding the Interplay between Memorization and Learning in Large Language Models",
+    "authors": "Bishwamittra Ghosh, Soumi Das, Qinyuan Wu, Mohammad Aflah Khan, Deepak Garg, Krishna P. Gummadi, Evimaria Terzi",
+    "year": 2026,
+    "venue": "NeurIPS · Evaluations & Datasets",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Examining the relationship between memorization and learning during training.",
+    "url": "https://arxiv.org/abs/2507.14777v2",
+    "source": "https://arxiv.org/abs/2507.14777v2",
+    "status": "accepted",
+    "pdf": "https://arxiv.org/pdf/2507.14777v2"
+  },
+  {
+    "id": "to-call-or-not-to-call-a-framework-to-assess-and-optimize-llm-tool-calling",
+    "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
+    "authors": "Qinyuan Wu, Soumi Das, Mahsa Amani, Arijit Nag, Seungeon Lee, Krishna P. Gummadi, Abhilasha Ravichander, Muhammad Bilal Zafar",
+    "year": 2026,
+    "venue": "arXiv",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Evaluating when language-model agents should use external tools.",
+    "url": "https://arxiv.org/abs/2605.00737",
+    "source": "https://arxiv.org/abs/2605.00737",
+    "status": "preprint",
+    "pdf": "https://arxiv.org/pdf/2605.00737",
+    "publication_date": "2026-05-01"
+  },
+  {
+    "id": "lora-on-the-go-instance-level-dynamic-lora-selection-and-merging",
+    "title": "LoRA on the Go: Instance-level Dynamic LoRA Selection and Merging",
+    "authors": "Seungeon Lee, Soumi Das, Manish Gupta, Krishna P. Gummadi",
+    "year": 2026,
+    "venue": "ACL",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Dynamically selecting and combining LoRA adapters for individual inputs.",
+    "url": "https://aclanthology.org/2026.acl-long.1837/",
+    "source": "https://aclanthology.org/2026.acl-long.1837/",
+    "status": "published",
+    "pdf": "https://aclanthology.org/2026.acl-long.1837.pdf",
+    "publication_date": "2026-07"
+  },
+  {
+    "id": "fine-tuning-vs-in-context-learning-in-large-language-models-a-formal-language-learning-per",
+    "title": "Fine-tuning vs. In-context Learning in Large Language Models: A Formal Language Learning Perspective",
+    "authors": "Bishwamittra Ghosh, Soumi Das, Till Speicher, Qinyuan Wu, Mohammad Aflah Khan, Deepak Garg, Krishna P. Gummadi, Evimaria Terzi",
+    "year": 2026,
+    "venue": "ACL",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Formal languages offer a controlled comparison of fine-tuning and in-context learning.",
+    "url": "https://aclanthology.org/2026.acl-long.1932/",
+    "source": "https://aclanthology.org/2026.acl-long.1932/",
+    "status": "published",
+    "pdf": "https://aclanthology.org/2026.acl-long.1932.pdf",
+    "publication_date": "2026-07"
+  },
+  {
+    "id": "characterizing-web-search-in-the-age-of-generative-ai",
+    "title": "Characterizing Web Search in The Age of Generative AI",
+    "authors": "Elisabeth Kirsten, Jost Große Perdekamp, Qinyuan Wu, Mihir Upadhyay, Krishna P. Gummadi, Muhammad Bilal Zafar",
+    "year": 2026,
+    "venue": "ACL Findings",
+    "topics": [
+      "ai",
+      "social"
+    ],
+    "summary": "How generative search changes retrieval, source diversity, and answer stability.",
+    "url": "https://aclanthology.org/2026.findings-acl.526/",
+    "source": "https://aclanthology.org/2026.findings-acl.526/",
+    "status": "published",
+    "pdf": "https://aclanthology.org/2026.findings-acl.526.pdf",
+    "publication_date": "2026-07"
+  },
+  {
+    "id": "fractional-rotation-full-potential-investigating-performance-and-convergence-of-partial-ro",
+    "title": "Fractional Rotation, Full Potential? Investigating Performance and Convergence of Partial RoPE",
+    "authors": "Mohammad Aflah Khan, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander",
+    "year": 2026,
+    "venue": "EMNLP",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Efficient positional representations for stable language-model training.",
+    "url": "https://aclanthology.org/2026.emnlp-main.1455/",
+    "source": "https://aclanthology.org/2026.emnlp-main.1455/",
+    "status": "published",
+    "pdf": "https://aclanthology.org/2026.emnlp-main.1455.pdf",
+    "publication_date": "2026-10"
+  },
+  {
+    "id": "lawma-the-power-of-specialization-for-legal-annotation",
+    "title": "Lawma: The Power of Specialization for Legal Annotation",
+    "authors": "Ricardo Dominguez-Olmedo, Vedant Nanda, Rediet Abebe, Stefan Bechtold, Christoph Engel, Jens Frankenreiter, Krishna Gummadi, Moritz Hardt, Michael Livermore",
+    "year": 2025,
+    "venue": "ICLR",
+    "topics": [
+      "ai",
+      "fairness"
+    ],
+    "summary": "Understanding specialization for legal annotation.",
+    "url": "https://arxiv.org/abs/2407.16615",
+    "source": "https://arxiv.org/abs/2407.16615",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2407.16615"
+  },
+  {
+    "id": "towards-reliable-latent-knowledge-estimation-in-llms-zero-prompt-many-shot-based-factual-k",
+    "title": "Towards Reliable Latent Knowledge Estimation in LLMs: Zero-Prompt Many-Shot Based Factual Knowledge Extraction",
+    "authors": "Qinyuan Wu, Mohammad Aflah Khan, Soumi Das, Vedant Nanda, Bishwamittra Ghosh, Camila Kolling, Till Speicher, Laurent Bindschaedler, Krishna P. Gummadi, Evimaria Terzi",
+    "year": 2025,
+    "venue": "WSDM",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Estimating factual knowledge without relying on a single prompt.",
+    "url": "https://arxiv.org/abs/2404.12957",
+    "source": "https://arxiv.org/abs/2404.12957",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2404.12957"
+  },
+  {
+    "id": "tokensmith-streamlining-data-editing-search-and-inspection-for-large-scale-language-model-",
+    "title": "TokenSmith: Streamlining Data Editing, Search, and Inspection for Large-Scale Language Model Training and Interpretability",
+    "authors": "Mohammad Aflah Khan, Ameya Godbole, Johnny Wei, Ryan Yixiang Wang, James Flemings, Krishna P. Gummadi, Willie Neiswanger, Robin Jia",
+    "year": 2025,
+    "venue": "EMNLP · System Demonstrations",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Open tools for inspecting and editing language-model pretraining data.",
+    "url": "https://aclanthology.org/2025.emnlp-demos.50/",
+    "source": "https://aclanthology.org/2025.emnlp-demos.50/",
+    "status": "published",
+    "pdf": "https://aclanthology.org/2025.emnlp-demos.50.pdf"
+  },
+  {
+    "id": "understanding-the-role-of-invariance-in-transfer-learning",
+    "title": "Understanding the Role of Invariance in Transfer Learning",
+    "authors": "Till Speicher, Vedant Nanda, Krishna P. Gummadi",
+    "year": 2024,
+    "venue": "TMLR",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Investigating how invariance affects the transfer of learned representations.",
+    "url": "https://arxiv.org/abs/2407.04325",
+    "source": "https://arxiv.org/abs/2407.04325",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2407.04325"
+  },
+  {
+    "id": "diffused-redundancy-in-pre-trained-representations",
+    "title": "Diffused Redundancy in Pre-trained Representations",
+    "authors": "Vedant Nanda, Till Speicher, John P. Dickerson, Soheil Feizi, Krishna P. Gummadi, Adrian Weller",
+    "year": 2023,
+    "venue": "NeurIPS",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Understanding how information is distributed across pretrained representations.",
+    "url": "https://arxiv.org/abs/2306.00183",
+    "source": "https://arxiv.org/abs/2306.00183",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2306.00183"
+  },
+  {
+    "id": "measuring-representational-robustness-of-neural-networks-through-shared-invariances",
+    "title": "Measuring Representational Robustness of Neural Networks Through Shared Invariances",
+    "authors": "Vedant Nanda, Till Speicher, Camila Kolling, John P. Dickerson, Krishna P. Gummadi, Adrian Weller",
+    "year": 2022,
+    "venue": "ICML",
+    "topics": [
+      "ai"
+    ],
+    "summary": "Assessing robustness by comparing the invariances of learned representations.",
+    "url": "https://arxiv.org/abs/2206.11939",
+    "source": "https://arxiv.org/abs/2206.11939",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2206.11939"
+  },
+  {
+    "id": "data-minimization-2021",
+    "title": "Auditing Black-Box Prediction Models for Data Minimization Compliance",
+    "authors": "Bashir Rastegarpanah, Krishna P. Gummadi, Mark Crovella",
+    "year": 2021,
+    "venue": "NeurIPS",
+    "topics": [
+      "privacy",
+      "fairness"
+    ],
+    "summary": "Auditing black-box prediction models for data minimization.",
+    "url": "https://papers.neurips.cc/paper_files/paper/2021/hash/ac6b3cce8c74b2e23688c3e45532e2a7-Abstract.html",
+    "source": "https://papers.neurips.cc/paper_files/paper/2021/hash/ac6b3cce8c74b2e23688c3e45532e2a7-Abstract.html",
+    "status": "published"
+  },
+  {
+    "id": "accounting-for-model-uncertainty-in-algorithmic-discrimination",
+    "title": "Accounting for Model Uncertainty in Algorithmic Discrimination",
+    "authors": "Junaid Ali, Preethi Lahoti, Krishna P. Gummadi",
+    "year": 2021,
+    "venue": "AIES",
+    "topics": [
+      "fairness"
+    ],
+    "summary": "Distinguishing sources of uncertainty when assessing algorithmic discrimination.",
+    "url": "https://arxiv.org/abs/2105.04249",
+    "source": "https://arxiv.org/abs/2105.04249",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/2105.04249"
+  },
+  {
+    "id": "ifair-learning-individually-fair-data-representations-for-algorithmic-decision-making",
+    "title": "iFair: Learning Individually Fair Data Representations for Algorithmic Decision Making",
+    "authors": "Preethi Lahoti, Krishna P. Gummadi, Gerhard Weikum",
+    "year": 2019,
+    "venue": "ICDE",
+    "topics": [
+      "fairness"
+    ],
+    "summary": "Learning representations that preserve individual fairness.",
+    "url": "https://arxiv.org/abs/1806.01059",
+    "source": "https://arxiv.org/abs/1806.01059",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/1806.01059"
+  },
+  {
+    "id": "on-the-long-term-impact-of-algorithmic-decision-policies-effort-unfairness-and-feature-seg",
+    "title": "On the Long-term Impact of Algorithmic Decision Policies: Effort Unfairness and Feature Segregation through Social Learning",
+    "authors": "Hoda Heidari, Vedant Nanda, Krishna P. Gummadi",
+    "year": 2019,
+    "venue": "ICML",
+    "topics": [
+      "fairness"
+    ],
+    "summary": "Studying how decision policies reshape behavior and long-term outcomes.",
+    "url": "https://arxiv.org/abs/1903.01209",
+    "source": "https://arxiv.org/abs/1903.01209",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/1903.01209"
+  },
+  {
+    "id": "a-unified-approach-to-quantifying-algorithmic-unfairness-measuring-individual-group-unfair",
+    "title": "A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual & Group Unfairness via Inequality Indices",
+    "authors": "Till Speicher, Hoda Heidari, Nina Grgic-Hlaca, Krishna P. Gummadi, Adish Singla, Adrian Weller, Muhammad Bilal Zafar",
+    "year": 2018,
+    "venue": "KDD",
+    "topics": [
+      "fairness"
+    ],
+    "summary": "Connecting individual and group unfairness through inequality measures.",
+    "url": "https://arxiv.org/abs/1807.00787",
+    "source": "https://arxiv.org/abs/1807.00787",
+    "status": "published",
+    "pdf": "https://arxiv.org/pdf/1807.00787"
+  },
+  {
+    "id": "legacy-1",
+    "title": "Fairness Behind a Veil of Ignorance: A Welfare Analysis for Automated Decision Making",
+    "authors": "Hoda Heidari, Claudio Ferrari, Krishna P. Gummadi, and Andreas Krause",
+    "year": 2018,
+    "venue": "NeurIPS",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published"
+  },
+  {
+    "id": "legacy-3",
+    "title": "Blind Justice: Fairness with Encrypted Sensitive Attributes",
+    "authors": "Niki Kilbertus, Adria Gascon, Matt Kusner, Michael Veale, Krishna P. Gummadi, and Adrian Weller",
+    "year": 2018,
+    "venue": "ICML",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/kilbertus18a.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/kilbertus18a.pdf"
+  },
+  {
+    "id": "legacy-4",
+    "title": "Equity of Attention: Amortizing Individual Fairness in Rankings",
+    "authors": "Asia J. Biega, Krishna P. Gummadi, and Gerhard Weikum",
+    "year": 2018,
+    "venue": "SIGIR",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/equity_of_attention_sigir2018.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/equity_of_attention_sigir2018.pdf"
+  },
+  {
+    "id": "legacy-5",
+    "title": "Media Bias Monitor: Quantifying Biases of Social Media News Outlets at Scale",
+    "authors": "Filipe N. Ribeiro, Lucas Henrique, Fabricio Benevenuto, Abhijnan Chakraborty, Juhi Kulshrestha, Mahmoudreza Babaei, and Krishna P. Gummadi",
+    "year": 2018,
+    "venue": "ICWSM",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/ribiero_bias_monitor_ICWSM18.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/ribiero_bias_monitor_ICWSM18.pdf"
+  },
+  {
+    "id": "legacy-6",
+    "title": "Privacy Risks with Facebook's PII-based Targeting: An Audit of a Data Broker's Advertising Interface",
+    "authors": "Giridhari Venkatadri, Athanasios Andreou, Oana Goga, Krishna P. Gummadi, Patrick Loiseau, and Alan Mislove",
+    "year": 2018,
+    "venue": "IEEE S&P",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/fb_custom_audience_sandp.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fb_custom_audience_sandp.pdf"
+  },
+  {
+    "id": "legacy-7",
+    "title": "Human Perceptions of Fairness in Algorithmic Decision Making: A Case Study of Criminal Risk Prediction",
+    "authors": "Nina Grgić-Hlača, Elissa Redmiles, Krishna P. Gummadi, and Adrian Weller",
+    "year": 2018,
+    "venue": "WWW",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/perceptions_www2018.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/perceptions_www2018.pdf"
+  },
+  {
+    "id": "legacy-8",
+    "title": "On the Potential for Discrimination in Online Targeted Advertising",
+    "authors": "Till Speicher, Muhammad Ali, Giridhari Venkatadri, George Arvanitakis, Krishna P. Gummadi, Patrick Loiseau, and Alan Mislove",
+    "year": 2018,
+    "venue": "FAT",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/speicher18.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/speicher18.pdf"
+  },
+  {
+    "id": "legacy-9",
+    "title": "Investigating Ad Transparency Mechanisms in Social Media: A Case Study of Facebook’s Explanations",
+    "authors": "Athanasios Andreou, Giridhari Venkatadri, Oana Goga, Krishna P. Gummadi, Patrick Loiseau, and Alan Mislove",
+    "year": 2018,
+    "venue": "NDSS",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/fb_explanations.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fb_explanations.pdf"
+  },
+  {
+    "id": "legacy-10",
+    "title": "Beyond Distributive Fairness in Algorithmic Decision Making: Feature Selection for Procedurally Fair Learning",
+    "authors": "Nina Grgić-Hlača, Muhammad Bilal Zafar, Krishna P. Gummadi, and Adrian Weller",
+    "year": 2018,
+    "venue": "AAAI",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/fair_feature_selection.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fair_feature_selection.pdf"
+  },
+  {
+    "id": "legacy-11",
+    "title": "From Parity to Preference-based Notions of Fairness in Classification",
+    "authors": "Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez-Rodriguez, Krishna P. Gummadi and Adrian Weller",
+    "year": 2017,
+    "venue": "NeurIPS",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://arxiv.org/abs/1707.00010",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published"
+  },
+  {
+    "id": "legacy-12",
+    "title": "Learning to Un-Rank: Quantifying Search Exposure for Users in Online Communities",
+    "authors": "Asia J. Biega, Azin Ghazimatin, Hakan Ferhatosmanoglu, Krishna P. Gummadi and Gerhard Weikum",
+    "year": 2017,
+    "venue": "CIKM",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/fp2146-biegaA-hm.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fp2146-biegaA-hm.pdf"
+  },
+  {
+    "id": "legacy-13",
+    "title": "Leveraging Facebook's Free Basics Engine for Web Service Deployment in Developing Regions",
+    "authors": "Siddharth Singh, Vedant Nanda, Rijurekha Sen, Satadal Sengupta, Ponnurangam Kumaragoru, and Krishna P. Gummadi",
+    "year": 2017,
+    "venue": "ICTD",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/singh-ICTD-2017.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/singh-ICTD-2017.pdf"
+  },
+  {
+    "id": "legacy-14",
+    "title": "Inside the Walled Garden: Deconstructing Facebook's Free Basics Program",
+    "authors": "Rijurekha Sen, Sohaib Ahmad, Amreesh Phokeer, Zaid Ahmed Farooq, Ihsan Ayyub Qazi, David Choffnes, and Krishna P. Gummadi",
+    "year": 2017,
+    "venue": "CCR",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-ccr17.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-ccr17.pdf"
+  },
+  {
+    "id": "legacy-15",
+    "title": "Leveraging Facebook's Advertising Platform to Monitor Stocks of Migrants",
+    "authors": "Emilio Zagheni, Ingmar Weber, and Krishna P. Gummadi",
+    "year": 2017,
+    "venue": "Population and Development Review",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/padr-2017.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/padr-2017.pdf"
+  },
+  {
+    "id": "legacy-16",
+    "title": "On Fairness, Diversity, and Randomness in Algorithmic Decision Making",
+    "authors": "Nina Grgić-Hlača, Muhammad Bilal Zafar, Krishna P. Gummadi and Adrian Weller",
+    "year": 2017,
+    "venue": "FAT-ML",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://arxiv.org/abs/1706.10208",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published"
+  },
+  {
+    "id": "legacy-17",
+    "title": "Longitudinal Privacy Management in Social Media: The Need for Better Controls",
+    "authors": "Mainack Mondal, Johnnatan Messias, Saptarshi Ghosh, Krishna P. Gummadi, and Aniket Kate",
+    "year": 2017,
+    "venue": "IEEE Internet Computing",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/IC-21-03-Mondal.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/IC-21-03-Mondal.pdf"
+  },
+  {
+    "id": "legacy-18",
+    "title": "Who Makes Trends? Understanding Demographic Biases in Crowdsourced Recommendations",
+    "authors": "Abhijnan Chakraborty, Johnnatan Messias, Fabricio Benevenuto, Saptarshi Ghosh, Niloy Ganguly and Krishna P. Gummadi",
+    "year": 2017,
+    "venue": "ICWSM",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/who_makes_trends_icwsm17.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/who_makes_trends_icwsm17.pdf"
+  },
+  {
+    "id": "legacy-19",
+    "title": "Fairness Constraints: Mechanisms for Fair Classification",
+    "authors": "Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez-Rodriguez and Krishna P. Gummadi",
+    "year": 2017,
+    "venue": "AISTATS",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/disparate_impact_AISTATS_2017.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/disparate_impact_AISTATS_2017.pdf"
+  },
+  {
+    "id": "legacy-20",
+    "title": "Fairness Beyond Disparate Treatment and Disparate Impact: Learning Classification Without Disparate Mistreatment",
+    "authors": "Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez-Rodriguez and Krishna P. Gummadi",
+    "year": 2017,
+    "venue": "WWW",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/disparate_mistreatment_www2017.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/disparate_mistreatment_www2017.pdf"
+  },
+  {
+    "id": "legacy-21",
+    "title": "Optimizing the Recency-Relevancy Trade-off in Online News Recommendations",
+    "authors": "Abhijnan Chakraborty, Saptarshi Ghosh, Niloy Ganguly and Krishna P. Gummadi",
+    "year": 2017,
+    "venue": "WWW",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/recency_relevancy_www2017.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/recency_relevancy_www2017.pdf"
+  },
+  {
+    "id": "legacy-22",
+    "title": "Quantifying Search Bias: Investigating Sources of Bias for Political Searches in Social Media",
+    "authors": "Juhi Kulshrestha, Motahhare Eslami, Johnnatan Messias, Muhammad Bilal Zafar, Saptarshi Ghosh, Krishna P. Gummadi, and Karrie G. Karahalios",
+    "year": 2017,
+    "venue": "CSCW",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/search-bias-cscw-2017.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/search-bias-cscw-2017.pdf"
+  },
+  {
+    "id": "legacy-23",
+    "title": "The Case for Process Fairness in Learning: Feature Selection for Fair Decision Making",
+    "authors": "Nina Grgić-Hlača, Muhammad Bilal Zafar, Krishna P. Gummadi, and Adrian Weller",
+    "year": 2016,
+    "venue": "NeurIPS Symposium on Machine Learning and the Law",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/process_fairness.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/process_fairness.pdf"
+  },
+  {
+    "id": "legacy-25",
+    "title": "The Case for Temporal Transparency: Detecting Policy Change Events in Black-Box Decision Making Systems",
+    "authors": "Miguel Ferreira, Muhammad Bilal Zafar, Isabel Valera, and Krishna P. Gummadi",
+    "year": 2016,
+    "venue": "FAT-ML",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://arxiv.org/abs/1610.10064",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published"
+  },
+  {
+    "id": "legacy-26",
+    "title": "On the Free Bridge Across the Digital Divide: Assessing the Quality of Facebook's Free Basics Service",
+    "authors": "Rijurekha Sen, Hasnain Ali Pirzada, Amreesh Phokeer, Zaid Ahmed Farooq, Satadal Sengupta, David Choffnes, and Krishna P. Gummadi",
+    "year": 2016,
+    "venue": "IMC",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-IMC16.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-IMC16.pdf"
+  },
+  {
+    "id": "legacy-27",
+    "title": "On Profile Linkability Despite Anonymity in Social Media Systems",
+    "authors": "Michael Backes, Pascal Berrang, Oana Goga, Krishna P. Gummadi, and Praveen Manoharan",
+    "year": 2016,
+    "venue": "WPES",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/reddit_WPES2016.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/reddit_WPES2016.pdf"
+  },
+  {
+    "id": "legacy-28",
+    "title": "R-Susceptibility: An IR-Centric Approach to Assessing Privacy Risks for Users in Online Communities",
+    "authors": "Joanna Asia Biega, Krishna P. Gummadi, Ida Mele, Dragan Milchevski, Christos Tryfonopoulos, and Gerhard Weikum",
+    "year": 2016,
+    "venue": "SIGIR",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/fp385-biegaA.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fp385-biegaA.pdf"
+  },
+  {
+    "id": "legacy-29",
+    "title": "Forgetting in Social Media: Understanding and Controlling Longitudinal Exposure of Socially Shared Data",
+    "authors": "Mainack Mondal, Johnnatan Messias, Saptarshi Ghosh, Krishna P. Gummadi, and Aniket Kate",
+    "year": 2016,
+    "venue": "SOUPS",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/longitudinal_exposure.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/longitudinal_exposure.pdf"
+  },
+  {
+    "id": "legacy-30",
+    "title": "Message Impartiality in Social Media Discussions",
+    "authors": "Muhammad Bilal Zafar, Krishna P. Gummadi, and Cristian Danescu-Niculescu-Mizil",
+    "year": 2016,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/impartiality.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/impartiality.pdf"
+  },
+  {
+    "id": "legacy-31",
+    "title": "Distinguishing between Topical and Non-topical Information Diffusion Mechanisms in Social Media",
+    "authors": "Premyslaw Grabowicz, Niloy Ganguly, and Krishna P. Gummadi",
+    "year": 2016,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/topical_nontopical_diffusion.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/topical_nontopical_diffusion.pdf"
+  },
+  {
+    "id": "legacy-32",
+    "title": "Strengthening Weak Identities Through Inter-Domain Trust Transfer",
+    "authors": "Giridhari Venkatadri, Oana Goga, Changtao Zhong, Bimal Viswanath, Krishna P. Gummadi and Nishanth Sastry",
+    "year": 2016,
+    "venue": "WWW",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/transfer_trust_WWW2016.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/transfer_trust_WWW2016.pdf"
+  },
+  {
+    "id": "legacy-33",
+    "title": "On the Efficiency of Information Networks in Social Media",
+    "authors": "Mahmoudreza Babaei, Przemyslaw Grabowicz, Isabel Valera, Krishna P. Gummadi and Manuel Gomez-Rodriguez",
+    "year": 2016,
+    "venue": "WSDM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/network_efficiency.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/network_efficiency.pdf"
+  },
+  {
+    "id": "legacy-34",
+    "title": "On the Wisdom of Experts vs. Crowds: Discovering Trustworthy Topical News in Microblogs",
+    "authors": "Muhammad Bilal Zafar, Parantapa Bhattacharya, Saptarshi Ghosh, Niloy Ganguly, and Krishna P. Gummadi",
+    "year": 2016,
+    "venue": "CSCW",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/experts_crowds_cscw.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/experts_crowds_cscw.pdf"
+  },
+  {
+    "id": "legacy-35",
+    "title": "Strength in Numbers: Robust Tamper Detection in Crowd Computations",
+    "authors": "Bimal Viswanath, Muhammad Ahmad Bashir, Muhammad Bilal Zafar, Saikat Guha, Krishna P. Gummadi, Aniket Kate and Alan Mislove",
+    "year": 2015,
+    "venue": "COSN",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/cosn61-viswanathA1.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/cosn61-viswanathA1.pdf"
+  },
+  {
+    "id": "legacy-36",
+    "title": "The Doppelgänger Bot Attack: Exploring Identity Impersonation in Online Social Networks",
+    "authors": "Oana Goga, Giridhari Venkatadri, and Krishna P. Gummadi",
+    "year": 2015,
+    "venue": "IMC",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/impersonators_IMC2015.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/impersonators_IMC2015.pdf"
+  },
+  {
+    "id": "legacy-37",
+    "title": "Can Trending News Stories Create Coverage Bias? On the Impact of High Content Churn in Online News Media",
+    "authors": "Abhijnan Chakraborty, Saptarshi Ghosh, Niloy Ganguly and Krishna P. Gummadi",
+    "year": 2015,
+    "venue": "Computation + Journalism Symposium",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/temporal_coverage_bias_online_media.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/temporal_coverage_bias_online_media.pdf"
+  },
+  {
+    "id": "legacy-38",
+    "title": "On the Reliability of Profile Matching Across Large Online Social Networks",
+    "authors": "Oana Goga, Patrick Loiseau, Robin Summer, Renata Teixeira, and Krishna P. Gummadi",
+    "year": 2015,
+    "venue": "KDD",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/matching_kdd15.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/matching_kdd15.pdf"
+  },
+  {
+    "id": "legacy-39",
+    "title": "Fairness Constraints: A Mechanism for Fair Classification",
+    "authors": "Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez-Rodriguez and Krishna P. Gummadi",
+    "year": 2015,
+    "venue": "FAT-ML",
+    "topics": [
+      "fairness"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/fatml_15.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fatml_15.pdf"
+  },
+  {
+    "id": "legacy-40",
+    "title": "Sampling Content from Online Social Networks: Random vs. Expert Sampling of the Twitter Stream",
+    "authors": "Muhammad Bilal Zafar, Parantapa Bhattacharya, Niloy Ganguly, Krishna P. Gummadi, and Saptarshi Ghosh",
+    "year": 2015,
+    "venue": "TWeb",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/sampletwitter_tweb.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/sampletwitter_tweb.pdf"
+  },
+  {
+    "id": "legacy-41",
+    "title": "Characterizing Information Diets of Social Media Users",
+    "authors": "Juhi Kulshrestha, Muhammad Bilal Zafar, Lisette Espin Noboa, Krishna P. Gummadi and Saptarshi Ghosh",
+    "year": 2015,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/info_diet.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/info_diet.pdf"
+  },
+  {
+    "id": "legacy-42",
+    "title": "The Many Shades of Anonymity: Characterizing Anonymous Social Media Content",
+    "authors": "Denzil Correa, Leandro Araújo Silva, Mainack Mondal, Fabricio Benevenuto, and Krishna P. Gummadi",
+    "year": 2015,
+    "venue": "ICWSM",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/anonymity_shades.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/anonymity_shades.pdf"
+  },
+  {
+    "id": "legacy-43",
+    "title": "Modeling Adoption of Competing Products and Conventions in Social Media",
+    "authors": "Isabel Valera, Manuel Gomez-Rodriguez, and Krishna P. Gummadi",
+    "year": 2014,
+    "venue": "NeurIPS Workshop in Networks: From Graphs to Rich Data",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published"
+  },
+  {
+    "id": "legacy-44",
+    "title": "Inferring User Interests in the Twitter Social Network",
+    "authors": "Parantapa Bhattacharya, Muhammad Bilal Zafar, Niloy Ganguly, Saptarshi Ghosh, and Krishna P. Gummadi",
+    "year": 2014,
+    "venue": "RecSys",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/recsys14-userinterests.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/recsys14-userinterests.pdf"
+  },
+  {
+    "id": "legacy-45",
+    "title": "Towards Detecting Anomalous User Behavior in Online Social Networks",
+    "authors": "Bimal Viswanath, Muhammad Ahmad Bashir, Mark Crovella, Saikat Guha, Krishna P. Gummadi, Balachander Krishnamurthy, and Alan Mislove",
+    "year": 2014,
+    "venue": "USENIX Security",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/anomalous-socialbehavior.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/anomalous-socialbehavior.pdf"
+  },
+  {
+    "id": "legacy-46",
+    "title": "Understanding and Specifying Social Access Control Lists",
+    "authors": "Mainack Mondal, Yabing Liu, Bimal Viswanath, Krishna P. Gummadi, and Alan Mislove",
+    "year": 2014,
+    "venue": "SOUPS",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/soups2014-sacls.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/soups2014-sacls.pdf"
+  },
+  {
+    "id": "legacy-47",
+    "title": "Quantifying Information Overload in Social Media and its Impact on Social Contagions",
+    "authors": "Manuel Gomez-Rodriguez, Krishna P. Gummadi, and Bernhard Schoelkopf",
+    "year": 2014,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/icwsm2014-overload.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/icwsm2014-overload.pdf"
+  },
+  {
+    "id": "legacy-48",
+    "title": "Does Content Determine Information Popularity in Social Media? A Case Study of YouTube Videos' Content and their Popularity",
+    "authors": "Flavio Figueiredo, Jussara Almeida, Fabricio Benevenuto, Krishna P. Gummadi",
+    "year": 2014,
+    "venue": "CHI",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/chi2014-contentpopularity.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/chi2014-contentpopularity.pdf"
+  },
+  {
+    "id": "legacy-49",
+    "title": "Beyond Access Control: Managing Online Privacy via Exposure",
+    "authors": "Mainack Mondal, Peter Druschel, Krishna P. Gummadi, Alan Mislove",
+    "year": 2014,
+    "venue": "USEC",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/usec2014-exposure.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/usec2014-exposure.pdf"
+  },
+  {
+    "id": "legacy-50",
+    "title": "Deep Twitter Diving: Exploring Topical Groups in Microblogs at Scale",
+    "authors": "Parantapa Bhattacharya, Saptarshi Ghosh, Muhammad Bilal Zafar, Juhi Kulshrestha, Mainack Mondal, Niloy Ganguly, and Krishna P. Gummadi",
+    "year": 2014,
+    "venue": "CSCW",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/topicgroups_twitter.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/topicgroups_twitter.pdf"
+  },
+  {
+    "id": "legacy-51",
+    "title": "On Sampling the Wisdom of Crowds: Random vs. Expert Sampling of the Twitter Stream",
+    "authors": "Saptarshi Ghosh, Muhammad Bilal Zafar, Parantapa Bhattacharya, Naveen Sharma, Niloy Ganguly, and Krishna P. Gummadi",
+    "year": 2013,
+    "venue": "CIKM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/sampletwitter.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/sampletwitter.pdf"
+  },
+  {
+    "id": "legacy-52",
+    "title": "Defending against large-scale crawls in online social networks",
+    "authors": "Mainack Mondal, Bimal Viswanath, Allen Clement, Peter Druschel, Krishna P. Gummadi, Alan Mislove, and Ansley Post",
+    "year": 2012,
+    "venue": "CoNEXT",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/conext208-mondal.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/conext208-mondal.pdf"
+  },
+  {
+    "id": "legacy-53",
+    "title": "Predicting Emerging Social Conventions in Online Social Networks",
+    "authors": "Farshad Kooti, Winter Mason, Krishna P. Gummadi, and Meeyoung Cha",
+    "year": 2012,
+    "venue": "CIKM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/conventions.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/conventions.pdf"
+  },
+  {
+    "id": "legacy-54",
+    "title": "Policy-Sealed Data: A New Abstraction for Building Trusted Cloud Services",
+    "authors": "Nuno Santos, Rodrigo Rodrigues, Krishna P. Gummadi, and Stefan Saroiu",
+    "year": 2012,
+    "venue": "USENIX Security",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/santos_usenixsecurity12.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/santos_usenixsecurity12.pdf"
+  },
+  {
+    "id": "legacy-55",
+    "title": "Cognos: Crowdsourcing Search for Topic Experts in Microblogs",
+    "authors": "Saptarshi Ghosh, Naveen Sharma, Fabricio Benevenuto, Niloy Ganguly, and Krishna P. Gummadi",
+    "year": 2012,
+    "venue": "SIGIR",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/twitter_wtf.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/twitter_wtf.pdf"
+  },
+  {
+    "id": "legacy-56",
+    "title": "Inferring Who-is-Who in the Twitter Social Network",
+    "authors": "Naveen Sharma, Saptarshi Ghosh, Fabricio Benevenuto, Niloy Ganguly, and Krishna P. Gummadi",
+    "year": 2012,
+    "venue": "WOSN",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/inferring_expertise.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/inferring_expertise.pdf"
+  },
+  {
+    "id": "legacy-57",
+    "title": "The Emergence of Conventions in Online Social Networks",
+    "authors": "Farshad Kooti, Meeyoung Cha, Krishna P. Gummadi, and Winter Mason",
+    "year": 2012,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/kooti-icwsm2012.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/kooti-icwsm2012.pdf"
+  },
+  {
+    "id": "legacy-58",
+    "title": "Geographic Dissection of the Twitter Network",
+    "authors": "Juhi Kulshrestha, Farshad Kooti, Ashkan Nikravesh, and Krishna P. Gummadi",
+    "year": 2012,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/kulshrestha-icwsm2012.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/kulshrestha-icwsm2012.pdf"
+  },
+  {
+    "id": "legacy-59",
+    "title": "Understanding and Combating Link Farming in the Twitter Social Network",
+    "authors": "Saptarshi Ghosh, Bimal Viswanath, Farshad Kooti, Naveen Kumar Sharma, Korlam Gautam, Fabricio Benevenuto, Niloy Ganguly, and Krishna P. Gummadi",
+    "year": 2012,
+    "venue": "WWW",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/twitter_vulnerability.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/twitter_vulnerability.pdf"
+  },
+  {
+    "id": "legacy-60",
+    "title": "Simplifying Friendlist Management",
+    "authors": "Yabing Liu, Bimal Viswanath, Mainack Mondal, Krishna P. Gummadi, and Alan Mislove",
+    "year": 2012,
+    "venue": "WWW",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/friendlist_manager.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/friendlist_manager.pdf"
+  },
+  {
+    "id": "legacy-61",
+    "title": "Canal: Scaling Social Network-based Sybil Tolerance Schemes",
+    "authors": "Bimal Viswanath, Mainack Mondal, Krishna P. Gummadi, Alan Mislove, and Ansley Post",
+    "year": 2012,
+    "venue": "EuroSys",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/Canal-EuroSys.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/Canal-EuroSys.pdf"
+  },
+  {
+    "id": "legacy-62",
+    "title": "The world of connections and information flow in Twitter",
+    "authors": "Meeyoung Cha, Fabricio Benevenuto, Hamed Haddadi, and Krishna P. Gummadi",
+    "year": 2012,
+    "venue": "IEEE Transactions on Systems, Man and Cybernetics -- Part A",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published"
+  },
+  {
+    "id": "legacy-63",
+    "title": "Delayed Information Cascades in Flickr: Measurement, Analysis and Modeling",
+    "authors": "Meeyoung Cha, Fabricio Benevenuto, Young-Yeol Ahn, and Krishna P. Gummadi",
+    "year": 2012,
+    "venue": "Elsevier Computer Networks",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published"
+  },
+  {
+    "id": "legacy-64",
+    "title": "Exploring the design space of social network-based Sybil defenses",
+    "authors": "Bimal Viswanath, Mainack Mondal, Allen Clement, Peter Druschel, Krishna P. Gummadi, Alan Mislove, and Ansley Post",
+    "year": 2012,
+    "venue": "COMSNETS",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/sybil_defense.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/sybil_defense.pdf"
+  },
+  {
+    "id": "legacy-65",
+    "title": "On Word-of-Mouth Based Discovery of the Web",
+    "authors": "Tiago Rodrigues, Fabricio Benevenuto, Meeyoung Cha, Krishna P. Gummadi, and Virgilio Almeida",
+    "year": 2011,
+    "venue": "IMC",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/imc102-tiago.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc102-tiago.pdf"
+  },
+  {
+    "id": "legacy-66",
+    "title": "Analyzing Facebook privacy settings: User expectations vs. reality",
+    "authors": "Yabing Liu, Krishna P. Gummadi, Balachander Krishnamurthy, and Alan Mislove",
+    "year": 2011,
+    "venue": "IMC",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/imc081s-liu.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc081s-liu.pdf"
+  },
+  {
+    "id": "legacy-67",
+    "title": "Media landscape in Twitter: A World of New Conventions and Political Diversity",
+    "authors": "Jisun An, Meeyoung Cha, Krishna P. Gummadi, and Jon Crowcroft",
+    "year": 2011,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/icwsm2011.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/icwsm2011.pdf"
+  },
+  {
+    "id": "legacy-68",
+    "title": "Sharing Social Content from Home: A Measurement-driven Feasibility Analysis",
+    "authors": "Massimiliano Marcon, Bimal Viswanath, Meeyoung Cha, and Krishna P. Gummadi",
+    "year": 2011,
+    "venue": "NOSSDAV",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/nossdav14s-marcon.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/nossdav14s-marcon.pdf"
+  },
+  {
+    "id": "legacy-69",
+    "title": "The Local and Global Effects of Traffic Shaping in the Internet",
+    "authors": "Massimiliano Marcon, Marcel Dischinger, Krishna P. Gummadi, and Amin Vahdat",
+    "year": 2011,
+    "venue": "COMSNETS",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/traffic_shaping.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/traffic_shaping.pdf"
+  },
+  {
+    "id": "legacy-70",
+    "title": "Addressing the Privacy Management Crisis in Online Social Networks",
+    "authors": "Krishna P. Gummadi, Alan Mislove, and Balachander Krishnamurthy",
+    "year": 2010,
+    "venue": "The IAB Workshop on Internet Privacy",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/iab_position.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/iab_position.pdf"
+  },
+  {
+    "id": "legacy-71",
+    "title": "An Analysis of Social Network-based Sybil Defenses",
+    "authors": "Bimal Viswanath, Ansley Post, Krishna P. Gummadi, and Alan Mislove",
+    "year": 2010,
+    "venue": "SIGCOMM",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/comm318g.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/comm318g.pdf"
+  },
+  {
+    "id": "legacy-72",
+    "title": "Measurement Lab: Overview and an Invitation to the Research Community",
+    "authors": "Constantine Dovrolis, Krishna P. Gummadi, Aleksandar Kuzmanovic, and Sascha D. Meinrath",
+    "year": 2010,
+    "venue": "CCR",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/mlab-ccr-final.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mlab-ccr-final.pdf"
+  },
+  {
+    "id": "legacy-73",
+    "title": "Measuring User Influence in Twitter: The Million Follower Fallacy",
+    "authors": "Meeyoung Cha, Hamed Haddadi, Fabricio Benevenuto,and Krishna P. Gummadi",
+    "year": 2010,
+    "venue": "ICWSM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/icwsm2010_cha.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/icwsm2010_cha.pdf"
+  },
+  {
+    "id": "legacy-74",
+    "title": "Glasnost: Enabling End Users to Detect Traffic Differentiation",
+    "authors": "Marcel Dischinger, Massimiliano Marcon, Saikat Guha, Krishna P. Gummadi, Ratul Mahajan, and Stefan Saroiu",
+    "year": 2010,
+    "venue": "NSDI",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/glasnost.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/glasnost.pdf"
+  },
+  {
+    "id": "legacy-75",
+    "title": "You are who you know: Inferring user profiles in Online Social Networks",
+    "authors": "Alan Mislove, Bimal Viswanath, Krishna P. Gummadi, and Peter Druschel",
+    "year": 2010,
+    "venue": "WSDM",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/inferring_profiles.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/inferring_profiles.pdf"
+  },
+  {
+    "id": "legacy-76",
+    "title": "On the Evolution of User Interaction in Facebook",
+    "authors": "Bimal Viswanath, Alan Mislove, Meeyoung Cha, and Krishna P. Gummadi",
+    "year": 2009,
+    "venue": "WOSN",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/wosn23-viswanath.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/wosn23-viswanath.pdf"
+  },
+  {
+    "id": "legacy-77",
+    "title": "Towards Trusted Cloud Computing",
+    "authors": "Nuno Santos, Krishna P. Gummadi, and Rodrigo Rodrigues",
+    "year": 2009,
+    "venue": "HotCloud",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/trusted_cloud.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/trusted_cloud.pdf"
+  },
+  {
+    "id": "legacy-78",
+    "title": "A Measurement-driven Analysis of Information Propagation in the Flickr Social Network",
+    "authors": "Meeyoung Cha, Alan Mislove, and Krishna P. Gummadi",
+    "year": 2009,
+    "venue": "WWW",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/www09-cha.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/www09-cha.pdf"
+  },
+  {
+    "id": "legacy-79",
+    "title": "Pretty Good Packet Authentication",
+    "authors": "Andreas Haeberlen, Rodrigo Rodrigues, Krishna P. Gummadi, and Peter Druschel",
+    "year": 2008,
+    "venue": "HotDep",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/pgpa-hotdep08.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/pgpa-hotdep08.pdf"
+  },
+  {
+    "id": "legacy-80",
+    "title": "Detecting BitTorrent Blocking",
+    "authors": "Marcel Dischinger, Alan Mislove, Andreas Haeberlen, and Krishna P. Gummadi",
+    "year": 2008,
+    "venue": "IMC",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/08_imc_blocking.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/08_imc_blocking.pdf"
+  },
+  {
+    "id": "legacy-81",
+    "title": "SatelliteLab: Adding Heterogeneity to Planetary-Scale Testbeds",
+    "authors": "Marcel Dischinger, Andreas Haeberlen, Ivan Beschastnikh, Krishna P. Gummadi, and Stefan Saroiu",
+    "year": 2008,
+    "venue": "SIGCOMM",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/08_sigcomm_satellitelab.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/08_sigcomm_satellitelab.pdf"
+  },
+  {
+    "id": "legacy-82",
+    "title": "Characterizing Social Cascades in the Flickr Social Network",
+    "authors": "Meeyoung Cha, Alan Mislove, Ben Adams, and Krishna P. Gummadi",
+    "year": 2008,
+    "venue": "WOSN",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/Cascades-WOSN.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/Cascades-WOSN.pdf"
+  },
+  {
+    "id": "legacy-83",
+    "title": "Growth of the Flickr Social Network",
+    "authors": "Alan Mislove, Hema Swetha Koppula, Krishna P. Gummadi, Peter Druschel, and Bobby Bhattacharjee",
+    "year": 2008,
+    "venue": "WOSN",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/Growth-WOSN.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/Growth-WOSN.pdf"
+  },
+  {
+    "id": "legacy-84",
+    "title": "Ostra: Leveraging Trust to Thwart Unwanted Communication",
+    "authors": "Alan Mislove, Ansley Post, Peter Druschel, and Krishna P. Gummadi",
+    "year": 2008,
+    "venue": "NSDI",
+    "topics": [
+      "privacy"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/ostra.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/ostra.pdf"
+  },
+  {
+    "id": "legacy-85",
+    "title": "Characterizing Residential Broadband Networks",
+    "authors": "Marcel Dischinger, Andreas Haeberlen, Krishna P. Gummadi, and Stefan Saroiu",
+    "year": 2007,
+    "venue": "IMC",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/imc2007-dischinger.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc2007-dischinger.pdf"
+  },
+  {
+    "id": "legacy-86",
+    "title": "Measurement and Analysis of Online Social Networks",
+    "authors": "Alan Mislove, Massimiliano Marcon, Krishna P. Gummadi, Peter Druschel, and Samrat Bhattacharjee",
+    "year": 2007,
+    "venue": "IMC",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/imc2007-mislove.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc2007-mislove.pdf"
+  },
+  {
+    "id": "legacy-87",
+    "title": "Exploiting Social Interactions in Mobile Systems",
+    "authors": "Andrew G. Miklas, Kiran K. Gollu, Kelvin K.W. Chan, Stefan Saroiu, Krishna P. Gummadi, and Eyal de Lara",
+    "year": 2007,
+    "venue": "UbiComp",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/miklas_encounters.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/miklas_encounters.pdf"
+  },
+  {
+    "id": "legacy-88",
+    "title": "Exploiting Social Networks for Internet Search",
+    "authors": "Alan Mislove, Krishna P. Gummadi, and Peter Druschel",
+    "year": 2006,
+    "venue": "HotNets",
+    "topics": [
+      "social"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/mislove06exploiting.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mislove06exploiting.pdf"
+  },
+  {
+    "id": "legacy-89",
+    "title": "Monarch: A Tool to Emulate Transport Protocols over the Internet at Large",
+    "authors": "Andreas Haeberlen, Marcel Dischinger, Krishna P. Gummadi, and Stefan Saroiu",
+    "year": 2006,
+    "venue": "IMC",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/imc137f-haeberlen.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc137f-haeberlen.pdf"
+  },
+  {
+    "id": "legacy-90",
+    "title": "Improving the Reliability of Internet Paths with One-hop Source Routing",
+    "authors": "Krishna P. Gummadi, Harsha Madhyastha, Steven D. Gribble, Henry M. Levy, and David J. Wetherall",
+    "year": 2004,
+    "venue": "OSDI",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/src_routing.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/src_routing.pdf"
+  },
+  {
+    "id": "legacy-91",
+    "title": "Canon in G Major: Designing DHTs with Hierarchical Structure",
+    "authors": "Prasanna Ganesan, Krishna P. Gummadi, and Hector Garcia-Molina",
+    "year": 2004,
+    "venue": "ICDCS",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/hierarchical_dhts.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/hierarchical_dhts.pdf"
+  },
+  {
+    "id": "legacy-92",
+    "title": "Measurement, Modeling and Analysis of a Peer-to-Peer File-Sharing Workload",
+    "authors": "Krishna P. Gummadi, Richard J. Dunn, Stefan Saroiu, Steven D. Gribble, Henry M. Levy, and John Zahorjan",
+    "year": 2003,
+    "venue": "SOSP",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/p118-gummadi.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/p118-gummadi.pdf"
+  },
+  {
+    "id": "legacy-93",
+    "title": "The Impact of DHT Routing Geometry on Resilience and Proximity",
+    "authors": "Krishna P. Gummadi, Ramakrishna Gummadi, Steven D. Gribble, Sylvia Ratnasamy, Scott Shenker, and Ion Stoica",
+    "year": 2003,
+    "venue": "SIGCOMM",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/p1101-gummadi.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/p1101-gummadi.pdf"
+  },
+  {
+    "id": "legacy-94",
+    "title": "Measuring and Analyzing the Characteristics of Napster and Gnutella hosts",
+    "authors": "Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble",
+    "year": 2003,
+    "venue": "ACM Multimedia Systems Journal",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/mm.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mm.pdf"
+  },
+  {
+    "id": "legacy-95",
+    "title": "An Efficient Primary Segmented Backup Scheme for Dependable Real-Time Communication in Multihop Networks",
+    "authors": "Krishna P. Gummadi, Madhavarapu Jnana Pradeep, and C. Siva Ram Murthy",
+    "year": 2003,
+    "venue": "TON",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/ieee_ton.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/ieee_ton.pdf"
+  },
+  {
+    "id": "legacy-96",
+    "title": "An Analysis of Internet Content Delivery Systems",
+    "authors": "Stefan Saroiu, Krishna P. Gummadi, Richard J. Dunn, Steven D. Gribble, and Henry M. Levy",
+    "year": 2002,
+    "venue": "OSDI",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/osdi.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/osdi.pdf"
+  },
+  {
+    "id": "legacy-97",
+    "title": "King: Estimating Latency between Arbitrary Internet End Hosts",
+    "authors": "Krishna P. Gummadi, Stefan Saroiu, and Steven D. Gribble",
+    "year": 2002,
+    "venue": "IMW",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/king.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/king.pdf"
+  },
+  {
+    "id": "legacy-98",
+    "title": "Exploring the Design Space of Distributed and Peer-to-Peer Systems: Comparing the Web, TRIAD, and Chord/CFS",
+    "authors": "Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble",
+    "year": 2002,
+    "venue": "IPTPS",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/iptps.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/iptps.pdf"
+  },
+  {
+    "id": "legacy-99",
+    "title": "A Measurement Study of Peer-to-Peer File Sharing Systems",
+    "authors": "Stefan Saroiu, P. Krishna Gummadi, and Steven D. Gribble",
+    "year": 2002,
+    "venue": "MMCN",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/mmcn.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mmcn.pdf"
+  },
+  {
+    "id": "legacy-100",
+    "title": "A Segmented Backup Scheme for Dependable Real Time Communication in Multihop Networks",
+    "authors": "P. Krishna Gummadi, Jnana Pradeep Madhavarapu, and C. Siva Ram Murthy",
+    "year": 2000,
+    "venue": "IPDPS Workshops",
+    "topics": [
+      "systems"
+    ],
+    "url": "https://people.mpi-sws.org/~gummadi/papers/seg_bkups.pdf",
+    "source": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "status": "published",
+    "pdf": "https://people.mpi-sws.org/~gummadi/papers/seg_bkups.pdf"
+  }
+]
