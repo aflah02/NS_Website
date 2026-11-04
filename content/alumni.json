@@ -12,12 +12,13 @@
   {
     "name": "Vedant Nanda",
     "kind": "phd",
-    "formerRole": "PhD researcher · Co-advised",
+    "formerRole": "PhD researcher",
     "destination": "Aleph Alpha",
     "destinationRole": "AI Researcher",
     "destinationType": "First destination",
     "url": "https://nvedant07.github.io/",
-    "source": "https://nvedant07.github.io/cv/cv.pdf"
+    "source": "https://nvedant07.github.io/cv/cv.pdf",
+    "coAdvisor": "John P. Dickerson"
   },
   {
     "name": "Junaid Ali",
@@ -62,18 +63,19 @@
     "destinationType": "First destination",
     "url": "https://www.plahoti.de/about-me",
     "source": "https://www.plahoti.de/about-me",
-    "note": "Co-advised with Gerhard Weikum. Joined Google Research in April 2022."
+    "note": "Joined Google Research in April 2022.",
+    "coAdvisor": "Gerhard Weikum"
   },
   {
     "name": "Asia J. Biega",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "note": "Ph.D. student (coadivised with Gerhard Weikum)",
     "destinationRole": "Postdoctoral Researcher",
     "destination": "Microsoft Research Montreal",
     "destinationType": "First destination",
     "url": "https://asiabiega.com/",
-    "source": "https://people.mpi-sws.org/~gummadi/"
+    "source": "https://people.mpi-sws.org/~gummadi/",
+    "coAdvisor": "Gerhard Weikum"
   },
   {
     "name": "Przemyslaw Grabowicz",
@@ -95,7 +97,8 @@
     "destination": "Bosch Center for Artificial Intelligence",
     "destinationType": "First destination",
     "url": "https://people.mpi-sws.org/~mzafar/",
-    "source": "https://people.mpi-sws.org/~gummadi/"
+    "source": "https://people.mpi-sws.org/~gummadi/",
+    "coAdvisor": "Manuel Gomez Rodriguez"
   },
   {
     "name": "Juhi Kulshrestha",
@@ -123,12 +126,12 @@
     "name": "Rijurekha Sen",
     "kind": "postdoc",
     "formerRole": "Postdoctoral researcher",
-    "note": "postdoctoral researcher (coadvised with Peter Druschel)",
     "destinationRole": "Assistant Professor",
     "destination": "IIT Delhi",
     "destinationType": "First destination",
     "url": "https://homecse.iitd.ac.in/team/rijurekha-sen/",
-    "source": "https://people.mpi-sws.org/~gummadi/"
+    "source": "https://people.mpi-sws.org/~gummadi/",
+    "coAdvisor": "Peter Druschel"
   },
   {
     "name": "Oana Goga",
@@ -167,23 +170,23 @@
     "name": "Bimal Viswanath",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "note": "Ph.D. student (coadvised with Alan Mislove)",
     "destinationRole": "Researcher",
     "destination": "Bell Labs",
     "destinationType": "First destination",
     "url": "https://www.mpi-sws.org/people/xbviswana-/",
-    "source": "https://people.mpi-sws.org/~gummadi/"
+    "source": "https://people.mpi-sws.org/~gummadi/",
+    "coAdvisor": "Alan Mislove"
   },
   {
     "name": "Nuno Santos",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "note": "Ph.D. student (coadvised with Rodrigo Rodrigues)",
     "destinationRole": "Assistant Professor",
     "destination": "IST Lisbon",
     "destinationType": "First destination",
     "url": "https://www.mpi-sws.org/people/xnsantos-/",
-    "source": "https://people.mpi-sws.org/~gummadi/"
+    "source": "https://people.mpi-sws.org/~gummadi/",
+    "coAdvisor": "Rodrigo Rodrigues"
   },
   {
     "name": "Massimiliano Marcon",
@@ -222,11 +225,11 @@
     "name": "Alan Mislove",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "note": "Ph.D. student (coadvised with Peter Druschel)",
     "destinationRole": "Assistant Professor",
     "destination": "Northeastern University",
     "destinationType": "First destination",
     "url": "https://www.ccs.neu.edu/home/amislove",
-    "source": "https://people.mpi-sws.org/~gummadi/"
+    "source": "https://people.mpi-sws.org/~gummadi/",
+    "coAdvisor": "Peter Druschel"
   }
 ]

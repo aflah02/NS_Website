@@ -8,11 +8,9 @@
     "topics": [
       "ai"
     ],
-    "summary": "Efficient positional representations for stable language-model training.",
     "url": "https://aclanthology.org/2026.emnlp-main.1455/",
     "source": "https://aclanthology.org/2026.emnlp-main.1455/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.emnlp-main.1455.pdf",
     "publication_date": "2026-10",
     "links": [
       {
@@ -22,10 +20,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3733025"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2603.11611"
       }
     ]
   },
@@ -39,17 +33,11 @@
       "ai",
       "social"
     ],
-    "summary": "Characterizing search decisions and strategies of conversational agents.",
     "url": "https://arxiv.org/abs/2609.19244",
     "source": "https://arxiv.org/abs/2609.19244",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2609.19244",
     "publication_date": "2026-09-16",
     "links": [
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2609.19244"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/corr/abs-2609-19244"
@@ -65,11 +53,10 @@
     "topics": [
       "ai"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2609.10410",
+    "url": "https://arxiv.org/abs/2609.10410",
     "source": "https://dblp.org/rec/journals/corr/abs-2609-10410",
     "status": "preprint",
     "publication_date": "2026-09",
-    "pdf": "https://arxiv.org/pdf/2609.10410",
     "links": [
       {
         "label": "Project",
@@ -90,11 +77,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2609.11373",
+    "url": "https://arxiv.org/abs/2609.11373",
     "source": "https://dblp.org/rec/journals/corr/abs-2609-11373",
     "status": "preprint",
     "publication_date": "2026-09",
-    "pdf": "https://arxiv.org/pdf/2609.11373",
     "links": [
       {
         "label": "DBLP",
@@ -111,23 +97,14 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2607.26204",
+    "url": "https://arxiv.org/abs/2607.26204",
     "source": "https://dblp.org/rec/journals/corr/abs-2607-26204",
     "status": "preprint",
     "publication_date": "2026-07-28",
-    "pdf": "https://arxiv.org/pdf/2607.26204",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2607.26204"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3733040"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/arXiv.2607.26204"
       },
       {
         "label": "DBLP",
@@ -147,7 +124,6 @@
     "url": "https://doi.org/10.1109/ICBC67748.2026.11575466",
     "source": "https://dblp.org/rec/conf/icbc2/PahariCMGD26",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2604.25959",
     "publication_date": "2026-07-01",
     "links": [
       {
@@ -155,8 +131,8 @@
         "url": "https://pure.mpg.de/view/item_3731874"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2604.25959"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2604.25959"
       },
       {
         "label": "DBLP",
@@ -177,7 +153,6 @@
     "url": "https://doi.org/10.1109/SP63933.2026.00051",
     "source": "https://dblp.org/rec/conf/sp/KarnamDDMBGMWZ26",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2502.11208",
     "publication_date": "2026-07-01",
     "links": [
       {
@@ -185,8 +160,8 @@
         "url": "https://pure.mpg.de/view/item_3652550"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2502.11208"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2502.11208"
       },
       {
         "label": "DBLP",
@@ -204,20 +179,14 @@
       "ai",
       "social"
     ],
-    "summary": "How generative search changes retrieval, source diversity, and answer stability.",
     "url": "https://aclanthology.org/2026.findings-acl.526/",
     "source": "https://aclanthology.org/2026.findings-acl.526/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.findings-acl.526.pdf",
     "publication_date": "2026-07",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3731793"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.18653/V1/2026.FINDINGS-ACL.526"
       }
     ]
   },
@@ -230,11 +199,9 @@
     "topics": [
       "ai"
     ],
-    "summary": "Formal languages offer a controlled comparison of fine-tuning and in-context learning.",
     "url": "https://aclanthology.org/2026.acl-long.1932/",
     "source": "https://aclanthology.org/2026.acl-long.1932/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.acl-long.1932.pdf",
     "publication_date": "2026-07",
     "links": [
       {
@@ -244,10 +211,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3731847"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.18653/V1/2026.ACL-LONG.1932"
       }
     ]
   },
@@ -260,20 +223,14 @@
     "topics": [
       "ai"
     ],
-    "summary": "Dynamically selecting and combining LoRA adapters for individual inputs.",
     "url": "https://aclanthology.org/2026.acl-long.1837/",
     "source": "https://aclanthology.org/2026.acl-long.1837/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.acl-long.1837.pdf",
     "publication_date": "2026-07",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3731826"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.18653/V1/2026.ACL-LONG.1837"
       }
     ]
   },
@@ -310,23 +267,14 @@
     "topics": [
       "ai"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2605.20006",
+    "url": "https://arxiv.org/abs/2605.20006",
     "source": "https://dblp.org/rec/journals/corr/abs-2605-20006",
     "status": "preprint",
     "publication_date": "2026-05-19",
-    "pdf": "https://arxiv.org/pdf/2605.20006",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2605.20006"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3733036"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/arXiv.2605.20006"
       },
       {
         "label": "DBLP",
@@ -343,11 +291,9 @@
     "topics": [
       "ai"
     ],
-    "summary": "Evaluating when language-model agents should use external tools.",
     "url": "https://arxiv.org/abs/2605.00737",
     "source": "https://arxiv.org/abs/2605.00737",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2605.00737",
     "publication_date": "2026-05-01",
     "links": [
       {
@@ -357,10 +303,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3733029"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2605.00737"
       },
       {
         "label": "DBLP",
@@ -377,10 +319,8 @@
     "topics": [
       "ai"
     ],
-    "summary": "A model suite for investigating memorization during language-model training.",
     "url": "https://arxiv.org/abs/2510.19811",
     "source": "https://arxiv.org/abs/2510.19811",
-    "pdf": "https://arxiv.org/pdf/2510.19811",
     "status": "published",
     "publication_date": "2026-04-23",
     "links": [
@@ -391,10 +331,6 @@
       {
         "label": "Publisher",
         "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/ca22641c182b3b9608634edb4d09bc33-Abstract-Conference.html"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2510.19811"
       },
       {
         "label": "DBLP",
@@ -412,10 +348,8 @@
       "ai",
       "privacy"
     ],
-    "summary": "Investigating latent source preferences in language-model generations.",
     "url": "https://arxiv.org/abs/2602.15456",
     "source": "https://arxiv.org/abs/2602.15456",
-    "pdf": "https://arxiv.org/pdf/2602.15456",
     "status": "published",
     "publication_date": "2026-04-23",
     "links": [
@@ -426,10 +360,6 @@
       {
         "label": "Publisher",
         "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/bb3a308fd06c7f88ba5a81af60e8977a-Abstract-Conference.html"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2602.15456"
       }
     ]
   },
@@ -442,20 +372,14 @@
     "topics": [
       "ai"
     ],
-    "summary": "Studying when memorized information supports generalization.",
     "url": "https://arxiv.org/abs/2507.21914",
     "source": "https://arxiv.org/abs/2507.21914",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2507.21914",
     "publication_date": "2026-04-23",
     "links": [
       {
         "label": "Publisher",
         "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/08a362bd4ae1934e099ce025f06039fe-Abstract-Conference.html"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2507.21914"
       },
       {
         "label": "DBLP",
@@ -473,10 +397,8 @@
       "social",
       "ai"
     ],
-    "summary": "Studying how people’s interactions with conversational AI evolve.",
     "url": "https://arxiv.org/abs/2602.01114",
     "source": "https://arxiv.org/abs/2602.01114",
-    "pdf": "https://arxiv.org/pdf/2602.01114",
     "status": "published",
     "publication_date": "2026-04-12",
     "links": [
@@ -504,10 +426,8 @@
       "privacy",
       "social"
     ],
-    "summary": "Comparing data collection practices and user expectations across subscription models.",
     "url": "https://arxiv.org/abs/2602.01231",
     "source": "https://arxiv.org/abs/2602.01231",
-    "pdf": "https://arxiv.org/pdf/2602.01231",
     "status": "published",
     "publication_date": "2026-04-12",
     "links": [
@@ -535,11 +455,9 @@
       "ai",
       "privacy"
     ],
-    "summary": "An empirical investigation of the information stored in ChatGPT memory.",
     "url": "https://arxiv.org/abs/2602.01450",
     "source": "https://arxiv.org/abs/2602.01450",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2602.01450",
     "publication_date": "2026-04-12",
     "links": [
       {
@@ -565,11 +483,9 @@
     "topics": [
       "ai"
     ],
-    "summary": "Examining the relationship between memorization and learning during training.",
     "url": "https://arxiv.org/abs/2507.14777v2",
     "source": "https://arxiv.org/abs/2507.14777v2",
-    "status": "accepted",
-    "pdf": "https://arxiv.org/pdf/2507.14777v2"
+    "status": "accepted"
   },
   {
     "id": "open-set-classification-for-rare-and-unknown-urban-tree-taxa",
@@ -600,11 +516,10 @@
     "topics": [
       "ai"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2507.14777",
+    "url": "https://arxiv.org/abs/2507.14777",
     "source": "https://dblp.org/rec/journals/corr/abs-2507-14777",
     "status": "preprint",
     "publication_date": "2025-07",
-    "pdf": "https://arxiv.org/pdf/2507.14777",
     "links": [
       {
         "label": "DBLP",
@@ -624,7 +539,6 @@
     "url": "https://doi.org/10.1609/ICWSM.V19I1.35922",
     "source": "https://dblp.org/rec/conf/icwsm/YangMDGW25",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2501.15539",
     "publication_date": "2025-06-07",
     "links": [
       {
@@ -632,8 +546,8 @@
         "url": "https://pure.mpg.de/view/item_3644399"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2501.15539"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2501.15539"
       },
       {
         "label": "DBLP",
@@ -674,20 +588,14 @@
     "topics": [
       "ai"
     ],
-    "summary": "Estimating factual knowledge without relying on a single prompt.",
     "url": "https://arxiv.org/abs/2404.12957",
     "source": "https://arxiv.org/abs/2404.12957",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2404.12957",
     "publication_date": "2025-03-10",
     "links": [
       {
         "label": "GitHub",
         "url": "https://github.com/QinyuanWu0710/ZeroPrompt_LKE"
-      },
-      {
-        "label": "arXiv",
-        "url": "https://doi.org/10.48550/ARXIV.2404.12957"
       },
       {
         "label": "MPI archive",
@@ -709,23 +617,14 @@
       "ai",
       "privacy"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2502.13313",
+    "url": "https://arxiv.org/abs/2502.13313",
     "source": "https://dblp.org/rec/journals/corr/abs-2502-13313",
     "status": "preprint",
     "publication_date": "2025-02-18",
-    "pdf": "https://arxiv.org/pdf/2502.13313",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2502.13313"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3652559"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/arXiv.2502.13313"
       },
       {
         "label": "DBLP",
@@ -743,19 +642,13 @@
       "ai",
       "fairness"
     ],
-    "summary": "Understanding specialization for legal annotation.",
     "url": "https://arxiv.org/abs/2407.16615",
     "source": "https://arxiv.org/abs/2407.16615",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2407.16615",
     "links": [
       {
         "label": "GitHub",
         "url": "https://github.com/socialfoundations/lawma"
-      },
-      {
-        "label": "arXiv",
-        "url": "https://doi.org/10.48550/ARXIV.2407.16615"
       },
       {
         "label": "MPI archive",
@@ -776,19 +669,13 @@
     "topics": [
       "ai"
     ],
-    "summary": "Open tools for inspecting and editing language-model pretraining data.",
     "url": "https://aclanthology.org/2025.emnlp-demos.50/",
     "source": "https://aclanthology.org/2025.emnlp-demos.50/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2025.emnlp-demos.50.pdf",
     "links": [
       {
         "label": "GitHub",
         "url": "https://github.com/aflah02/TokenSmith"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.18653/V1/2025.EMNLP-DEMOS.50"
       },
       {
         "label": "DBLP",
@@ -808,7 +695,6 @@
     "url": "https://doi.org/10.1145/3686987",
     "source": "https://dblp.org/rec/journals/pacmhci/Grgic-Hlaca0GV24",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2407.11225",
     "publication_date": "2024-11-08",
     "links": [
       {
@@ -816,8 +702,8 @@
         "url": "https://pure.mpg.de/view/item_3625058"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2407.11225"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2407.11225"
       },
       {
         "label": "DBLP",
@@ -837,7 +723,6 @@
     "url": "https://doi.org/10.1145/3686994",
     "source": "https://dblp.org/rec/journals/pacmhci/DashC00G24",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2407.01732",
     "publication_date": "2024-11-08",
     "links": [
       {
@@ -845,8 +730,8 @@
         "url": "https://pure.mpg.de/view/item_3625042"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2407.01732"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2407.01732"
       },
       {
         "label": "DBLP",
@@ -891,7 +776,6 @@
     "url": "https://doi.org/10.1145/3589334.3645600",
     "source": "https://dblp.org/rec/conf/www/VombatkereMZRG24",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2403.12410",
     "publication_date": "2024-05-13",
     "links": [
       {
@@ -899,8 +783,8 @@
         "url": "https://pure.mpg.de/view/item_3594454"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2403.12410"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2403.12410"
       },
       {
         "label": "DBLP",
@@ -941,16 +825,11 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2403.18623",
+    "url": "https://arxiv.org/abs/2403.18623",
     "source": "https://dblp.org/rec/journals/corr/abs-2403-18623",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2403.18623",
     "publication_date": "2024-03-27",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2403.18623"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3594457"
@@ -979,10 +858,6 @@
         "url": "https://pure.mpg.de/view/item_3600523"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.1609/icwsm.v18i1.31376"
-      },
-      {
         "label": "DBLP",
         "url": "https://dblp.org/rec/conf/icwsm/MousaviGZ24"
       }
@@ -1000,19 +875,14 @@
     "url": "https://doi.org/10.1007/978-3-031-47751-5_13",
     "source": "https://dblp.org/rec/conf/fc/MessiasPCGL23",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2302.06962",
     "links": [
-      {
-        "label": "Full text",
-        "url": "https://rdcu.be/d7bF5"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3518673"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2302.06962"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2302.06962"
       }
     ]
   },
@@ -1028,7 +898,6 @@
     "url": "https://doi.org/10.1609/AIES.V7I1.31639",
     "source": "https://dblp.org/rec/conf/aies/Dash00CG24",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2407.19099",
     "links": [
       {
         "label": "arXiv",
@@ -1037,10 +906,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3644137"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2407.19099"
       }
     ]
   },
@@ -1053,10 +918,9 @@
     "topics": [
       "ai"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2407.19262",
+    "url": "https://arxiv.org/abs/2407.19262",
     "source": "https://dblp.org/rec/journals/corr/abs-2407-19262",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2407.19262",
     "links": [
       {
         "label": "DBLP",
@@ -1073,11 +937,9 @@
     "topics": [
       "ai"
     ],
-    "summary": "Investigating how invariance affects the transfer of learned representations.",
     "url": "https://arxiv.org/abs/2407.04325",
     "source": "https://arxiv.org/abs/2407.04325",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2407.04325",
     "links": [
       {
         "label": "GitHub",
@@ -1090,10 +952,6 @@
       {
         "label": "Publisher",
         "url": "https://openreview.net/forum?id=spJI4LSPIU"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2407.04325"
       }
     ]
   },
@@ -1106,11 +964,9 @@
     "topics": [
       "ai"
     ],
-    "summary": "Understanding how information is distributed across pretrained representations.",
     "url": "https://arxiv.org/abs/2306.00183",
     "source": "https://arxiv.org/abs/2306.00183",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2306.00183",
     "publication_date": "2023-05-31",
     "links": [
       {
@@ -1124,10 +980,6 @@
       {
         "label": "Publisher",
         "url": "https://papers.nips.cc/paper_files/paper/2023/hash/0c86142265c5e2c900613dd1d031cb90-Abstract-Conference.html"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2306.00183"
       }
     ]
   },
@@ -1140,23 +992,14 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2305.19294",
+    "url": "https://arxiv.org/abs/2305.19294",
     "source": "https://dblp.org/rec/journals/corr/abs-2305-19294",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2305.19294",
     "publication_date": "2023-05-30",
     "links": [
       {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2305.19294"
-      },
-      {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3518680"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/arXiv.2305.19294"
       },
       {
         "label": "DBLP",
@@ -1173,23 +1016,14 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2305.17655",
+    "url": "https://arxiv.org/abs/2305.17655",
     "source": "https://dblp.org/rec/journals/corr/abs-2305-17655",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2305.17655",
     "publication_date": "2023-05-28",
     "links": [
       {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2305.17655"
-      },
-      {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3518676"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/arXiv.2305.17655"
       },
       {
         "label": "DBLP",
@@ -1212,7 +1046,6 @@
     "source": "https://dblp.org/rec/journals/tkde/AliBCMGS23",
     "status": "published",
     "publication_date": "2023-03",
-    "pdf": "https://arxiv.org/pdf/1905.06618",
     "links": [
       {
         "label": "arXiv",
@@ -1221,10 +1054,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3496660"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1905.06618"
       },
       {
         "label": "DBLP",
@@ -1249,10 +1078,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3457789"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1007/s10994-022-06248-y"
       },
       {
         "label": "DBLP",
@@ -1280,10 +1105,6 @@
         "url": "https://pure.mpg.de/view/item_3528379"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.1609/aaai.v37i8.26112"
-      },
-      {
         "label": "DBLP",
         "url": "https://dblp.org/rec/conf/aaai/NandaMKDGLW23"
       }
@@ -1298,23 +1119,14 @@
     "topics": [
       "social"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2301.04945",
+    "url": "https://arxiv.org/abs/2301.04945",
     "source": "https://dblp.org/rec/journals/corr/abs-2301-04945",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2301.04945",
     "publication_date": "2023-01-12",
     "links": [
       {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2301.04945"
-      },
-      {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3496738"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/arXiv.2301.04945"
       },
       {
         "label": "DBLP",
@@ -1334,7 +1146,6 @@
     "url": "https://doi.org/10.1609/ICWSM.V17I1.22168",
     "source": "https://dblp.org/rec/conf/icwsm/LingGZ23",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2201.07726",
     "links": [
       {
         "label": "arXiv",
@@ -1343,10 +1154,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3367425"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2201.07726"
       }
     ]
   },
@@ -1363,15 +1170,14 @@
     "url": "https://doi.org/10.1109/TCSS.2022.3164655",
     "source": "https://dblp.org/rec/journals/tcss/DashC00G23",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2204.00241",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3388112"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2204.00241"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2204.00241"
       },
       {
         "label": "DBLP",
@@ -1392,15 +1198,14 @@
     "url": "https://doi.org/10.1145/3485447.3512265",
     "source": "https://dblp.org/rec/conf/www/DashC00G22",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2202.03934",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3388058"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2202.03934"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2202.03934"
       },
       {
         "label": "DBLP",
@@ -1421,7 +1226,6 @@
     "url": "https://doi.org/10.1609/AAAI.V36I11.21454",
     "source": "https://dblp.org/rec/conf/aaai/KhajehnejadKBGW22",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2105.02725",
     "links": [
       {
         "label": "arXiv",
@@ -1430,10 +1234,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3355996"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2105.02725"
       }
     ]
   },
@@ -1449,15 +1249,14 @@
     "url": "https://doi.org/10.1145/3531146.3533199",
     "source": "https://dblp.org/rec/conf/fat/RateikeMMGV22",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2205.04790",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3395767"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2205.04790"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2205.04790"
       },
       {
         "label": "DBLP",
@@ -1474,11 +1273,9 @@
     "topics": [
       "ai"
     ],
-    "summary": "Assessing robustness by comparing the invariances of learned representations.",
     "url": "https://arxiv.org/abs/2206.11939",
     "source": "https://arxiv.org/abs/2206.11939",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2206.11939",
     "links": [
       {
         "label": "GitHub",
@@ -1491,10 +1288,6 @@
       {
         "label": "Publisher",
         "url": "https://proceedings.mlr.press/v162/nanda22a.html"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2206.11939"
       }
     ]
   },
@@ -1510,7 +1303,6 @@
     "url": "https://doi.org/10.1016/J.ARTINT.2021.103609",
     "source": "https://dblp.org/rec/journals/ai/EmelianovGGL22",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2112.05630",
     "links": [
       {
         "label": "arXiv",
@@ -1519,10 +1311,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3360035"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2112.05630"
       }
     ]
   },
@@ -1563,7 +1351,6 @@
     "url": "https://doi.org/10.1145/3485447.3512136",
     "source": "https://dblp.org/rec/conf/www/PatroJCGG22",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2204.12062",
     "links": [
       {
         "label": "arXiv",
@@ -1574,8 +1361,8 @@
         "url": "https://pure.mpg.de/view/item_3386565"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2204.12062"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2204.12062"
       },
       {
         "label": "DBLP",
@@ -1595,15 +1382,14 @@
     "url": "https://doi.org/10.1609/HCOMP.V10I1.21989",
     "source": "https://dblp.org/rec/conf/hcomp/Grgic-HlacaCG22",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2209.03821",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3458468"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2209.03821"
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2209.03821"
       }
     ]
   },
@@ -1619,7 +1405,6 @@
     "url": "https://doi.org/10.1145/3503624",
     "source": "https://dblp.org/rec/journals/tweb/BiswasPGGC22",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2201.01180",
     "links": [
       {
         "label": "arXiv",
@@ -1644,19 +1429,14 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2111.14726",
+    "url": "https://arxiv.org/abs/2111.14726",
     "source": "https://dblp.org/rec/journals/corr/abs-2111-14726",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2111.14726",
     "publication_date": "2021-11-29",
     "links": [
       {
         "label": "GitHub",
         "url": "https://github.com/nvedant07/Human-NN-Alignment"
-      },
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2111.14726"
       },
       {
         "label": "DBLP",
@@ -1674,7 +1454,6 @@
       "privacy",
       "fairness"
     ],
-    "summary": "Auditing black-box prediction models for data minimization.",
     "url": "https://papers.neurips.cc/paper_files/paper/2021/hash/ac6b3cce8c74b2e23688c3e45532e2a7-Abstract.html",
     "source": "https://papers.neurips.cc/paper_files/paper/2021/hash/ac6b3cce8c74b2e23688c3e45532e2a7-Abstract.html",
     "status": "published",
@@ -1708,16 +1487,11 @@
       "fairness",
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2106.02970",
+    "url": "https://arxiv.org/abs/2106.02970",
     "source": "https://dblp.org/rec/journals/corr/abs-2106-02970",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2106.02970",
     "publication_date": "2021-06-05",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2106.02970"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3356003"
@@ -1737,11 +1511,9 @@
     "topics": [
       "fairness"
     ],
-    "summary": "Distinguishing sources of uncertainty when assessing algorithmic discrimination.",
     "url": "https://arxiv.org/abs/2105.04249",
     "source": "https://arxiv.org/abs/2105.04249",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2105.04249",
     "links": [
       {
         "label": "MPI archive",
@@ -1788,7 +1560,6 @@
     "url": "https://doi.org/10.1109/ICDM51629.2021.00141",
     "source": "https://dblp.org/rec/conf/icdm/LahotiGW21",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2109.04432",
     "links": [
       {
         "label": "arXiv",
@@ -1797,10 +1568,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3347552"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2109.04432"
       }
     ]
   },
@@ -1839,7 +1606,6 @@
     "url": "https://doi.org/10.1145/3487552.3487823",
     "source": "https://dblp.org/rec/conf/imc/MessiasA0GLM21",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2110.11740",
     "links": [
       {
         "label": "arXiv",
@@ -1848,10 +1614,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3355994"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2110.11740"
       },
       {
         "label": "DBLP",
@@ -1871,7 +1633,6 @@
     "url": "https://doi.org/10.1145/3442188.3445944",
     "source": "https://dblp.org/rec/conf/fat/DashC00G21",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2102.00141",
     "links": [
       {
         "label": "arXiv",
@@ -1880,10 +1641,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3346901"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2102.00141"
       },
       {
         "label": "DBLP",
@@ -1900,16 +1657,11 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.2007.00251",
+    "url": "https://arxiv.org/abs/2007.00251",
     "source": "https://dblp.org/rec/journals/corr/abs-2007-00251",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2007.00251",
     "publication_date": "2020-07-01",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/2007.00251"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/corr/abs-2007-00251"
@@ -1925,15 +1677,10 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://ceur-ws.org/Vol-2560/paper24.pdf",
+    "url": "https://pure.mpg.de/view/item_3325107",
     "source": "https://dblp.org/rec/conf/aaai/BakkerVTGVWP20",
     "status": "published",
-    "pdf": "https://ceur-ws.org/Vol-2560/paper24.pdf",
     "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_3325107"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/conf/aaai/BakkerVTGVWP20"
@@ -1953,7 +1700,6 @@
     "url": "https://doi.org/10.1145/3386392.3399568",
     "source": "https://dblp.org/rec/conf/um/RastegarpanahCG20",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2005.09209",
     "links": [
       {
         "label": "arXiv",
@@ -1962,10 +1708,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3325233"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2005.09209"
       },
       {
         "label": "DBLP",
@@ -1987,16 +1729,12 @@
     "status": "published",
     "links": [
       {
-        "label": "Full text",
-        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5349/5205"
+        "label": "Publisher",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5349"
       },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3324387"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1609/aaai.v34i01.5349"
       },
       {
         "label": "DBLP",
@@ -2040,7 +1778,6 @@
     "url": "https://doi.org/10.1145/3366423.3380196",
     "source": "https://dblp.org/rec/conf/www/PatroBGGC20",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2002.10764",
     "links": [
       {
         "label": "arXiv",
@@ -2049,10 +1786,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3325240"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2002.10764"
       },
       {
         "label": "DBLP",
@@ -2072,7 +1805,6 @@
     "url": "https://dl.acm.org/doi/10.5555/3398761.3398912",
     "source": "https://dblp.org/rec/conf/atal/StoicaCDG20",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1909.05583",
     "links": [
       {
         "label": "arXiv",
@@ -2081,10 +1813,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3324402"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1909.05583"
       }
     ]
   },
@@ -2100,7 +1828,6 @@
     "url": "https://doi.org/10.1145/3391403.3399482",
     "source": "https://dblp.org/rec/conf/sigecom/EmelianovGGL20",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2006.13699",
     "links": [
       {
         "label": "arXiv",
@@ -2109,10 +1836,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3324870"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2006.13699"
       },
       {
         "label": "DBLP",
@@ -2152,16 +1875,11 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.1910.13983",
+    "url": "https://arxiv.org/abs/1910.13983",
     "source": "https://dblp.org/rec/journals/corr/abs-1910-13983",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/1910.13983",
     "publication_date": "2019-10-30",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1910.13983"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/corr/abs-1910-13983"
@@ -2177,16 +1895,11 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.1910.10255",
+    "url": "https://arxiv.org/abs/1910.10255",
     "source": "https://dblp.org/rec/journals/corr/abs-1910-10255",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/1910.10255",
     "publication_date": "2019-10-22",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1910.10255"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/corr/abs-1910-10255"
@@ -2203,16 +1916,11 @@
       "fairness",
       "social"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.1909.10005",
+    "url": "https://arxiv.org/abs/1909.10005",
     "source": "https://dblp.org/rec/journals/corr/abs-1909-10005",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/1909.10005",
     "publication_date": "2019-09-22",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1909.10005"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/corr/abs-1909-10005"
@@ -2231,7 +1939,6 @@
     "url": "https://doi.org/10.1145/3287560.3287584",
     "source": "https://dblp.org/rec/conf/fat/HeidariLGK19",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1809.03400",
     "links": [
       {
         "label": "arXiv",
@@ -2355,7 +2062,6 @@
     "url": "https://doi.org/10.1145/3287560.3287570",
     "source": "https://dblp.org/rec/conf/fat/ChakrabortyPGGL19",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1811.08690",
     "links": [
       {
         "label": "arXiv",
@@ -2364,10 +2070,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3217130"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1811.08690"
       },
       {
         "label": "DBLP",
@@ -2415,7 +2117,6 @@
     "url": "https://doi.org/10.1145/3289600.3291002",
     "source": "https://dblp.org/rec/conf/wsdm/RastegarpanahGC19",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1812.01504",
     "links": [
       {
         "label": "arXiv",
@@ -2424,10 +2125,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3218530"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1812.01504"
       },
       {
         "label": "DBLP",
@@ -2490,11 +2187,9 @@
     "topics": [
       "fairness"
     ],
-    "summary": "Learning representations that preserve individual fairness.",
     "url": "https://arxiv.org/abs/1806.01059",
     "source": "https://arxiv.org/abs/1806.01059",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1806.01059",
     "links": [
       {
         "label": "MPI archive",
@@ -2524,10 +2219,6 @@
         "url": "https://pure.mpg.de/view/item_3218003"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.2478/popets-2019-0012"
-      },
-      {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/popets/MinaeiMLGK19"
       }
@@ -2545,7 +2236,6 @@
     "url": "https://doi.org/10.1145/3306618.3314266",
     "source": "https://dblp.org/rec/conf/aies/AliZSG19",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/2105.04273",
     "links": [
       {
         "label": "GitHub",
@@ -2558,10 +2248,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3217034"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.2105.04273"
       }
     ]
   },
@@ -2577,7 +2263,6 @@
     "url": "https://doi.org/10.1145/3287560.3287580",
     "source": "https://dblp.org/rec/conf/fat/RibeiroSBHMBGGR19",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1808.09218",
     "links": [
       {
         "label": "arXiv",
@@ -2586,10 +2271,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3217137"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1808.09218"
       },
       {
         "label": "DBLP",
@@ -2630,11 +2311,9 @@
     "topics": [
       "fairness"
     ],
-    "summary": "Studying how decision policies reshape behavior and long-term outcomes.",
     "url": "https://arxiv.org/abs/1903.01209",
     "source": "https://arxiv.org/abs/1903.01209",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1903.01209",
     "links": [
       {
         "label": "GitHub",
@@ -2647,10 +2326,6 @@
       {
         "label": "Publisher",
         "url": "https://proceedings.mlr.press/v97/heidari19a.html"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1903.01209"
       }
     ]
   },
@@ -2663,22 +2338,13 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://www.vldb.org/pvldb/vol13/p506-lahoti.pdf",
+    "url": "https://arxiv.org/abs/1907.01439",
     "source": "https://dblp.org/rec/journals/pvldb/LahotiGW19",
     "status": "published",
-    "pdf": "https://www.vldb.org/pvldb/vol13/p506-lahoti.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1907.01439"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3218525"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1907.01439"
       }
     ]
   },
@@ -2698,10 +2364,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3217382"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1007/s10791-019-09351-2"
       },
       {
         "label": "DBLP",
@@ -2727,10 +2389,6 @@
         "url": "https://pure.mpg.de/view/item_3217399"
       },
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.1007/s10791-018-9341-2"
-      },
-      {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/ir/KulshresthaEMZG19"
       }
@@ -2748,7 +2406,6 @@
     "url": "https://doi.org/10.24963/IJCAI.2019/809",
     "source": "https://dblp.org/rec/conf/ijcai/EmelianovAGGL19",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1906.06613",
     "links": [
       {
         "label": "arXiv",
@@ -2757,10 +2414,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3217376"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1906.06613"
       }
     ]
   },
@@ -2820,16 +2473,10 @@
     "topics": [
       "fairness"
     ],
-    "summary": "Connecting individual and group unfairness through inequality measures.",
     "url": "https://arxiv.org/abs/1807.00787",
     "source": "https://arxiv.org/abs/1807.00787",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1807.00787",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://people.mpi-sws.org/~gummadi/papers/speicher2018a.pdf"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3038843"
@@ -2849,10 +2496,9 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/fair_feature_selection.pdf",
+    "url": "https://doi.org/10.1609/AAAI.V32I1.11296",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fair_feature_selection.pdf",
     "links": [
       {
         "label": "MPI archive",
@@ -2861,10 +2507,6 @@
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16523"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1609/AAAI.V32I1.11296"
       }
     ]
   },
@@ -2877,15 +2519,10 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/kilbertus18a.pdf",
+    "url": "https://arxiv.org/abs/1806.03281",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/kilbertus18a.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1806.03281"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3038804"
@@ -2893,10 +2530,6 @@
       {
         "label": "Publisher",
         "url": "https://proceedings.mlr.press/v80/kilbertus18a.html"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1806.03281"
       }
     ]
   },
@@ -2928,15 +2561,10 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/equity_of_attention_sigir2018.pdf",
+    "url": "https://arxiv.org/abs/1805.01788",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/equity_of_attention_sigir2018.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1805.01788"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2640306"
@@ -2956,10 +2584,9 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "url": "https://proceedings.neurips.cc/paper/2018/hash/be3159ad04564bfb90db9e32851ebf9c-Abstract.html",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1806.04959",
     "links": [
       {
         "label": "arXiv",
@@ -2968,10 +2595,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3039059"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1806.04959"
       }
     ]
   },
@@ -2984,15 +2607,10 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/perceptions_www2018.pdf",
+    "url": "https://arxiv.org/abs/1802.09548",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/perceptions_www2018.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1802.09548"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3039883"
@@ -3012,22 +2630,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/fb_explanations.pdf",
+    "url": "https://doi.org/10.14722/ndss.2018.23191",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fb_explanations.pdf",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_10-1_Andreou_paper.pdf"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_3038844"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.14722/ndss.2018.23191"
       }
     ]
   },
@@ -3044,7 +2653,6 @@
     "url": "https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17878",
     "source": "https://dblp.org/rec/conf/icwsm/RibeiroHBCKBG18",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/ribiero_bias_monitor_ICWSM18.pdf",
     "links": [
       {
         "label": "MPI archive",
@@ -3068,7 +2676,6 @@
     "url": "https://proceedings.mlr.press/v81/speicher18a.html",
     "source": "https://dblp.org/rec/conf/fat/SpeicherAVRABGL18",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/speicher18.pdf",
     "links": [
       {
         "label": "MPI archive",
@@ -3093,7 +2700,6 @@
     "url": "https://doi.org/10.1109/SP.2018.00014",
     "source": "https://dblp.org/rec/conf/sp/VenkatadriALMGL18",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fb_custom_audience_sandp.pdf",
     "links": [
       {
         "label": "MPI archive",
@@ -3160,16 +2766,11 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.1710.11271",
+    "url": "https://arxiv.org/abs/1710.11271",
     "source": "https://dblp.org/rec/journals/corr/abs-1710-11271",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/1710.11271",
     "publication_date": "2017-10-30",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1710.11271"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/corr/abs-1710-11271"
@@ -3185,16 +2786,11 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.1708.00670",
+    "url": "https://arxiv.org/abs/1708.00670",
     "source": "https://dblp.org/rec/journals/corr/abs-1708-00670",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/1708.00670",
     "publication_date": "2017-08-02",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1708.00670"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2563018"
@@ -3263,7 +2859,6 @@
     "url": "https://doi.org/10.1145/3038912.3052660",
     "source": "https://dblp.org/rec/conf/www/ZafarVGG17",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1610.08452",
     "links": [
       {
         "label": "GitHub",
@@ -3276,10 +2871,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562663"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1610.08452"
       }
     ]
   },
@@ -3292,26 +2883,17 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/disparate_impact_AISTATS_2017.pdf",
+    "url": "https://arxiv.org/abs/1507.05259",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/disparate_impact_AISTATS_2017.pdf",
     "links": [
       {
         "label": "GitHub",
         "url": "https://github.com/mbilalzafar/fair-classification"
       },
       {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1507.05259"
-      },
-      {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2558006"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1507.05259"
       }
     ]
   },
@@ -3327,7 +2909,6 @@
     "url": "https://arxiv.org/abs/1707.00010",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1707.00010",
     "links": [
       {
         "label": "GitHub",
@@ -3336,10 +2917,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2556489"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1707.00010"
       }
     ]
   },
@@ -3352,18 +2929,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-ccr17.pdf",
+    "url": "https://doi.org/10.1145/3155055.3155058",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-ccr17.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562962"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/3155055.3155058"
       },
       {
         "label": "DBLP",
@@ -3380,18 +2952,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/fp2146-biegaA-hm.pdf",
+    "url": "https://doi.org/10.1145/3132847.3133040",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fp2146-biegaA-hm.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562337"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/3132847.3133040"
       },
       {
         "label": "DBLP",
@@ -3408,10 +2975,9 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/padr-2017.pdf",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12102",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/padr-2017.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-13",
@@ -3422,18 +2988,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/singh-ICTD-2017.pdf",
+    "url": "https://doi.org/10.1145/3136560.3136568",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/singh-ICTD-2017.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562992"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/3136560.3136568"
       },
       {
         "label": "DBLP",
@@ -3450,18 +3011,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/IC-21-03-Mondal.pdf",
+    "url": "https://doi.org/10.1109/MIC.2017.76",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/IC-21-03-Mondal.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562591"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1109/MIC.2017.76"
       },
       {
         "label": "DBLP",
@@ -3481,15 +3037,10 @@
     "url": "https://arxiv.org/abs/1706.10208",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1706.10208",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562340"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1706.10208"
       },
       {
         "label": "DBLP",
@@ -3506,15 +3057,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/recency_relevancy_www2017.pdf",
+    "url": "https://doi.org/10.1145/3038912.3052656",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/recency_relevancy_www2017.pdf",
     "links": [
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/3038912.3052656"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/conf/www/ChakrabortyGGG17"
@@ -3530,15 +3076,10 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/search-bias-cscw-2017.pdf",
+    "url": "https://arxiv.org/abs/1704.01347",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/search-bias-cscw-2017.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1704.01347"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562953"
@@ -3558,22 +3099,13 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/who_makes_trends_icwsm17.pdf",
+    "url": "https://arxiv.org/abs/1704.00139",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/who_makes_trends_icwsm17.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1704.00139"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2562631"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1704.00139"
       }
     ]
   },
@@ -3606,15 +3138,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/topical_nontopical_diffusion.pdf",
+    "url": "https://arxiv.org/abs/1603.04425",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/topical_nontopical_diffusion.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1603.04425"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2420030"
@@ -3622,10 +3149,6 @@
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13130"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1603.04425"
       }
     ]
   },
@@ -3638,18 +3161,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/longitudinal_exposure.pdf",
+    "url": "https://www.usenix.org/conference/soups2016/technical-sessions/presentation/mondal",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/longitudinal_exposure.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2418760"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://www.usenix.org/conference/soups2016/technical-sessions/presentation/mondal"
       },
       {
         "label": "DBLP",
@@ -3666,15 +3184,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/impartiality.pdf",
+    "url": "https://pure.mpg.de/view/item_2422894",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/impartiality.pdf",
     "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2422894"
-      },
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13154"
@@ -3694,18 +3207,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/reddit_WPES2016.pdf",
+    "url": "https://dl.acm.org/citation.cfm?id=2994629",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/reddit_WPES2016.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2417028"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://dl.acm.org/citation.cfm?id=2994629"
       },
       {
         "label": "DOI",
@@ -3730,7 +3238,6 @@
     "url": "https://doi.org/10.1145/2835776.2835826",
     "source": "https://dblp.org/rec/conf/wsdm/BabaeiGVGG16",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1603.04447",
     "links": [
       {
         "label": "arXiv",
@@ -3739,10 +3246,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2420042"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1603.04447"
       }
     ]
   },
@@ -3755,15 +3258,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-IMC16.pdf",
+    "url": "https://dl.acm.org/citation.cfm?id=2987485",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/FreeBasics-IMC16.pdf",
     "links": [
-      {
-        "label": "Publisher",
-        "url": "https://dl.acm.org/citation.cfm?id=2987485"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/conf/imc/SenPPFSCG16"
@@ -3779,18 +3277,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/experts_crowds_cscw.pdf",
+    "url": "https://doi.org/10.1145/2818048.2819968",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/experts_crowds_cscw.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2420058"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/2818048.2819968"
       },
       {
         "label": "DBLP",
@@ -3807,18 +3300,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/fp385-biegaA.pdf",
+    "url": "https://doi.org/10.1145/2911451.2911533",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/fp385-biegaA.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2418747"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/2911451.2911533"
       },
       {
         "label": "DBLP",
@@ -3854,18 +3342,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/transfer_trust_WWW2016.pdf",
+    "url": "https://doi.org/10.1145/2872427.2883015",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/transfer_trust_WWW2016.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2418735"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/2872427.2883015"
       },
       {
         "label": "DBLP",
@@ -3882,16 +3365,9 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/process_fairness.pdf",
+    "url": "https://pure.mpg.de/view/item_2420076",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/process_fairness.pdf",
-    "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2420076"
-      }
-    ]
+    "status": "published"
   },
   {
     "id": "legacy-25",
@@ -3905,15 +3381,10 @@
     "url": "https://arxiv.org/abs/1610.10064",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://arxiv.org/pdf/1610.10064",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2420111"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1610.10064"
       },
       {
         "label": "DBLP",
@@ -3930,16 +3401,11 @@
     "topics": [
       "systems"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.1512.00770",
+    "url": "https://arxiv.org/abs/1512.00770",
     "source": "https://dblp.org/rec/journals/corr/GrabowiczRLPBG15",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/1512.00770",
     "publication_date": "2015-12-02",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1512.00770"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/corr/GrabowiczRLPBG15"
@@ -3955,16 +3421,9 @@
     "topics": [
       "fairness"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/temporal_coverage_bias_online_media.pdf",
+    "url": "https://pure.mpg.de/view/item_2247483",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/temporal_coverage_bias_online_media.pdf",
-    "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2247483"
-      }
-    ]
+    "status": "published"
   },
   {
     "id": "legacy-41",
@@ -3975,22 +3434,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/info_diet.pdf",
+    "url": "https://arxiv.org/abs/1704.01442",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/info_diet.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1704.01442"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2563007"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1704.01442"
       }
     ]
   },
@@ -4022,15 +3472,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/matching_kdd15.pdf",
+    "url": "https://arxiv.org/abs/1506.02289",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/matching_kdd15.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1506.02289"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2247498"
@@ -4054,7 +3499,6 @@
     "url": "https://doi.org/10.1145/2743023",
     "source": "https://dblp.org/rec/journals/tweb/ZafarBGGG15",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/sampletwitter_tweb.pdf",
     "links": [
       {
         "label": "MPI archive",
@@ -4075,18 +3519,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/cosn61-viswanathA1.pdf",
+    "url": "https://doi.org/10.1145/2817946.2817964",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/cosn61-viswanathA1.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2247468"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/2817946.2817964"
       },
       {
         "label": "DBLP",
@@ -4103,18 +3542,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/impersonators_IMC2015.pdf",
+    "url": "https://doi.org/10.1145/2815675.2815699",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/impersonators_IMC2015.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2247474"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/2815675.2815699"
       },
       {
         "label": "DBLP",
@@ -4131,15 +3565,10 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/anonymity_shades.pdf",
+    "url": "https://pure.mpg.de/view/item_2144344",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/anonymity_shades.pdf",
     "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2144344"
-      },
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10596"
@@ -4159,16 +3588,11 @@
     "topics": [
       "social"
     ],
-    "url": "https://doi.org/10.48550/ARXIV.1406.0516",
+    "url": "https://arxiv.org/abs/1406.0516",
     "source": "https://dblp.org/rec/journals/corr/ValeraGG14",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/1406.0516",
     "publication_date": "2014-06-02",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1406.0516"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2134671"
@@ -4188,16 +3612,9 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/usec2014-exposure.pdf",
+    "url": "https://pure.mpg.de/view/item_2129211",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/usec2014-exposure.pdf",
-    "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2129211"
-      }
-    ]
+    "status": "published"
   },
   {
     "id": "legacy-50",
@@ -4208,15 +3625,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/topicgroups_twitter.pdf",
+    "url": "https://doi.acm.org/10.1145/2531602.2531636",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/topicgroups_twitter.pdf",
     "links": [
-      {
-        "label": "Full text",
-        "url": "https://doi.acm.org/10.1145/2531602.2531636"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2134657"
@@ -4240,15 +3652,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/chi2014-contentpopularity.pdf",
+    "url": "https://doi.acm.org/10.1145/2556288.2557285",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/chi2014-contentpopularity.pdf",
     "links": [
-      {
-        "label": "Full text",
-        "url": "https://doi.acm.org/10.1145/2556288.2557285"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2134655"
@@ -4272,15 +3679,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/recsys14-userinterests.pdf",
+    "url": "https://doi.acm.org/10.1145/2645710.2645765",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/recsys14-userinterests.pdf",
     "links": [
-      {
-        "label": "Full text",
-        "url": "https://doi.acm.org/10.1145/2645710.2645765"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2134661"
@@ -4304,7 +3706,7 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "url": "https://ivaleram.github.io/publications.html#:~:text=Modeling%20Adoption%20and%20Usage%20Frequency",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published"
   },
@@ -4317,15 +3719,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/icwsm2014-overload.pdf",
+    "url": "https://arxiv.org/abs/1403.6838",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/icwsm2014-overload.pdf",
     "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1403.6838"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2134669"
@@ -4333,10 +3730,6 @@
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8108"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.48550/ARXIV.1403.6838"
       }
     ]
   },
@@ -4354,10 +3747,6 @@
     "status": "published",
     "links": [
       {
-        "label": "DOI",
-        "url": "https://doi.org/10.1140/epjds/s13688-014-0012-2"
-      },
-      {
         "label": "DBLP",
         "url": "https://dblp.org/rec/journals/epjds/AnQCGC14"
       }
@@ -4372,18 +3761,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/anomalous-socialbehavior.pdf",
+    "url": "https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/viswanath",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/anomalous-socialbehavior.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2134665"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/viswanath"
       },
       {
         "label": "DBLP",
@@ -4400,18 +3784,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/soups2014-sacls.pdf",
+    "url": "https://www.usenix.org/conference/soups2014/proceedings/presentation/mondal",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/soups2014-sacls.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2134663"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://www.usenix.org/conference/soups2014/proceedings/presentation/mondal"
       },
       {
         "label": "DBLP",
@@ -4428,18 +3807,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/sampletwitter.pdf",
+    "url": "https://doi.org/10.1145/2505515.2505615",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/sampletwitter.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173568"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/2505515.2505615"
       },
       {
         "label": "DBLP",
@@ -4479,18 +3853,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/Canal-EuroSys.pdf",
+    "url": "https://doi.acm.org/10.1145/2168836.2168867",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/Canal-EuroSys.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173272"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2168836.2168867"
       },
       {
         "label": "DOI",
@@ -4511,18 +3880,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/twitter_wtf.pdf",
+    "url": "https://doi.acm.org/10.1145/2348283.2348361",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/twitter_wtf.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173266"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2348283.2348361"
       },
       {
         "label": "DOI",
@@ -4543,18 +3907,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/conext208-mondal.pdf",
+    "url": "https://doi.org/10.1145/2413176.2413214",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/conext208-mondal.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173353"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/2413176.2413214"
       },
       {
         "label": "DBLP",
@@ -4571,7 +3930,7 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389128611003951",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
     "links": [
@@ -4598,18 +3957,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/sybil_defense.pdf",
+    "url": "https://doi.org/10.1109/COMSNETS.2012.6151333",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/sybil_defense.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173251"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1109/COMSNETS.2012.6151333"
       },
       {
         "label": "DBLP",
@@ -4645,15 +3999,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/kulshrestha-icwsm2012.pdf",
+    "url": "https://pure.mpg.de/view/item_2173269",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/kulshrestha-icwsm2012.pdf",
     "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2173269"
-      },
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4685"
@@ -4673,18 +4022,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/inferring_expertise.pdf",
+    "url": "https://doi.acm.org/10.1145/2342549.2342563",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/inferring_expertise.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173267"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2342549.2342563"
       },
       {
         "label": "DOI",
@@ -4701,22 +4045,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/santos_usenixsecurity12.pdf",
+    "url": "https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/santos",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/santos_usenixsecurity12.pdf",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final22.pdf"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173265"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/santos"
       },
       {
         "label": "DBLP",
@@ -4733,18 +4068,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/conventions.pdf",
+    "url": "https://doi.acm.org/10.1145/2396761.2396820",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/conventions.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173264"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2396761.2396820"
       },
       {
         "label": "DOI",
@@ -4765,18 +4095,13 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/friendlist_manager.pdf",
+    "url": "https://doi.acm.org/10.1145/2187980.2188055",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/friendlist_manager.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173271"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2187980.2188055"
       },
       {
         "label": "DOI",
@@ -4797,15 +4122,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/kooti-icwsm2012.pdf",
+    "url": "https://pure.mpg.de/view/item_2173268",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/kooti-icwsm2012.pdf",
     "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2173268"
-      },
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4661"
@@ -4825,17 +4145,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/publications.html",
+    "url": "https://doi.org/10.1109/TSMCA.2012.2183359",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173246"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1109/TSMCA.2012.2183359"
       },
       {
         "label": "DBLP",
@@ -4852,18 +4168,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/twitter_vulnerability.pdf",
+    "url": "https://doi.acm.org/10.1145/2187836.2187846",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/twitter_vulnerability.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173270"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2187836.2187846"
       },
       {
         "label": "DOI",
@@ -4884,18 +4195,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/imc081s-liu.pdf",
+    "url": "https://doi.acm.org/10.1145/2068816.2068823",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc081s-liu.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173321"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2068816.2068823"
       },
       {
         "label": "DOI",
@@ -4949,15 +4255,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/icwsm2011.pdf",
+    "url": "https://pure.mpg.de/view/item_2173322",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/icwsm2011.pdf",
     "links": [
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2173322"
-      },
       {
         "label": "Publisher",
         "url": "https://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/view/2825"
@@ -4990,18 +4291,13 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/imc102-tiago.pdf",
+    "url": "https://doi.acm.org/10.1145/2068816.2068852",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc102-tiago.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173320"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/2068816.2068852"
       },
       {
         "label": "DOI",
@@ -5025,7 +4321,6 @@
     "url": "https://doi.org/10.1145/1989240.1989253",
     "source": "https://dblp.org/rec/conf/nossdav/MarconVCG11",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/nossdav14s-marcon.pdf",
     "links": [
       {
         "label": "MPI archive",
@@ -5050,18 +4345,13 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/traffic_shaping.pdf",
+    "url": "https://doi.org/10.1109/COMSNETS.2011.5716420",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/traffic_shaping.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173324"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1109/COMSNETS.2011.5716420"
       },
       {
         "label": "DBLP",
@@ -5078,19 +4368,14 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/mlab-ccr-final.pdf",
+    "url": "https://doi.acm.org/10.1145/1823844.1823853",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mlab-ccr-final.pdf",
     "publication_date": "2010-06",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173355"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/1823844.1823853"
       },
       {
         "label": "DOI",
@@ -5111,18 +4396,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/iab_position.pdf",
+    "url": "https://www.iab.org/about/workshops/privacy/papers/alan_mislove",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/iab_position.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173383"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://www.iab.org/about/workshops/privacy/papers/alan_mislove"
       },
       {
         "label": "DOI",
@@ -5139,18 +4419,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/comm318g.pdf",
+    "url": "https://doi.acm.org/10.1145/1851182.1851226",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/comm318g.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173372"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/1851182.1851226"
       },
       {
         "label": "DOI",
@@ -5171,19 +4446,10 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/glasnost.pdf",
+    "url": "https://pure.mpg.de/view/item_2173379",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/glasnost.pdf",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.usenix.org/events/nsdi10/tech/full_papers/dischinger.pdf"
-      },
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2173379"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/conf/nsdi/DischingerMGGMS10"
@@ -5199,18 +4465,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/icwsm2010_cha.pdf",
+    "url": "https://pure.mpg.de/view/item_2173371",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/icwsm2010_cha.pdf",
     "links": [
       {
         "label": "Data",
         "url": "https://socialnetworks.mpi-sws.org/"
-      },
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2173371"
       },
       {
         "label": "Publisher",
@@ -5250,18 +4511,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/inferring_profiles.pdf",
+    "url": "https://doi.acm.org/10.1145/1718487.1718519",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/inferring_profiles.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173363"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/1718487.1718519"
       },
       {
         "label": "DOI",
@@ -5282,18 +4538,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/www09-cha.pdf",
+    "url": "https://doi.acm.org/10.1145/1526709.1526806",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/www09-cha.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173400"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/1526709.1526806"
       },
       {
         "label": "DOI",
@@ -5314,18 +4565,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/wosn23-viswanath.pdf",
+    "url": "https://doi.acm.org/10.1145/1592665.1592675",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/wosn23-viswanath.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173401"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://doi.acm.org/10.1145/1592665.1592675"
       },
       {
         "label": "DOI",
@@ -5359,22 +4605,13 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/trusted_cloud.pdf",
+    "url": "https://www.usenix.org/conference/hotcloud-09/towards-trusted-cloud-computing",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/trusted_cloud.pdf",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.usenix.org/event/hotcloud09/tech/full_papers/santos.pdf"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173411"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://www.usenix.org/conference/hotcloud-09/towards-trusted-cloud-computing"
       },
       {
         "label": "DBLP",
@@ -5431,10 +4668,9 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/Cascades-WOSN.pdf",
+    "url": "https://researchportal.bath.ac.uk/en/publications/characterizing-social-cascades-in-flickr/",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/Cascades-WOSN.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-80",
@@ -5445,22 +4681,13 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/08_imc_blocking.pdf",
+    "url": "https://doi.org/10.1145/1452520.1452523",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/08_imc_blocking.pdf",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.mpi-sws.mpg.de/~mdischin/papers/08_imc_blocking.pdf"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173441"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/1452520.1452523"
       },
       {
         "label": "DBLP",
@@ -5477,15 +4704,10 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/Growth-WOSN.pdf",
+    "url": "https://doi.org/10.1145/1397735.1397742",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/Growth-WOSN.pdf",
     "links": [
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/1397735.1397742"
-      },
       {
         "label": "DBLP",
         "url": "https://dblp.org/rec/conf/wosn/MisloveKGDB08"
@@ -5501,20 +4723,9 @@
     "topics": [
       "privacy"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/ostra.pdf",
+    "url": "https://dblp.org/rec/conf/nsdi/MislovePDG08",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/ostra.pdf",
-    "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.usenix.org/events/nsdi08/tech/full_papers/mislove/mislove.pdf"
-      },
-      {
-        "label": "DBLP",
-        "url": "https://dblp.org/rec/conf/nsdi/MislovePDG08"
-      }
-    ]
+    "status": "published"
   },
   {
     "id": "legacy-79",
@@ -5525,20 +4736,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/pgpa-hotdep08.pdf",
+    "url": "https://pure.mpg.de/view/item_2173453",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/pgpa-hotdep08.pdf",
-    "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.usenix.org/events/hotdep08/tech/full_papers/haeberlen/haeberlen.pdf"
-      },
-      {
-        "label": "MPI archive",
-        "url": "https://pure.mpg.de/view/item_2173453"
-      }
-    ]
+    "status": "published"
   },
   {
     "id": "legacy-81",
@@ -5552,12 +4752,7 @@
     "url": "https://doi.org/10.1145/1402958.1402994",
     "source": "https://dblp.org/rec/conf/sigcomm/DischingerHBGS08",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/08_sigcomm_satellitelab.pdf",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://www.mpi-sws.mpg.de/~mdischin/papers/08_sigcomm_satellitelab.pdf"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173456"
@@ -5577,18 +4772,13 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/imc2007-dischinger.pdf",
+    "url": "https://doi.org/10.1145/1298306.1298313",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc2007-dischinger.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173463"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/1298306.1298313"
       },
       {
         "label": "DBLP",
@@ -5605,18 +4795,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/miklas_encounters.pdf",
+    "url": "https://doi.org/10.1007/978-3-540-74853-3_24",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/miklas_encounters.pdf",
     "links": [
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173465"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1007/978-3-540-74853-3_24"
       },
       {
         "label": "DBLP",
@@ -5633,10 +4818,9 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/imc2007-mislove.pdf",
+    "url": "https://doi.org/10.1145/1298306.1298311",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc2007-mislove.pdf",
     "links": [
       {
         "label": "Data",
@@ -5645,10 +4829,6 @@
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173467"
-      },
-      {
-        "label": "DOI",
-        "url": "https://doi.org/10.1145/1298306.1298311"
       },
       {
         "label": "DBLP",
@@ -5665,22 +4845,13 @@
     "topics": [
       "social"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/mislove06exploiting.pdf",
+    "url": "https://conferences.sigcomm.org/hotnets/2006/program.html",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mislove06exploiting.pdf",
     "links": [
-      {
-        "label": "PDF",
-        "url": "https://conferences.sigcomm.org/hotnets/2006/mislove06exploiting.pdf"
-      },
       {
         "label": "MPI archive",
         "url": "https://pure.mpg.de/view/item_2173501"
-      },
-      {
-        "label": "Publisher",
-        "url": "https://conferences.sigcomm.org/hotnets/2006/program.html"
       },
       {
         "label": "DBLP",
@@ -5700,7 +4871,6 @@
     "url": "https://doi.org/10.1145/1177080.1177095",
     "source": "https://dblp.org/rec/conf/imc/HaeberlenDGS06",
     "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/imc137f-haeberlen.pdf",
     "links": [
       {
         "label": "MPI archive",
@@ -5721,10 +4891,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/hierarchical_dhts.pdf",
+    "url": "https://doi.org/10.1109/ICDCS.2004.1281591",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/hierarchical_dhts.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-90",
@@ -5735,10 +4904,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/src_routing.pdf",
+    "url": "https://www.usenix.org/conference/osdi-04/improving-reliability-internet-paths-one-hop-source-routing",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/src_routing.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-95",
@@ -5749,10 +4917,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/ieee_ton.pdf",
+    "url": "https://doi.org/10.1109/TNET.2002.808405",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/ieee_ton.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-92",
@@ -5763,10 +4930,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/p118-gummadi.pdf",
+    "url": "https://doi.org/10.1145/945445.945475",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/p118-gummadi.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-94",
@@ -5777,10 +4943,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/mm.pdf",
+    "url": "https://doi.org/10.1007/S00530-003-0088-1",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mm.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-93",
@@ -5791,10 +4956,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/p1101-gummadi.pdf",
+    "url": "https://doi.org/10.1145/863955.863998",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/p1101-gummadi.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-99",
@@ -5805,10 +4969,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/mmcn.pdf",
+    "url": "https://doi.org/10.1117/12.449977",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/mmcn.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-96",
@@ -5819,10 +4982,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/osdi.pdf",
+    "url": "https://www.usenix.org/conference/osdi-02/analysis-internet-content-delivery-systems",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/osdi.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-98",
@@ -5833,10 +4995,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/iptps.pdf",
+    "url": "https://doi.org/10.1007/3-540-45748-8_20",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/iptps.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-97",
@@ -5847,10 +5008,9 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/king.pdf",
+    "url": "https://doi.org/10.1145/637201.637203",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/king.pdf"
+    "status": "published"
   },
   {
     "id": "legacy-100",
@@ -5861,9 +5021,8 @@
     "topics": [
       "systems"
     ],
-    "url": "https://people.mpi-sws.org/~gummadi/papers/seg_bkups.pdf",
+    "url": "https://doi.org/10.1007/3-540-45591-4_92",
     "source": "https://people.mpi-sws.org/~gummadi/publications.html",
-    "status": "published",
-    "pdf": "https://people.mpi-sws.org/~gummadi/papers/seg_bkups.pdf"
+    "status": "published"
   }
 ]
