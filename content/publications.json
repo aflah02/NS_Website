@@ -2,7 +2,7 @@
   {
     "id": "hubble-a-model-suite-to-advance-the-study-of-llm-memorization",
     "title": "Hubble: a Model Suite to Advance the Study of LLM Memorization",
-    "authors": "Wei, Johnny Tian-Zheng, Godbole, Ameya, Khan, Mohammad Aflah, Wang, Ryan, Zhu, Xiaoyuan, Flemings, James, Kashyap, Nitya, Gummadi, Krishna P., Neiswanger, Willie, Jia, Robin",
+    "authors": "Johnny Tian-Zheng Wei, Ameya Godbole, Mohammad Aflah Khan, Ryan Wang, Xiaoyuan Zhu, James Flemings, Nitya Kashyap, Krishna P. Gummadi, Willie Neiswanger, Robin Jia",
     "year": 2026,
     "venue": "ICLR",
     "topics": [
@@ -17,7 +17,7 @@
   {
     "id": "in-agents-we-trust-but-who-do-agents-trust-latent-source-preferences-steer-llm-generations",
     "title": "In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations",
-    "authors": "Khan, Mohammad Aflah, Amani, Mahsa, Das, Soumi, Ghosh, Bishwamittra, Wu, Qinyuan, Gummadi, Krishna P., Gupta, Manish, Ravichander, Abhilasha",
+    "authors": "Mohammad Aflah Khan, Mahsa Amani, Soumi Das, Bishwamittra Ghosh, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander",
     "year": 2026,
     "venue": "ICLR",
     "topics": [
@@ -33,7 +33,7 @@
   {
     "id": "bowling-with-chatgpt-on-the-evolving-user-interactions-with-conversational-ai-systems",
     "title": "Bowling with ChatGPT: On the Evolving User Interactions with Conversational AI Systems",
-    "authors": "Karnam, Sai Keerthana, Dash, Abhisek, Gummadi, Krishna P., Mukherjee, Animesh, Weber, Ingmar, Zannettou, Savvas",
+    "authors": "Sai Keerthana Karnam, Abhisek Dash, Krishna P. Gummadi, Animesh Mukherjee, Ingmar Weber, Savvas Zannettou",
     "year": 2026,
     "venue": "The Web Conference",
     "topics": [
@@ -49,7 +49,7 @@
   {
     "id": "does-ad-free-mean-less-data-collection-an-empirical-study-of-platform-data-practices-and-u",
     "title": "Does Ad-Free Mean Less Data Collection? An Empirical Study of Platform Data Practices and User Expectations",
-    "authors": "Mousavi, Sepehr, Dash, Abhisek, Zannettou, Savvas, Gummadi, Krishna P.",
+    "authors": "Sepehr Mousavi, Abhisek Dash, Savvas Zannettou, Krishna P. Gummadi",
     "year": 2026,
     "venue": "The Web Conference",
     "topics": [
@@ -65,7 +65,7 @@
   {
     "id": "characterizing-web-search-by-conversational-llm-agents-from-search-decisions-and-strategie",
     "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-    "authors": "Amani, Mahsa, Lee, Seungeon, Dash, Abhisek, Fraihi, Asmaa El, Jang, Yunah, Kirsten, Elisabeth, Wu, Qinyuan, Gummadi, Krishna P., Gupta, Manish, Ravichander, Abhilasha, Zafar, Muhammad Bilal, Das, Soumi",
+    "authors": "Mahsa Amani, Seungeon Lee, Abhisek Dash, Asmaa El Fraihi, Yunah Jang, Elisabeth Kirsten, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander, Muhammad Bilal Zafar, Soumi Das",
     "year": 2026,
     "venue": "arXiv",
     "topics": [
@@ -76,12 +76,13 @@
     "url": "https://arxiv.org/abs/2609.19244",
     "source": "https://arxiv.org/abs/2609.19244",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2609.19244"
+    "pdf": "https://arxiv.org/pdf/2609.19244",
+    "publication_date": "2026-09-16"
   },
   {
     "id": "the-algorithmic-self-portrait-deconstructing-memory-in-chatgpt",
     "title": "The Algorithmic Self-Portrait: Deconstructing Memory in ChatGPT",
-    "authors": "Dash, Abhisek, Das, Soumi, Kirsten, Elisabeth, Wu, Qinyuan, Karnam, Sai Keerthana, Gummadi, Krishna P., Holz, Thorsten, Zafar, Muhammad Bilal, Zannettou, Savvas",
+    "authors": "Abhisek Dash, Soumi Das, Elisabeth Kirsten, Qinyuan Wu, Sai Keerthana Karnam, Krishna P. Gummadi, Thorsten Holz, Muhammad Bilal Zafar, Savvas Zannettou",
     "year": 2026,
     "venue": "The Web Conference",
     "topics": [
@@ -97,7 +98,7 @@
   {
     "id": "rote-learning-considered-useful-generalizing-over-memorized-data-in-llms",
     "title": "Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs",
-    "authors": "Wu, Qinyuan, Das, Soumi, Amani, Mahsa, Ghosh, Bishwamittra, Khan, Mohammad Aflah, Gummadi, Krishna P., Zafar, Muhammad Bilal",
+    "authors": "Qinyuan Wu, Soumi Das, Mahsa Amani, Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar",
     "year": 2026,
     "venue": "ICLR",
     "topics": [
@@ -112,7 +113,7 @@
   {
     "id": "understanding-the-interplay-between-memorization-and-learning-in-large-language-models",
     "title": "Understanding the Interplay between Memorization and Learning in Large Language Models",
-    "authors": "Ghosh, Bishwamittra, Das, Soumi, Wu, Qinyuan, Khan, Mohammad Aflah, Garg, Deepak, Gummadi, Krishna P., Terzi, Evimaria",
+    "authors": "Bishwamittra Ghosh, Soumi Das, Qinyuan Wu, Mohammad Aflah Khan, Deepak Garg, Krishna P. Gummadi, Evimaria Terzi",
     "year": 2026,
     "venue": "NeurIPS · Evaluations & Datasets",
     "topics": [
@@ -127,7 +128,7 @@
   {
     "id": "to-call-or-not-to-call-a-framework-to-assess-and-optimize-llm-tool-calling",
     "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
-    "authors": "Wu, Qinyuan, Das, Soumi, Amani, Mahsa, Nag, Arijit, Lee, Seungeon, Gummadi, Krishna P., Ravichander, Abhilasha, Zafar, Muhammad Bilal",
+    "authors": "Qinyuan Wu, Soumi Das, Mahsa Amani, Arijit Nag, Seungeon Lee, Krishna P. Gummadi, Abhilasha Ravichander, Muhammad Bilal Zafar",
     "year": 2026,
     "venue": "arXiv",
     "topics": [
@@ -137,7 +138,8 @@
     "url": "https://arxiv.org/abs/2605.00737",
     "source": "https://arxiv.org/abs/2605.00737",
     "status": "preprint",
-    "pdf": "https://arxiv.org/pdf/2605.00737"
+    "pdf": "https://arxiv.org/pdf/2605.00737",
+    "publication_date": "2026-05-01"
   },
   {
     "id": "lora-on-the-go-instance-level-dynamic-lora-selection-and-merging",
@@ -152,7 +154,8 @@
     "url": "https://aclanthology.org/2026.acl-long.1837/",
     "source": "https://aclanthology.org/2026.acl-long.1837/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.acl-long.1837.pdf"
+    "pdf": "https://aclanthology.org/2026.acl-long.1837.pdf",
+    "publication_date": "2026-07"
   },
   {
     "id": "fine-tuning-vs-in-context-learning-in-large-language-models-a-formal-language-learning-per",
@@ -167,7 +170,8 @@
     "url": "https://aclanthology.org/2026.acl-long.1932/",
     "source": "https://aclanthology.org/2026.acl-long.1932/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.acl-long.1932.pdf"
+    "pdf": "https://aclanthology.org/2026.acl-long.1932.pdf",
+    "publication_date": "2026-07"
   },
   {
     "id": "characterizing-web-search-in-the-age-of-generative-ai",
@@ -183,7 +187,8 @@
     "url": "https://aclanthology.org/2026.findings-acl.526/",
     "source": "https://aclanthology.org/2026.findings-acl.526/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.findings-acl.526.pdf"
+    "pdf": "https://aclanthology.org/2026.findings-acl.526.pdf",
+    "publication_date": "2026-07"
   },
   {
     "id": "fractional-rotation-full-potential-investigating-performance-and-convergence-of-partial-ro",
@@ -198,12 +203,13 @@
     "url": "https://aclanthology.org/2026.emnlp-main.1455/",
     "source": "https://aclanthology.org/2026.emnlp-main.1455/",
     "status": "published",
-    "pdf": "https://aclanthology.org/2026.emnlp-main.1455.pdf"
+    "pdf": "https://aclanthology.org/2026.emnlp-main.1455.pdf",
+    "publication_date": "2026-10"
   },
   {
     "id": "lawma-the-power-of-specialization-for-legal-annotation",
     "title": "Lawma: The Power of Specialization for Legal Annotation",
-    "authors": "Dominguez-Olmedo, Ricardo, Nanda, Vedant, Abebe, Rediet, Bechtold, Stefan, Engel, Christoph, Frankenreiter, Jens, Gummadi, Krishna, Hardt, Moritz, Livermore, Michael",
+    "authors": "Ricardo Dominguez-Olmedo, Vedant Nanda, Rediet Abebe, Stefan Bechtold, Christoph Engel, Jens Frankenreiter, Krishna Gummadi, Moritz Hardt, Michael Livermore",
     "year": 2025,
     "venue": "ICLR",
     "topics": [
@@ -219,7 +225,7 @@
   {
     "id": "towards-reliable-latent-knowledge-estimation-in-llms-zero-prompt-many-shot-based-factual-k",
     "title": "Towards Reliable Latent Knowledge Estimation in LLMs: Zero-Prompt Many-Shot Based Factual Knowledge Extraction",
-    "authors": "Wu, Qinyuan, Khan, Mohammad Aflah, Das, Soumi, Nanda, Vedant, Ghosh, Bishwamittra, Kolling, Camila, Speicher, Till, Bindschaedler, Laurent, Gummadi, Krishna P., Terzi, Evimaria",
+    "authors": "Qinyuan Wu, Mohammad Aflah Khan, Soumi Das, Vedant Nanda, Bishwamittra Ghosh, Camila Kolling, Till Speicher, Laurent Bindschaedler, Krishna P. Gummadi, Evimaria Terzi",
     "year": 2025,
     "venue": "WSDM",
     "topics": [
@@ -249,7 +255,7 @@
   {
     "id": "understanding-the-role-of-invariance-in-transfer-learning",
     "title": "Understanding the Role of Invariance in Transfer Learning",
-    "authors": "Speicher, Till, Nanda, Vedant, Gummadi, Krishna P.",
+    "authors": "Till Speicher, Vedant Nanda, Krishna P. Gummadi",
     "year": 2024,
     "venue": "TMLR",
     "topics": [
@@ -264,7 +270,7 @@
   {
     "id": "diffused-redundancy-in-pre-trained-representations",
     "title": "Diffused Redundancy in Pre-trained Representations",
-    "authors": "Nanda, Vedant, Speicher, Till, Dickerson, John P., Feizi, Soheil, Gummadi, Krishna P., Weller, Adrian",
+    "authors": "Vedant Nanda, Till Speicher, John P. Dickerson, Soheil Feizi, Krishna P. Gummadi, Adrian Weller",
     "year": 2023,
     "venue": "NeurIPS",
     "topics": [
@@ -279,7 +285,7 @@
   {
     "id": "measuring-representational-robustness-of-neural-networks-through-shared-invariances",
     "title": "Measuring Representational Robustness of Neural Networks Through Shared Invariances",
-    "authors": "Nanda, Vedant, Speicher, Till, Kolling, Camila, Dickerson, John P., Gummadi, Krishna P., Weller, Adrian",
+    "authors": "Vedant Nanda, Till Speicher, Camila Kolling, John P. Dickerson, Krishna P. Gummadi, Adrian Weller",
     "year": 2022,
     "venue": "ICML",
     "topics": [
@@ -309,7 +315,7 @@
   {
     "id": "accounting-for-model-uncertainty-in-algorithmic-discrimination",
     "title": "Accounting for Model Uncertainty in Algorithmic Discrimination",
-    "authors": "Ali, Junaid, Lahoti, Preethi, Gummadi, Krishna P.",
+    "authors": "Junaid Ali, Preethi Lahoti, Krishna P. Gummadi",
     "year": 2021,
     "venue": "AIES",
     "topics": [
@@ -324,7 +330,7 @@
   {
     "id": "ifair-learning-individually-fair-data-representations-for-algorithmic-decision-making",
     "title": "iFair: Learning Individually Fair Data Representations for Algorithmic Decision Making",
-    "authors": "Lahoti, Preethi, Gummadi, Krishna P., Weikum, Gerhard",
+    "authors": "Preethi Lahoti, Krishna P. Gummadi, Gerhard Weikum",
     "year": 2019,
     "venue": "ICDE",
     "topics": [
@@ -339,7 +345,7 @@
   {
     "id": "on-the-long-term-impact-of-algorithmic-decision-policies-effort-unfairness-and-feature-seg",
     "title": "On the Long-term Impact of Algorithmic Decision Policies: Effort Unfairness and Feature Segregation through Social Learning",
-    "authors": "Heidari, Hoda, Nanda, Vedant, Gummadi, Krishna P.",
+    "authors": "Hoda Heidari, Vedant Nanda, Krishna P. Gummadi",
     "year": 2019,
     "venue": "ICML",
     "topics": [
@@ -354,7 +360,7 @@
   {
     "id": "a-unified-approach-to-quantifying-algorithmic-unfairness-measuring-individual-group-unfair",
     "title": "A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual & Group Unfairness via Inequality Indices",
-    "authors": "Speicher, Till, Heidari, Hoda, Grgic-Hlaca, Nina, Gummadi, Krishna P., Singla, Adish, Weller, Adrian, Zafar, Muhammad Bilal",
+    "authors": "Till Speicher, Hoda Heidari, Nina Grgic-Hlaca, Krishna P. Gummadi, Adish Singla, Adrian Weller, Muhammad Bilal Zafar",
     "year": 2018,
     "venue": "KDD",
     "topics": [
