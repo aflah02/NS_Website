@@ -10,7 +10,7 @@ Reviewed **4 November 2026**.
 - [MPI-SWS people directory](https://www.mpi-sws.org/people/): current institutional roles and portrait assets. The people page also names co-advisors listed in the students’ profiles.
 - [ACL Anthology author page](https://aclanthology.org/people/krishna-p-gummadi/): recent ACL/EMNLP bibliographic metadata.
 - [Qinyuan Wu’s publications](https://qinyuanwu0710.github.io/publications/) and [Aflah’s website](https://aflah02.github.io/): recent venue/acceptance status. NeurIPS 2026 work is labeled accepted. Preprints have explicit labels.
-- Individual paper pages on ACL Anthology and arXiv: titles, complete author metadata, and paper/PDF links. Each JSON record retains its source URL. Recent summaries are short original editorial descriptions, not reproduced abstracts.
+- Individual paper pages on ACL Anthology and arXiv: titles, complete author metadata, and paper landing pages. Each JSON record retains its source URL.
 
 ## Doctoral roster
 
@@ -20,7 +20,7 @@ The PhD cards follow start dates where available. [Qinyuan Wu](https://de.linked
 
 [Max Planck records his MPI-SWS start in October 2005](https://www.mpi-sws.org/news/distributed-networked-and-mobile-systems/2005/). The archive combines the original publication list with authored works from the [Max Planck repository](https://pure.mpg.de/cone/persons/resource/persons144524), [ORCID](https://orcid.org/0000-0003-1256-8800), and the [DBLP public SPARQL service](https://sparql.dblp.org/). Earlier works already on the site remain. Ordered contributor records from the bibliographies and venues were used for author lists.
 
-Titles, identifiers, and shared preprint links were used to reconcile versions of the same paper. Published versions take precedence, with preprints or open copies linked where available. Separate workshop or journal extensions are retained where identifiable. Code, data, and project links come from the papers, authors, or original project pages.
+Titles, identifiers, and shared preprint links were used to reconcile versions of the same paper. Titles link to publisher, proceedings, preprint, or archival landing pages. Separate versions remain linked where available. Separate workshop or journal extensions are retained where identifiable. Code, data, and project links come from the papers, authors, or original project pages.
 
 ## Scholar access
 
@@ -38,7 +38,7 @@ The original homepage explicitly describes its alumni list as “with their firs
 - The group confirmed Aleph Alpha as [Till Speicher](https://tillspeicher.com/)’s first destination and Research Group Leader at MPI-SWS as [Abhisek Dash](https://www.mpi-sws.org/people/adash/)’s first appointment after his postdoc.
 - First appointments remain unconfirmed for Vabuk Pahari and Sepehr Mousavi.
 
-Alumni names link to public profiles. Supporting references are recorded in the alumni data.
+Alumni names link to public profiles. The co-advisor names come from the [original group roster](https://people.mpi-sws.org/~gummadi/) and the profiles of [Preethi Lahoti](https://www.plahoti.de/about-me), [Vedant Nanda](https://nvedant07.github.io/), and [Muhammad Bilal Zafar](https://people.mpi-sws.org/~mzafar/).
 
 ## Editorial review before the group’s final public launch
 

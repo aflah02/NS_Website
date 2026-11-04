@@ -68,7 +68,10 @@ for p in pubs:
     if not set(p['topics']) <= {'ai','fairness','social','privacy','systems'}: errors.append('Invalid research topic')
     for field in ('source','url'):
         if urlsplit(p[field]).scheme != 'https': errors.append('Invalid source URL: '+p[field])
-    seen_links = {p['url'], p.get('pdf')}
+    urls = [p['url']] + [resource['url'] for resource in p.get('links', [])]
+    if any(re.search(r'\.pdf(?:/|$)|/(?:pdf|epdf|download|component|components)(?:/|$)', urlsplit(url).path, re.I) for url in urls):
+        errors.append(f'Use a publication landing page for {p["title"]}')
+    seen_links = {p['url']}
     for resource in p.get('links', []):
         url = urlsplit(resource['url'])
         if not resource.get('label') or url.scheme != 'https' or not url.netloc or resource['url'] in seen_links:
