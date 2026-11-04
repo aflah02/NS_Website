@@ -1,6 +1,6 @@
 # Content sources and editorial decisions
 
-Reviewed: **2 November 2026**.
+Reviewed **4 November 2026**.
 
 ## Core sources
 
@@ -12,11 +12,17 @@ Reviewed: **2 November 2026**.
 - [Qinyuan Wu’s publications](https://qinyuanwu0710.github.io/publications/) and [Aflah’s website](https://aflah02.github.io/): recent venue/acceptance status. NeurIPS 2026 work is labeled accepted. Preprints have explicit labels.
 - Individual paper pages on ACL Anthology and arXiv: titles, complete author metadata, and paper/PDF links. Each JSON record retains its source URL. Recent summaries are short original editorial descriptions, not reproduced abstracts.
 
+## Publication archive
+
+[Max Planck records his MPI-SWS start in October 2005](https://www.mpi-sws.org/news/distributed-networked-and-mobile-systems/2005/). The archive combines the original publication list with authored works from the [Max Planck repository](https://pure.mpg.de/cone/persons/resource/persons144524), [ORCID](https://orcid.org/0000-0003-1256-8800), and the [DBLP public SPARQL service](https://sparql.dblp.org/). Earlier works already on the site remain. Ordered contributor records from the bibliographies and venues were used for author lists.
+
+Titles, identifiers, and shared preprint links were used to reconcile versions of the same paper. Published versions take precedence, with preprints or open copies linked where available. Separate workshop or journal extensions are retained where identifiable. Code, data, and project links come from the papers, authors, or original project pages.
+
 ## Scholar access
 
-Google Scholar profile: https://scholar.google.com/citations?user=Bz3APTsAAAAJ . Automated requests returned access errors (including HTTP 403). Semantic Scholar web search returned HTTP 403/inaccessibility, and the public author-search API returned HTTP 429. No attempts were made to defeat those access controls. DBLP’s public browser record was useful as a cross-check, but its machine-readable XML endpoint returned a bot challenge; that XML was not imported.
+Google Scholar profile: https://scholar.google.com/citations?user=Bz3APTsAAAAJ . Automated requests returned access errors (including HTTP 403). Semantic Scholar web search returned HTTP 403/inaccessibility, and the public author-search API returned HTTP 429. The archive uses the public bibliographies listed above.
 
-The website makes no claim of complete bibliography coverage or current citation metrics. It includes the historical archive plus selected independently verified recent work. It has no live scholarly API integration and does not silently scrape services on visitors’ behalf.
+Coverage is bounded by the public bibliographies reviewed. The static site has no live scholarly API integration.
 
 ## Alumni
 
@@ -26,10 +32,15 @@ The original homepage explicitly describes its alumni list as “with their firs
 - [Preethi Lahoti](https://www.plahoti.de/about-me) describes her MPI-INF PhD, co-advised by Gerhard Weikum and Krishna, and announces joining Google Research in April 2022. This supports her **First destination** entry. The degree-conferral month is not inferred from her employment start.
 - [Muhammad Bilal Zafar](https://people.mpi-sws.org/~mzafar/) describes his current professorship at Ruhr University Bochum and prior roles at AWS and Bosch. His original Bosch first placement is retained, with the current academic appointment added separately.
 
-The per-entry Source link supports the placement. The name links to a public profile. No graduation years, current employers, or alumni transitions have been guessed. More recent graduates and former postdocs can be added after the group verifies their first placements.
+- [Abhisek Dash](https://www.mpi-sws.org/people/adash/) is a research group leader at MPI-SWS.
+- [Vedant Nanda’s CV](https://nvedant07.github.io/cv/cv.pdf) records Aleph Alpha Research as his first post-PhD role and Mistral AI as his current employer.
+- [Junaid Ali](https://joniali.github.io/) is an AI Scientist at the European Commission’s Joint Research Centre. [His public announcement](https://es.linkedin.com/in/junaidali89) identifies this as his first post-PhD role.
+- Vabuk Pahari and Sepehr Mousavi are listed as alumni per the group’s roster update. Their post-group destinations are pending confirmation.
+
+Alumni names link to public profiles. Supporting references are recorded in the alumni data.
 
 ## Editorial review before the group’s final public launch
 
-The implementation is ready to build and deploy. The group can refine the selected people roster, add omitted recent papers, and approve the research-area wording using the JSON content files. The content files preserve the sources for historical placements and current appointments. Institute imprint and data-protection URLs link to the published MPI-SWS information; the host operator should ensure those institutional pages cover the final chosen domain.
+The content files preserve the sources for historical placements and current appointments. Institute imprint and data-protection URLs link to the published MPI-SWS information; the host operator should ensure those institutional pages cover the final chosen domain.
 
 The visual identity uses the n/s wordmark, a numbered navigation index, and self-hosted IBM Plex typography. The homepage presents actual research papers from different periods rather than an illustrative network graph.

@@ -2,7 +2,6 @@
 """Build a portable, dependency-free static website from reviewed JSON content."""
 import html
 import json
-import re
 import shutil
 from datetime import date
 from pathlib import Path
@@ -42,25 +41,29 @@ def layout(page,title,description,body):
 <title>{e(title)} · Networked Systems Research Group</title><meta name="description" content="{e(description)}">
 <meta name="theme-color" content="#f4f4ef"><meta property="og:title" content="{e(title)} · Networked Systems Research Group"><meta property="og:description" content="{e(description)}"><meta property="og:type" content="website">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/style.css"><script src="assets/app.js" defer></script></head>
-<body data-page="{page}">{header(page)}<div class="document-shell"><main id="main">{body}</main>{footer()}</div><p class="sr-only" id="action-status" role="status"></p></body></html>'''
+<body data-page="{page}">{header(page)}<div class="document-shell"><main id="main">{body}</main>{footer()}</div></body></html>'''
 
 def intro(kicker,title,desc,extra=''):
     return f'<section class="page-intro container"><p class="eyebrow">{kicker}</p><h1>{title}</h1><div class="intro-bottom"><p class="lede">{desc}</p>{extra}</div></section>'
 
 
-def paper(p,compact=False):
+def paper_resources(p):
+    resources = [link(p['pdf'], 'PDF', 'paper-action')] if p.get('pdf') else []
+    resources.extend(link(item['url'], e(item['label']), 'paper-action') for item in p.get('links', []))
+    return ''.join(resources)
+
+def paper(p):
     tags=''.join(f'<a class="tag" href="publications.html?topic={t}">{e(LABELS[t])}</a>' for t in p['topics'])
     badge='' if p['status']=='published' else f'<span class="status-badge">{e(p["status"])}</span>'
-    summary=f'<p class="paper-summary">{e(p["summary"])}</p>' if p.get('summary') and not compact else ''
-    pdf=link(p['pdf'],'PDF','paper-action') if p.get('pdf') else ''
-    cite='' if compact else f'<button class="cite-button" data-cite="{e(p["id"])}" aria-label="View citation for {e(p["title"])}">BibTeX</button>'
+    summary=f'<p class="paper-summary">{e(p["summary"])}</p>' if p.get('summary') else ''
     return f'''<article class="paper" data-paper data-year="{p['year']}" data-topics="{' '.join(p['topics'])}" data-status="{p['status']}" data-search="{e((p['title']+' '+p['authors']+' '+p['venue']).casefold())}">
-    <div class="paper-meta"><span>{e(p['venue'])} · {p['year']}</span>{badge}</div><div class="paper-main"><h3><a href="{e(p['url'])}">{e(p['title'])} {ARROW}</a></h3><p class="authors">{e(p['authors'])}</p>{summary}<div class="paper-bottom"><div class="tags">{tags}</div><div class="paper-actions">{pdf}{cite}</div></div></div></article>'''
+    <div class="paper-meta"><span>{e(p['venue'])} · {p['year']}</span>{badge}</div><div class="paper-main"><h3><a href="{e(p['url'])}">{e(p['title'])} {ARROW}</a></h3><p class="authors">{e(p['authors'])}</p>{summary}<div class="paper-bottom"><div class="tags">{tags}</div><div class="paper-actions">{paper_resources(p)}</div></div></div></article>'''
 
 def people_card(p):
     initials=''.join(n[0] for n in p['name'].split() if n not in ('P.',))[:2]
     img=f'<img src="assets/{p["image"]}" alt="{e(p["name"])}" loading="lazy" width="360" height="360">' if p.get('image') and (ROOT/'assets'/p['image']).exists() else f'<div class="person-initials" aria-hidden="true">{initials}</div>'
-    return f'<article class="person"><a class="person-photo" href="{e(p["url"])}" aria-label="{e(p["name"])}’s website">{img}{ARROW}</a><p class="person-role">{e(p["role"])}</p><h3><a href="{e(p["url"])}">{e(p["name"])}</a></h3><p class="person-interests">{e(p["interests"])}</p></article>'
+    interests = f'<p class="person-interests">{e(p["interests"])}</p>' if p.get('interests') else ''
+    return f'<article class="person"><a class="person-photo" href="{e(p["url"])}" aria-label="{e(p["name"])}’s website">{img}{ARROW}</a><p class="person-role">{e(p["role"])}</p><h3><a href="{e(p["url"])}">{e(p["name"])}</a></h3>{interests}</article>'
 
 def home():
     head = PEOPLE[0]
@@ -124,9 +127,8 @@ def publications():
     years=sorted({p['year'] for p in PUBS},reverse=True)
     chips='<button class="filter-chip active" data-topic="all" aria-pressed="true">All research</button>'+''.join(f'<button class="filter-chip" data-topic="{a["id"]}" aria-pressed="false">{e(a["title"])}</button>' for a in AREAS)
     groups=''.join(f'<section class="pub-year" data-year-group><h2>{year}</h2><div>{"".join(paper(p) for p in PUBS if p["year"]==year)}</div></section>' for year in years)
-    body=intro('02 / Publications','Publications','Explore selected recent work alongside the group’s historical publication archive. Search by title, author, or venue, and filter by research area and year.',f'<a class="text-link" href="publications.bib" download>Download bibliography ↓</a>')
-    body+=f'''<div class="container publication-browser"><form class="filter-panel" role="search" id="publication-filters"><div class="filter-fields"><label class="search-field"><span class="sr-only">Search publications</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg><input id="publication-search" name="q" type="search" placeholder="Search titles, authors, venues…" autocomplete="off"></label><label class="select-field"><span>Year</span><select id="year-filter" name="year"><option value="all">All years</option>{''.join(f'<option>{y}</option>' for y in years)}</select></label><label class="select-field"><span>Type</span><select id="type-filter" name="type"><option value="all">All work</option><option value="published">Published</option><option value="accepted">Accepted</option><option value="preprint">Preprints</option></select></label></div><div class="filter-topics" aria-label="Filter by research area">{chips}</div></form><div class="results-bar"><p id="publication-count" role="status">{len(PUBS)} publications</p><button id="clear-filters" class="plain-button" type="button">Reset filters <span aria-hidden="true">↺</span></button></div><div id="publication-results">{groups}</div><div class="empty-state" id="no-publications" hidden><h2>No matching publications.</h2><p>Try a different title, author, year, or research area.</p><button class="button" data-reset-publications>Reset filters</button></div><aside class="archive-note"><p class="eyebrow">BIBLIOGRAPHIC SOURCES</p><p>This archive combines historical entries with a curated selection of recent papers; it is not a complete bibliography. Preprints and accepted papers are labeled separately.</p><div class="resource-links">{link('https://scholar.google.com/citations?user=Bz3APTsAAAAJ','Google Scholar')}{link('https://www.semanticscholar.org/search?q=Krishna%20P.%20Gummadi&sort=pub-date','Semantic Scholar')}{link('https://dblp.org/pid/g/PKrishnaGummadi.html','DBLP')}</div></aside></div>
-    <dialog id="citation-dialog" aria-labelledby="citation-title"><div class="dialog-heading"><h2 id="citation-title">Citation</h2><button class="dialog-close" aria-label="Close citation">×</button></div><p id="citation-paper-title"></p><label class="sr-only" for="citation-text">BibTeX citation</label><textarea id="citation-text" rows="10" readonly></textarea><div class="dialog-actions"><button class="button" id="copy-citation">Copy BibTeX</button><span id="copy-status" role="status"></span></div></dialog>'''
+    body=intro('02 / Publications','Publications','Browse Krishna Gummadi’s publication archive. Search by title, author, or venue, and filter by research area and year.')
+    body+=f'''<div class="container publication-browser"><form class="filter-panel" role="search" id="publication-filters"><div class="filter-fields"><label class="search-field"><span class="sr-only">Search publications</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg><input id="publication-search" name="q" type="search" placeholder="Search titles, authors, venues…" autocomplete="off"></label><label class="select-field"><span>Year</span><select id="year-filter" name="year"><option value="all">All years</option>{''.join(f'<option>{y}</option>' for y in years)}</select></label><label class="select-field"><span>Type</span><select id="type-filter" name="type"><option value="all">All work</option><option value="published">Published</option><option value="accepted">Accepted</option><option value="preprint">Preprints</option></select></label></div><div class="filter-topics" aria-label="Filter by research area">{chips}</div></form><div class="results-bar"><p id="publication-count" role="status">{len(PUBS)} publications</p><button id="clear-filters" class="plain-button" type="button">Reset filters <span aria-hidden="true">↺</span></button></div><div id="publication-results">{groups}</div><div class="empty-state" id="no-publications" hidden><h2>No matching publications.</h2><p>Try a different title, author, year, or research area.</p><button class="button" data-reset-publications>Reset filters</button></div><aside class="archive-note"><p class="eyebrow">BIBLIOGRAPHIC SOURCES</p><p>This archive brings together Krishna Gummadi’s MPI-SWS publications since October 2005 and earlier work. Preprints and accepted papers are labeled separately.</p><div class="resource-links">{link('https://people.mpi-sws.org/~gummadi/publications.html','Original bibliography')}{link('https://pure.mpg.de/cone/persons/resource/persons144524','Max Planck repository')}{link('https://orcid.org/0000-0003-1256-8800','ORCID')}{link('https://dblp.org/pid/g/PKrishnaGummadi.html','DBLP')}</div></aside></div>'''
     return layout('publications','Publications','Search and filter historical and recent publications from the Networked Systems Research Group.',body)
 
 def people():
@@ -141,7 +143,10 @@ def alumni():
     rows=[]
     for p in ALUMNI:
         current=f'<p class="alumni-current">Now: <a href="{e(p["currentSource"])}">{e(p["current"])} {ARROW}</a></p>' if p.get('current') else ''
-        rows.append(f'''<article class="alumni-row"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination"><span class="eyebrow">{e(p['destinationType'])}</span><h4>{e(p['destination'])}</h4><p>{e(p['destinationRole'])}</p>{current}</div><div class="alumni-source">{link(p['source'],'Source','subtle-link')}</div></article>''')
+        portrait = f'<img class="alumni-portrait" src="assets/{e(p["image"])}" alt="{e(p["name"])}" width="60" height="60" loading="lazy">' if p.get('image') else ''
+        destination_label = f'<span class="eyebrow">{e(p["destinationType"])}</span>' if p.get('destinationType') else ''
+        destination_role = f'<p>{e(p["destinationRole"])}</p>' if p.get('destinationRole') else ''
+        rows.append(f'''<article class="alumni-row"><div class="alumni-name">{portrait}<div><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination">{destination_label}<h4>{e(p['destination'])}</h4>{destination_role}{current}</div></article>''')
     return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title">
     <div class="people-heading"><h2 id="alumni-title">Alumni</h2></div>
     <div class="alumni-context"><p>“First destination” means the first recorded appointment after MPI.</p></div>
@@ -152,27 +157,13 @@ def privacy():
     body=intro('About this site','Privacy','This site serves research information and links to external resources.')+'<section class="container prose section"><h2>What this site stores</h2><p>The website does not include analytics, advertising, tracking cookies, forms, or accounts. Publication filters run in your browser. Search terms appear in the publication page URL so you can share a filtered view.</p><h2>Hosting and external links</h2><p>The hosting provider may process request information such as IP addresses and server logs. External websites have their own privacy practices. Fonts, scripts, and portraits are served with this website rather than loaded from third-party services.</p><h2>Institute information</h2><p>For institutional privacy information and contacts, see the <a href="https://data-protection.mpi-klsb.mpg.de/sws/www.mpi-sws.org">MPI-SWS data protection page</a>.</p></section>'
     return layout('privacy','Privacy','Privacy information for this static research website.',body)
 
-def bibtex(p):
-    authors=p['authors']
-    if ', ' in authors: authors=' and '.join(x.strip().removeprefix('and ') for x in authors.split(', ') if x.strip())
-    title=p['title'].replace('{',r'\{').replace('}',r'\}')
-    journals=('TMLR','TON','TWeb','CCR','Population and Development Review','IEEE Internet Computing','ACM Multimedia Systems Journal','Elsevier Computer Networks')
-    if p['status']=='preprint': typ,field='misc','howpublished'
-    elif p['status']=='accepted': typ,field='unpublished','note'
-    elif p['venue'] in journals or 'Transactions' in p['venue']: typ,field='article','journal'
-    else: typ,field='inproceedings','booktitle'
-    venue=('Accepted at ' if p['status']=='accepted' else '')+p['venue']
-    return f'@{typ}{{ns-{p["id"]},\n  title = {{{{{title}}}}},\n  author = {{{authors}}},\n  year = {{{p["year"]}}},\n  {field} = {{{venue}}},\n  url = {{{p["url"]}}}\n}}'
-
 def main():
     OUT.mkdir(exist_ok=True)
     shutil.copytree(ROOT/'assets',OUT/'assets',dirs_exist_ok=True)
     for name,fn in [('index',home),('research',research),('publications',publications),('people',people),('privacy',privacy)]:
         (OUT/(name+'.html')).write_text(fn())
-    (OUT/'publications.bib').write_text('\n\n'.join(bibtex(p) for p in PUBS)+'\n')
-    (OUT/'assets/citations.json').write_text(json.dumps({p['id']:{'title':p['title'],'bibtex':bibtex(p)} for p in PUBS},ensure_ascii=False))
     (OUT/'.nojekyll').write_text('')
-    for retired_page in ('sources.html', 'contact.html', 'resources.html'):
+    for retired_page in ('sources.html', 'contact.html', 'resources.html', 'publications.bib', 'assets/citations.json'):
         (OUT / retired_page).unlink(missing_ok=True)
     (OUT/'alumni.html').write_text('''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><title>Alumni · Networked Systems Research Group</title>

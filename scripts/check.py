@@ -68,15 +68,18 @@ for p in pubs:
     if not set(p['topics']) <= {'ai','fairness','social','privacy','systems'}: errors.append('Invalid research topic')
     for field in ('source','url'):
         if urlsplit(p[field]).scheme != 'https': errors.append('Invalid source URL: '+p[field])
-for p in json.loads((ROOT/'content/people.json').read_text()):
-    if p.get('image') and not (OUT/'assets'/p['image']).exists(): errors.append('Missing portrait: '+p['name'])
+    seen_links = {p['url'], p.get('pdf')}
+    for resource in p.get('links', []):
+        url = urlsplit(resource['url'])
+        if not resource.get('label') or url.scheme != 'https' or not url.netloc or resource['url'] in seen_links:
+            errors.append(f'Invalid or duplicate resource for {p["title"]}: {resource}')
+        seen_links.add(resource['url'])
 alumni = json.loads((ROOT/'content/alumni.json').read_text())
+for p in json.loads((ROOT/'content/people.json').read_text()) + alumni:
+    if p.get('image') and not (OUT/'assets'/p['image']).exists(): errors.append('Missing portrait: '+p['name'])
 for p in alumni:
-    if p['destinationType'] not in ('First destination','Current destination'): errors.append('Unlabeled alumni destination')
+    if p.get('destinationRole') and p.get('destinationType') not in ('First destination','Current destination'): errors.append('Unlabeled alumni destination')
     if not p.get('source') or not p.get('url'): errors.append('Alumni missing source/profile: '+p['name'])
-citations = json.loads((OUT/'assets/citations.json').read_text())
-if set(citations) != ids: errors.append('Citations and publication IDs do not match')
-if len(re.findall(r'^@', (OUT/'publications.bib').read_text(),re.M)) != len(pubs): errors.append('Bibliography count mismatch')
 if errors:
     raise SystemExit('\n'.join(errors))
-print(f'PASS: {len(docs)} HTML pages; {local_refs} local links/assets/anchors; {len(pubs)} sourced publications; {len(alumni)} labeled alumni destinations; complete citations; all portraits present.')
+print(f'PASS: {len(docs)} HTML pages; {local_refs} local links/assets/anchors; {len(pubs)} sourced publications; {len(alumni)} alumni profiles; all portrait assets present.')

@@ -58,35 +58,4 @@ if ($('#publication-filters')) {
   $('#clear-filters').addEventListener('click', reset);
   $('[data-reset-publications]').addEventListener('click', reset);
   filter(false);
-
-  const dialog = $('#citation-dialog');
-  let citations;
-  document.addEventListener('click', async event => {
-    const button = event.target.closest('[data-cite]');
-    if (!button) return;
-    button.disabled = true;
-    try {
-      if (!citations) {
-        const response = await fetch('assets/citations.json');
-        if (!response.ok) throw new Error('Citation data could not be loaded.');
-        citations = await response.json();
-      }
-      const citation = citations[button.dataset.cite];
-      if (!citation) throw new Error('Citation not found.');
-      $('#citation-paper-title').textContent = citation.title;
-      $('#citation-text').value = citation.bibtex;
-      $('#copy-status').textContent = '';
-      $('#copy-citation').textContent = 'Copy BibTeX';
-      dialog.showModal();
-    } catch {
-      $('#action-status').textContent = 'Citation unavailable. Please use the Download bibliography link at the top of this page.';
-      button.textContent = 'Use bibliography download';
-    } finally { button.disabled = false; }
-  });
-  $('.dialog-close', dialog).addEventListener('click', () => dialog.close());
-  dialog.addEventListener('click', event => { if (event.target === dialog) { const r = dialog.getBoundingClientRect(); if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close(); } });
-  $('#copy-citation').addEventListener('click', async () => {
-    try { await navigator.clipboard.writeText($('#citation-text').value); $('#copy-status').textContent = 'Copied to clipboard.'; }
-    catch { $('#citation-text').focus(); $('#citation-text').select(); $('#copy-status').textContent = 'Select and copy the citation using your keyboard.'; }
-  });
 }
