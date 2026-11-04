@@ -44,4 +44,4 @@ Alumni names link to public profiles. The co-advisor names come from the [origin
 
 The content files preserve the sources for first appointments. Institute imprint and data-protection URLs link to the published MPI-SWS information; the host operator should ensure those institutional pages cover the final chosen domain.
 
-The visual identity uses the n/s wordmark, a navigation rail, and self-hosted IBM Plex typography. The homepage presents actual research papers from different periods rather than an illustrative network graph.
+The visual identity uses the n/s wordmark, a navigation rail, and self-hosted IBM Plex typography.

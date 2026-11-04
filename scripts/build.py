@@ -3,7 +3,6 @@
 import html
 import json
 import shutil
-from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -33,7 +32,7 @@ def header(page):
     </div></header>'''
 
 def footer():
-    return '''<footer class="site-footer"><div class="container footer-inner"><p>Networked Systems Research Group<br><a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems ↗</a></p><div><a href="https://imprint.mpi-klsb.mpg.de/sws/www.mpi-sws.org">Imprint</a><a href="privacy.html">Privacy</a><span>© 2026</span></div></div></footer>'''
+    return '''<footer class="site-footer"><div class="container footer-inner"><div><a href="https://imprint.mpi-klsb.mpg.de/sws/www.mpi-sws.org">Imprint</a><a href="privacy.html">Privacy</a><span>© 2026</span></div></div></footer>'''
 
 def layout(page,title,description,body):
     return f'''<!doctype html>
@@ -69,25 +68,6 @@ def people_card(p):
 
 def home():
     head = PEOPLE[0]
-    recent = sorted(
-        (paper for paper in PUBS if paper.get('publication_date')),
-        key=lambda paper: paper['publication_date'],
-        reverse=True,
-    )[:5]
-    recent_rows = []
-    for paper in recent:
-        published = paper['publication_date']
-        month_only = len(published) == 7
-        publication_date = date.fromisoformat(published + '-01' if month_only else published)
-        label = publication_date.strftime('%b %Y')
-        if not month_only:
-            label = f'{publication_date.day} {label}'
-        recent_rows.append(f'''<article class="reading-entry">
-        <p class="entry-meta">{e(paper['venue'])} · <time datetime="{e(published)}">{label}</time></p>
-        <h3><a href="{e(paper['url'])}">{e(paper['title'])} {ARROW}</a></h3>
-        <p class="authors">{e(paper['authors'])}</p>
-        </article>''')
-
     body = f'''<section class="container profile-overview">
     <div class="profile-introduction">
         <h1>{e(head['name'])}</h1>
@@ -100,10 +80,6 @@ def home():
         </div>
     </div>
     <img class="profile-portrait" src="assets/{e(head['image'])}" alt="{e(head['name'])}" width="170" height="210">
-    </section>
-    <section class="container section recent-work">
-        <div class="index-heading"><h2>Recent work</h2>{link('publications.html', 'All publications')}</div>
-        {''.join(recent_rows)}
     </section>'''
     return layout('home', head['name'], 'Krishna P. Gummadi, Scientific Director at MPI-SWS and head of the Networked Systems Research Group.', body)
 
@@ -153,7 +129,6 @@ def alumni():
         rows.append(f'''<article class="alumni-row"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p>{co_advisor}</div>{placement}</article>''')
     return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title">
     <div class="people-heading"><h2 id="alumni-title">Alumni</h2></div>
-    <div class="alumni-context"><p>First destinations after MPI are highlighted where known.</p></div>
     <div class="alumni-list">{''.join(rows)}</div>
     </section>'''
 
