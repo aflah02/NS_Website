@@ -31,7 +31,6 @@ def header(page):
     <a class="brand" href="index.html" aria-label="Networked Systems Research Group home">{mark()}<span class="brand-name">Networked Systems<br>Research Group</span></a>
     <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="site-nav"><span></span><span></span></button>
     <nav id="site-nav" aria-label="Main navigation">{links}</nav>
-    <div class="rail-bottom"><p>Max Planck Institute<br>for Software Systems</p><p>Saarbrücken<br>Kaiserslautern<br>Germany</p><a href="https://people.mpi-sws.org/~gummadi/">Krishna P. Gummadi {ARROW}</a></div>
     </div></header>'''
 
 def footer():
