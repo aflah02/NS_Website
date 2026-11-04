@@ -36,42 +36,6 @@
     "source": "https://sites.google.com/view/seungeon-lee"
   },
   {
-    "name": "Mohammad Aflah Khan",
-    "role": "Doctoral Student",
-    "category": "phd",
-    "interests": "LLM evaluation, memorization, and efficient systems",
-    "url": "https://aflah02.github.io/",
-    "image": "aflah.jpg",
-    "source": "https://aflah02.github.io/"
-  },
-  {
-    "name": "Mahsa Amani",
-    "role": "Doctoral Student",
-    "category": "phd",
-    "interests": "Information retrieval, agentic AI, and tool use",
-    "url": "https://mahsaama.github.io/",
-    "image": "mahsa.jpg",
-    "source": "https://mahsaama.github.io/"
-  },
-  {
-    "name": "Qinyuan Wu",
-    "role": "Doctoral Student",
-    "category": "phd",
-    "interests": "LLM knowledge, memory, and agent behavior",
-    "url": "https://qinyuanwu0710.github.io/",
-    "source": "https://qinyuanwu0710.github.io/",
-    "image": "qinyuan.jpg"
-  },
-  {
-    "name": "Camila Kolling",
-    "role": "Doctoral Student · Co-advised",
-    "category": "phd",
-    "interests": "Machine learning, neuroscience, and representations",
-    "url": "https://camilakolling.github.io/",
-    "image": "camila.jpg",
-    "source": "https://camilakolling.github.io/"
-  },
-  {
     "name": "Shounak Paul",
     "role": "Postdoctoral Researcher",
     "category": "postdoc",
@@ -108,6 +72,35 @@
     "image": "kyeongjin.jpg"
   },
   {
+    "name": "Qinyuan Wu",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "LLM knowledge, memory, and agent behavior",
+    "url": "https://qinyuanwu0710.github.io/",
+    "source": "https://qinyuanwu0710.github.io/",
+    "image": "qinyuan.jpg",
+    "coAdvisor": "Muhammad Bilal Zafar"
+  },
+  {
+    "name": "Camila Kolling",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "Machine learning, neuroscience, and representations",
+    "url": "https://camilakolling.github.io/",
+    "image": "camila.jpg",
+    "source": "https://camilakolling.github.io/",
+    "coAdvisor": "Mariya Toneva"
+  },
+  {
+    "name": "Mahsa Amani",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "Information retrieval, agentic AI, and tool use",
+    "url": "https://mahsaama.github.io/",
+    "image": "mahsa.jpg",
+    "source": "https://mahsaama.github.io/"
+  },
+  {
     "name": "Pushpdeep Singh",
     "role": "Doctoral Student",
     "category": "phd",
@@ -124,6 +117,16 @@
     "url": "https://www.mpi-sws.org/people/fnassaji/",
     "source": "https://www.mpi-sws.org/people/fnassaji/",
     "image": "faezeh.jpg"
+  },
+  {
+    "name": "Mohammad Aflah Khan",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "LLM evaluation, memorization, and efficient systems",
+    "url": "https://aflah02.github.io/",
+    "image": "aflah.jpg",
+    "source": "https://aflah02.github.io/",
+    "coAdvisor": "Abhilasha Ravichander"
   },
   {
     "name": "Sayeh Jarollahi",
