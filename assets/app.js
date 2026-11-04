@@ -90,19 +90,3 @@ if ($('#publication-filters')) {
     catch { $('#citation-text').focus(); $('#citation-text').select(); $('#copy-status').textContent = 'Select and copy the citation using your keyboard.'; }
   });
 }
-
-if ($('#alumni-filters')) {
-  const search = $('#alumni-search'), kind = $('#alumni-kind'), alumni = $$('[data-alumnus]');
-  function filterAlumni() {
-    const query = normalize(search.value.trim()); let count = 0;
-    for (const person of alumni) {
-      const visible = (!query || normalize(person.dataset.search).includes(query)) && (kind.value === 'all' || person.dataset.kind === kind.value);
-      person.hidden = !visible; if (visible) count++;
-    }
-    $('#alumni-count').textContent = `${count} alumn${count === 1 ? 'us' : 'i'}`;
-    $('#no-alumni').hidden = count !== 0;
-  }
-  $('#alumni-filters').addEventListener('submit', event => event.preventDefault());
-  search.addEventListener('input', filterAlumni); kind.addEventListener('change', filterAlumni);
-  $('#reset-alumni').addEventListener('click', () => { search.value = ''; kind.value = 'all'; filterAlumni(); search.focus(); });
-}

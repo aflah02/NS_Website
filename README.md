@@ -26,9 +26,9 @@ All links are relative: the site works under `/NS_Website/`, on an MPI server, o
 
 ## What is included
 
-- Krishna Gummadi’s homepage, Research, Publications, People with Alumni, Resources, Contact, and Privacy pages, plus a 404 page.
+- Krishna Gummadi’s homepage, Research, Publications, People with Alumni, and Privacy pages, plus a 404 page.
 - 122 sourced publication records from 2000–2026, with title/author/venue search, research-area filters, year filters, publication-type filters, shareable filter URLs, citation dialogs, clipboard copy, and a downloadable BibTeX bibliography.
-- A searchable alumni section on People with 17 profiles, first post-MPI destinations, source links, and explicit labels where a destination is current rather than first.
+- An alumni section on People with 17 profiles, first post-MPI destinations, source links, and explicit labels where a destination is current rather than first.
 - A numbered navigation rail, self-hosted IBM Plex typography, paper-led overview, local portraits, keyboard focus states, reduced-motion support, semantic HTML, and content that remains readable without JavaScript.
 - A dependency-free static generator and validation command, with GitHub Actions integration.
 
@@ -40,7 +40,6 @@ All links are relative: the site works under `/NS_Website/`, on an MPI server, o
 | People, roles, profiles, and portrait filenames | `content/people.json` |
 | Alumni destinations and supporting sources | `content/alumni.json` |
 | Research areas and topic labels | `content/research.json` |
-| Software and data resources | `content/resources.json` |
 | Page structure and shared components | `scripts/build.py` |
 | Styling and responsive layout | `assets/style.css` |
 | Browser interactions | `assets/app.js` |

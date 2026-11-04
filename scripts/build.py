@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'dist'
 def read(name): return json.loads((ROOT / 'content' / (name + '.json')).read_text())
 def e(value): return html.escape(str(value), quote=True)
-PUBS, PEOPLE, ALUMNI, AREAS, RESOURCES = [read(x) for x in ('publications','people','alumni','research','resources')]
+PUBS, PEOPLE, ALUMNI, AREAS = [read(x) for x in ('publications','people','alumni','research')]
 LABELS = {a['id']: a['title'] for a in AREAS}
 ARROW = '<span aria-hidden="true">↗</span>'
 RIGHT = '<span aria-hidden="true">↗</span>'
@@ -23,7 +23,7 @@ def mark():
     return '<span class="brand-mark" aria-hidden="true">n<span>/</span>s</span>'
 
 def header(page):
-    nav=[('index','Overview'),('research','Research'),('publications','Publications'),('people','People'),('resources','Code & data'),('contact','Contact')]
+    nav=[('index','Overview'),('research','Research'),('publications','Publications'),('people','People')]
     links=''.join(f'<a href="{p}.html"'+(' aria-current="page"' if page==p or page=='home' and p=='index' else '')+f'><span class="nav-number">{i:02}</span>{t}<span class="nav-indicator" aria-hidden="true">↗</span></a>' for i,(p,t) in enumerate(nav))
     return f'''<a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"><div class="header-inner">
@@ -92,7 +92,6 @@ def home():
         <div class="resource-links">
             {link('research.html', 'Research')}
             {link('people.html', 'People & alumni')}
-            {link('contact.html', 'Contact')}
             {link('https://scholar.google.com/citations?user=Bz3APTsAAAAJ', 'Google Scholar')}
         </div>
     </div>
@@ -143,21 +142,15 @@ def alumni():
     rows=[]
     for p in ALUMNI:
         current=f'<p class="alumni-current">Now: <a href="{e(p["currentSource"])}">{e(p["current"])} {ARROW}</a></p>' if p.get('current') else ''
-        rows.append(f'''<article class="alumni-row" data-alumnus data-kind="{p['kind']}" data-search="{e(' '.join(str(x) for x in p.values()).casefold())}"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination"><span class="eyebrow">{e(p['destinationType'])}</span><h4>{e(p['destination'])}</h4><p>{e(p['destinationRole'])}</p>{current}</div><div class="alumni-source">{link(p['source'],'Source','subtle-link')}</div></article>''')
-    return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title"><div class="people-heading"><h2 id="alumni-title">Alumni</h2></div><div class="alumni-context"><p>“First destination” means the first recorded appointment after MPI.</p></div><form id="alumni-filters" class="alumni-filters" role="search"><label class="search-field"><span class="sr-only">Search alumni by name or destination</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg><input id="alumni-search" type="search" placeholder="Search a name or destination…" autocomplete="off"></label><label class="select-field"><span>At MPI</span><select id="alumni-kind"><option value="all">All alumni</option><option value="phd">Doctoral researchers</option><option value="postdoc">Postdoctoral researchers</option></select></label></form><div class="results-bar"><p id="alumni-count" role="status">{len(ALUMNI)} alumni</p><button id="reset-alumni" class="plain-button">Reset filters ↺</button></div><div class="alumni-list">{''.join(rows)}</div><div id="no-alumni" class="empty-state" hidden><h2>No matching alumni.</h2><p>Try a different name or destination, or reset the filters.</p></div></section>'''
-
-def resources():
-    cards=''.join(f'<article class="resource-card"><div class="card-top"><span class="eyebrow">{e(r["type"])}</span><span aria-hidden="true">↗</span></div><h2><a href="{e(r["url"])}">{e(r["title"])}</a></h2><p>{e(r["description"])}</p><span class="tag">{e(r["tag"])}</span><div class="resource-card-links">{link(r["url"],"Explore resource")}{link(r["paper"],"Research context","subtle-link")}</div></article>' for r in RESOURCES)
-    body=intro('04 / Open research','Code & data','Software, models, and data from our research and collaborations. Follow each project for documentation, licensing, and access details.')+f'<section class="container section resources-grid">{cards}</section><section class="container historical-note"><h2>Looking for an older project?</h2><p>The original website documents historical systems such as TrulyTweeting, Friendlist Manager, and privacy-awareness tools. Those services may no longer be maintained; their research remains part of the archive.</p>{link("https://people.mpi-sws.org/~gummadi/","Visit the original project archive")}</section>'
-    return layout('resources','Resources','Open-source software, models, datasets, and historical projects from the group and its collaborators.',body)
-
-def contact():
-    body=intro('05 / Contact','Contact','Interested in a research collaboration, doctoral study, or an internship? Explore our work and the institute’s application routes.')
-    body+='''<section class="container contact-grid section"><article><p class="eyebrow">RESEARCH & COLLABORATION</p><h2>Research inquiries</h2><p>For research inquiries, contact Krishna through his MPI-SWS profile. For a specific project, the researchers’ personal pages are a good starting point.</p>'''+link('https://people.mpi-sws.org/~gummadi/','Krishna’s contact information')+link('people.html','Find a researcher')+'''</article><article><p class="eyebrow">STUDY & RESEARCH AT MPI-SWS</p><h2>Doctoral & research positions</h2><p>Applications are handled through the institute’s official channels. Consult MPI-SWS for current doctoral, internship, and postdoctoral opportunities and application requirements.</p>'''+link('https://www.mpi-sws.org/graduate-studies/','Doctoral studies')+link('https://www.mpi-sws.org/research-careers/','Research careers')+'''</article></section><section class="location-section"><div class="container"><div><p class="eyebrow">MPI-SWS LOCATIONS</p><h2>Max Planck Institute<br>for Software Systems</h2><p>MPI-SWS has sites in Saarbrücken and Kaiserslautern.</p>'''+link('https://www.mpi-sws.org/about-us/#contact','Directions & institute contacts')+'''</div><div class="address-list"><address><span class="eyebrow">SAARBRÜCKEN</span><p>Campus E1 5<br>66123 Saarbrücken<br>Germany</p></address><address><span class="eyebrow">KAISERSLAUTERN</span><p>Paul-Ehrlich-Straße G 26<br>67663 Kaiserslautern<br>Germany</p></address></div></div></section>'''
-    return layout('contact','Contact','Research collaboration and study opportunities with the Networked Systems Research Group and MPI-SWS.',body)
+        rows.append(f'''<article class="alumni-row"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination"><span class="eyebrow">{e(p['destinationType'])}</span><h4>{e(p['destination'])}</h4><p>{e(p['destinationRole'])}</p>{current}</div><div class="alumni-source">{link(p['source'],'Source','subtle-link')}</div></article>''')
+    return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title">
+    <div class="people-heading"><h2 id="alumni-title">Alumni</h2></div>
+    <div class="alumni-context"><p>“First destination” means the first recorded appointment after MPI.</p></div>
+    <div class="alumni-list">{''.join(rows)}</div>
+    </section>'''
 
 def privacy():
-    body=intro('About this site','Privacy','This site serves research information and links to external resources.')+'<section class="container prose section"><h2>What this site stores</h2><p>The website does not include analytics, advertising, tracking cookies, forms, or accounts. Publication and alumni filters run in your browser. Search terms appear in the publication page URL so you can share a filtered view.</p><h2>Hosting and external links</h2><p>The hosting provider may process request information such as IP addresses and server logs. External websites have their own privacy practices. Fonts, scripts, and portraits are served with this website rather than loaded from third-party services.</p><h2>Institute information</h2><p>For institutional privacy information and contacts, see the <a href="https://data-protection.mpi-klsb.mpg.de/sws/www.mpi-sws.org">MPI-SWS data protection page</a>.</p></section>'
+    body=intro('About this site','Privacy','This site serves research information and links to external resources.')+'<section class="container prose section"><h2>What this site stores</h2><p>The website does not include analytics, advertising, tracking cookies, forms, or accounts. Publication filters run in your browser. Search terms appear in the publication page URL so you can share a filtered view.</p><h2>Hosting and external links</h2><p>The hosting provider may process request information such as IP addresses and server logs. External websites have their own privacy practices. Fonts, scripts, and portraits are served with this website rather than loaded from third-party services.</p><h2>Institute information</h2><p>For institutional privacy information and contacts, see the <a href="https://data-protection.mpi-klsb.mpg.de/sws/www.mpi-sws.org">MPI-SWS data protection page</a>.</p></section>'
     return layout('privacy','Privacy','Privacy information for this static research website.',body)
 
 def bibtex(p):
@@ -175,12 +168,13 @@ def bibtex(p):
 def main():
     OUT.mkdir(exist_ok=True)
     shutil.copytree(ROOT/'assets',OUT/'assets',dirs_exist_ok=True)
-    for name,fn in [('index',home),('research',research),('publications',publications),('people',people),('resources',resources),('contact',contact),('privacy',privacy)]:
+    for name,fn in [('index',home),('research',research),('publications',publications),('people',people),('privacy',privacy)]:
         (OUT/(name+'.html')).write_text(fn())
     (OUT/'publications.bib').write_text('\n\n'.join(bibtex(p) for p in PUBS)+'\n')
     (OUT/'assets/citations.json').write_text(json.dumps({p['id']:{'title':p['title'],'bibtex':bibtex(p)} for p in PUBS},ensure_ascii=False))
     (OUT/'.nojekyll').write_text('')
-    (OUT/'sources.html').unlink(missing_ok=True)
+    for retired_page in ('sources.html', 'contact.html', 'resources.html'):
+        (OUT / retired_page).unlink(missing_ok=True)
     (OUT/'alumni.html').write_text('''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><title>Alumni · Networked Systems Research Group</title>
 <meta http-equiv="refresh" content="0; url=people.html#alumni"></head>
