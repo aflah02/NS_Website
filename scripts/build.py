@@ -147,12 +147,12 @@ def people():
 def alumni():
     rows=[]
     for p in ALUMNI:
-        current=f'<p class="alumni-current">Now: <a href="{e(p["currentSource"])}">{e(p["current"])} {ARROW}</a></p>' if p.get('current') else ''
-        destination = e(p['destination'])
+        placement = ''
         if p.get('destinationType') == 'First destination':
-            destination = f'<strong>{destination}</strong>'
-        destination_role = f'<p>{e(p["destinationRole"])}</p>' if p.get('destinationRole') else ''
-        rows.append(f'''<article class="alumni-row"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div><span class="journey-arrow" aria-hidden="true">→</span><div class="alumni-destination"><h4>{destination}</h4>{destination_role}{current}</div></article>''')
+            role = f'<p>{e(p["destinationRole"])}</p>' if p.get('destinationRole') else ''
+            placement = f'''<span class="journey-arrow" aria-hidden="true">→</span>
+            <div class="alumni-destination"><h4><strong>{e(p['destination'])}</strong></h4>{role}</div>'''
+        rows.append(f'''<article class="alumni-row"><div class="alumni-name"><h3><a href="{e(p['url'])}">{e(p['name'])} {ARROW}</a></h3><p>{e(p['formerRole'])}</p></div>{placement}</article>''')
     return f'''<section class="container alumni-section" id="alumni" aria-labelledby="alumni-title">
     <div class="people-heading"><h2 id="alumni-title">Alumni</h2></div>
     <div class="alumni-context"><p>First destinations after MPI are highlighted where known.</p></div>

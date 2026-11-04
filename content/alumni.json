@@ -3,9 +3,6 @@
     "name": "Abhisek Dash",
     "kind": "postdoc",
     "formerRole": "Postdoctoral researcher",
-    "destination": "Max Planck Institute for Software Systems",
-    "destinationRole": "Research Group Leader",
-    "destinationType": "Current destination",
     "url": "https://www.mpi-sws.org/people/adash/",
     "source": "https://www.mpi-sws.org/people/adash/"
   },
@@ -17,9 +14,7 @@
     "destinationRole": "AI Researcher",
     "destinationType": "First destination",
     "url": "https://nvedant07.github.io/",
-    "source": "https://nvedant07.github.io/cv/cv.pdf",
-    "current": "AI Scientist · Mistral AI",
-    "currentSource": "https://nvedant07.github.io/cv/cv.pdf"
+    "source": "https://nvedant07.github.io/cv/cv.pdf"
   },
   {
     "name": "Junaid Ali",
@@ -35,7 +30,6 @@
     "name": "Vabuk Pahari",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "destination": "Destination to be confirmed",
     "url": "https://vpahari.github.io/",
     "source": "https://vpahari.github.io/"
   },
@@ -43,7 +37,6 @@
     "name": "Sepehr Mousavi",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "destination": "Destination to be confirmed",
     "url": "https://sepehrmousavi.github.io/",
     "source": "https://mpi-sws.org/research-areas/ai-computing-and-society/"
   },
@@ -51,12 +44,8 @@
     "name": "Till Speicher",
     "kind": "phd",
     "formerRole": "PhD researcher",
-    "destination": "Aleph Alpha",
-    "destinationRole": "AI Researcher",
-    "destinationType": "Current destination",
     "url": "https://tillspeicher.com/",
-    "source": "https://tillspeicher.com/",
-    "note": "First post-MPI appointment not specified in the source."
+    "source": "https://tillspeicher.com/"
   },
   {
     "name": "Preethi Lahoti",
@@ -100,9 +89,7 @@
     "destination": "Bosch Center for Artificial Intelligence",
     "destinationType": "First destination",
     "url": "https://people.mpi-sws.org/~mzafar/",
-    "source": "https://people.mpi-sws.org/~gummadi/",
-    "current": "Professor · Ruhr University Bochum",
-    "currentSource": "https://people.mpi-sws.org/~mzafar/"
+    "source": "https://people.mpi-sws.org/~gummadi/"
   },
   {
     "name": "Juhi Kulshrestha",

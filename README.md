@@ -28,7 +28,7 @@ All links are relative: the site works under `/NS_Website/`, on an MPI server, o
 
 - Krishna Gummadi’s homepage, Research, Publications, People with Alumni, and Privacy pages, plus a 404 page.
 - 220 sourced publication records from 2000–2026, with title, author, and venue search, shareable filters, and links to code, project pages, PDFs, or archival records where available.
-- An alumni section on People with 22 profiles and sourced first and current destinations.
+- An alumni section on People with 22 profiles with first appointments where documented.
 - A navigation rail, self-hosted IBM Plex typography, paper-led overview, local portraits, keyboard focus states, reduced-motion support, semantic HTML, and content that remains readable without JavaScript.
 - A dependency-free static generator and validation command, with GitHub Actions integration.
 
@@ -46,7 +46,7 @@ All links are relative: the site works under `/NS_Website/`, on an MPI server, o
 
 After editing, run the build and check commands. `dist/` is generated and intentionally untracked. Research-area IDs are `ai`, `fairness`, `social`, `privacy`, and `systems`. Publication IDs must be unique and stable. Use `published`, `accepted`, or `preprint` for publication status; use `arXiv` as the venue for preprints. Add a `source` URL for every paper, person, and alumni placement.
 
-For an alumnus, set `destinationType` to `First destination` only when the source explicitly supports that interpretation. Use `Current destination` for a verified current role, or omit the label when the destination is pending. Add a verified current role in `current` and its source in `currentSource` if desired. Do not infer graduation dates or current employment from old first-placement records.
+Record an alumnus’s first appointment in `destination` and `destinationRole` and set `destinationType` to `First destination` when the source supports it. Omit the destination fields when the first appointment is unconfirmed.
 
 ## Content provenance and scope
 

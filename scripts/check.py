@@ -78,7 +78,7 @@ alumni = json.loads((ROOT/'content/alumni.json').read_text())
 for p in json.loads((ROOT/'content/people.json').read_text()):
     if p.get('image') and not (OUT/'assets'/p['image']).exists(): errors.append('Missing portrait: '+p['name'])
 for p in alumni:
-    if p.get('destinationRole') and p.get('destinationType') not in ('First destination','Current destination'): errors.append('Unlabeled alumni destination')
+    if p.get('destination') and p.get('destinationType') != 'First destination': errors.append('Alumni destination must be first employment: '+p['name'])
     if not p.get('source') or not p.get('url'): errors.append('Alumni missing source/profile: '+p['name'])
 if errors:
     raise SystemExit('\n'.join(errors))
