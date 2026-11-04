@@ -70,5 +70,67 @@
     "url": "https://camilakolling.github.io/",
     "image": "camila.jpg",
     "source": "https://camilakolling.github.io/"
+  },
+  {
+    "name": "Shounak Paul",
+    "role": "Postdoctoral Researcher",
+    "category": "postdoc",
+    "interests": "AI, social computing, and content moderation",
+    "url": "https://sites.google.com/view/shounakpaul95",
+    "source": "https://www.mpi-sws.org/people/shpaul/",
+    "image": "shounak.jpg"
+  },
+  {
+    "name": "Tomas Koref",
+    "role": "Postdoctoral Researcher",
+    "category": "postdoc",
+    "interests": "",
+    "url": "https://www.mpi-sws.org/people/tkoref/",
+    "source": "https://www.mpi-sws.org/people/tkoref/",
+    "image": "tomas.jpg"
+  },
+  {
+    "name": "Nakyeong Yang",
+    "role": "Postdoctoral Researcher",
+    "category": "postdoc",
+    "interests": "LLM interpretability, memorization, and knowledge",
+    "url": "https://yny0506.github.io/",
+    "source": "https://www.mpi-sws.org/people/nyang/",
+    "image": "nakyeong.jpg"
+  },
+  {
+    "name": "Kyeongjin Ahn",
+    "role": "Postdoctoral Researcher",
+    "category": "postdoc",
+    "interests": "",
+    "url": "https://www.mpi-sws.org/people/kahn/",
+    "source": "https://www.mpi-sws.org/people/kahn/",
+    "image": "kyeongjin.jpg"
+  },
+  {
+    "name": "Pushpdeep Singh",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "Computational social science and content moderation",
+    "url": "https://sites.google.com/view/pushpdeep",
+    "source": "https://www.mpi-sws.org/people/psingh/",
+    "image": "pushpdeep.jpg"
+  },
+  {
+    "name": "Faezeh Nassajian Mojarrad",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "",
+    "url": "https://www.mpi-sws.org/people/fnassaji/",
+    "source": "https://www.mpi-sws.org/people/fnassaji/",
+    "image": "faezeh.jpg"
+  },
+  {
+    "name": "Sayeh Jarollahi",
+    "role": "Doctoral Student",
+    "category": "phd",
+    "interests": "Content moderation and foundation models",
+    "url": "https://moderation-bench.github.io/",
+    "source": "https://moderation-bench.github.io/"
   }
 ]
